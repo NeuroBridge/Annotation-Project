@@ -1,2 +1,2 @@
 # Annotation-Project
-Shared materials from the annotation projects running at GSU
+Shared materials from the annotation projects running at GSU.
