@@ -18,7 +18,18 @@ These were:
 
 Before we got the system working, we had to create a new annotation layer. This followed the instructions from the Google group:
 
+The settings are in the file `layer.json` in this folder.
 
+### Feature
+
+We also had to create a feature, called 'identifier' that had the following settings:
+
++ Name: identifier
++ Type: KB: Concept/Instance/Property
++ Options: Enabled, Visible, Show in Tooltip, Remember
++ Allowed Values: \<Any Concept/Instance\>
++ Knowledge Base: \<Any Knowledge Base\>
++ No settings for "scope" or "keybindings"
 
 ## CAS Doctor
 
