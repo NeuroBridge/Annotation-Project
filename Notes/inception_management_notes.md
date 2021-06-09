@@ -13,7 +13,7 @@ During the massive upload of all of the text files for annotation, the system cr
 + PMC6177312
 + PMC6205927
 
-At least those were the only files listed as having errors.
+At least those were the only files listed as having errors. FIles seemed to upload just fine when I tried again a few minutes later. Note that the second large batch took a **very** long time to load before the failure messages.
 
 ## Manual Ontology Settings
 
