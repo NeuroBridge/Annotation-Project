@@ -2,6 +2,19 @@
 
 These notes are just so that we can remember what we were doing to get things working.
 
+## Mass File Upload
+
+During the massive upload of all of the text files for annotation, the system crashed with an `OutOfMemoryError: Java Heap Space` for (apparently) 6 files. Not sure if this is a problem with these particular files or with doing all of Ray's files back to back at once. The files were:
+
++ PMC6087614
++ PMC6128779
++ PMC6130867
++ PMC6150844
++ PMC6177312
++ PMC6205927
+
+At least those were the only files listed as having errors.
+
 ## Manual Ontology Settings
 
 For the imported ontology, we had to manually set root concepts:
