@@ -8,7 +8,7 @@
   "views" : [ {
     "id" : "v1",
     "metadata" : {
-      "timestamp" : "2021-06-11T18:26:15.941215Z[UTC]",
+      "timestamp" : "2021-06-15T18:13:25.043119Z[UTC]",
       "contains" : {
         "http://vocab.lappsgrid.org/Paragraph" : {
           "producer" : "DKPro Core LIF Converter",
