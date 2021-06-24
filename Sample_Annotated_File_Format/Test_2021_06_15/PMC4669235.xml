@@ -28,7 +28,9 @@
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="85" end="86" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">A</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="87" end="100" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Resting-State</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="87" end="100" identifier="http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImagi...">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="87" end="100" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Resting-State</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="101" end="106" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Study</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
         </de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence>
@@ -169,15 +171,15 @@
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="621" end="623" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">on</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <webanno.custom.ConceptLayer sofa="Sofa" begin="624" end="652" identifier="http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImagi...">
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="624" end="642" identifier="http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImagi...">
                 <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="624" end="637" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">resting-state</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
                  
                 <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="638" end="642" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">fMRI</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-                 
-                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="643" end="644" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">(</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="644" end="651" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">rs-fMRI</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="651" end="652" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">)</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
             </webanno.custom.ConceptLayer>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="643" end="644" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">(</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="644" end="651" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">rs-fMRI</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="651" end="652" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">)</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="653" end="657" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">data</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
@@ -185,31 +187,31 @@
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="663" end="665" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">25</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <webanno.custom.ConceptLayer sofa="Sofa" begin="666" end="688" identifier="http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse">
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="666" end="683" identifier="http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse">
                 <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="666" end="673" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">alcohol</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
                  
                 <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="674" end="683" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">dependent</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-                 
-                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="684" end="685" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">(</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="685" end="687" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">AD</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="687" end="688" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">)</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
             </webanno.custom.ConceptLayer>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="684" end="685" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">(</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="685" end="687" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">AD</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="687" end="688" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">)</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="689" end="692" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">and</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="693" end="695" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">26</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <webanno.custom.ConceptLayer sofa="Sofa" begin="696" end="729" identifier="http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#node1f7t...">
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="696" end="711" identifier="http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#node1f7t...">
                 <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="696" end="703" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">healthy</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
                  
                 <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="704" end="711" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">control</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-                 
-                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="712" end="713" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">(</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="713" end="715" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">HC</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="715" end="716" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">)</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-                 
-                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="717" end="729" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">participants</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
             </webanno.custom.ConceptLayer>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="712" end="713" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">(</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="713" end="715" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">HC</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="715" end="716" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">)</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+             
+            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="717" end="729" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">participants</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="729" end="730" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">,</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="731" end="733" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">we</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
@@ -1208,9 +1210,11 @@
         </de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence>
         
         <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence sofa="Sofa" begin="3998" end="5538" id="null">
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="3998" end="4011" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Resting-state</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-             
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="4012" end="4016" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">fMRI</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="3998" end="4016" identifier="http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImagi...">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="3998" end="4011" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Resting-state</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                 
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="4012" end="4016" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">fMRI</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="4017" end="4024" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">enables</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
@@ -1418,9 +1422,11 @@
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="4708" end="4711" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">and</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="4712" end="4719" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">healthy</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-             
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="4720" end="4728" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">controls</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="4712" end="4728" identifier="http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#node1f7t...">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="4712" end="4719" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">healthy</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                 
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="4720" end="4728" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">controls</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="4729" end="4730" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">(</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="4730" end="4732" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">HC</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
@@ -1701,7 +1707,9 @@
         <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence sofa="Sofa" begin="5578" end="6361" id="null">
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5578" end="5589" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Twenty-five</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5590" end="5607" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">alcohol-dependent</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="5590" end="5607" identifier="http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5590" end="5607" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">alcohol-dependent</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5608" end="5609" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">(</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5609" end="5611" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">AD</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
@@ -1750,9 +1758,11 @@
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5700" end="5702" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">26</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5703" end="5710" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">healthy</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-             
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5711" end="5719" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">controls</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="5703" end="5719" identifier="http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#node1f7t...">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5703" end="5710" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">healthy</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                 
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5711" end="5719" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">controls</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5720" end="5721" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">(</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5721" end="5723" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">HC</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
@@ -1810,9 +1820,11 @@
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5840" end="5841" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">)</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5841" end="5842" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">.</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5843" end="5850" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Healthy</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-             
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5851" end="5859" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">controls</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="5843" end="5859" identifier="http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#node1f7t...">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5843" end="5850" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Healthy</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                 
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5851" end="5859" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">controls</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="5860" end="5864" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">were</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
@@ -1853,7 +1865,9 @@
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="6007" end="6010" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">the</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="6011" end="6028" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">alcohol-dependent</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="6011" end="6028" identifier="http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="6011" end="6028" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">alcohol-dependent</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="6029" end="6034" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">group</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
@@ -3072,17 +3086,19 @@
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9822" end="9837" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">High-resolution</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9838" end="9840" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">T1</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9840" end="9841" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">-</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9841" end="9849" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">weighted</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-             
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9850" end="9851" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">3</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9851" end="9852" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">-</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9852" end="9853" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">D</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-             
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9854" end="9864" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">structural</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-             
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9865" end="9870" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">scans</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="9838" end="9870" identifier="http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9838" end="9840" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">T1</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9840" end="9841" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">-</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9841" end="9849" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">weighted</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                 
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9850" end="9851" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">3</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9851" end="9852" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">-</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9852" end="9853" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">D</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                 
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9854" end="9864" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">structural</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                 
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9865" end="9870" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">scans</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9871" end="9875" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">were</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
@@ -3132,11 +3148,13 @@
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9984" end="9985" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">)</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9985" end="9986" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">.</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9987" end="9994" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Resting</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-             
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9995" end="10000" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">state</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-             
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="10001" end="10005" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">fMRI</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="9987" end="10005" identifier="http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImagi...">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9987" end="9994" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Resting</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                 
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="9995" end="10000" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">state</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                 
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="10001" end="10005" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">fMRI</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="10006" end="10014" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">datasets</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
@@ -6812,7 +6830,9 @@
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="20913" end="20916" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">the</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="20917" end="20930" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">resting-state</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="20917" end="20930" identifier="http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImagi...">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="20917" end="20930" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">resting-state</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="20931" end="20933" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">FC</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
@@ -7837,7 +7857,9 @@
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="24159" end="24168" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">increased</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="24169" end="24182" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">resting-state</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="24169" end="24182" identifier="http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImagi...">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="24169" end="24182" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">resting-state</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="24183" end="24185" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">FC</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
@@ -10406,7 +10428,9 @@
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="32241" end="32248" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">amongst</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="32249" end="32266" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">alcohol-dependent</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="32249" end="32266" identifier="http://maven.renci.org/NeuroBridge/neurobridge#AlcoholAbuse">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="32249" end="32266" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">alcohol-dependent</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="32267" end="32275" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">subjects</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="32275" end="32276" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">,</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
@@ -10470,9 +10494,11 @@
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="32445" end="32447" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">or</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="32448" end="32455" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">healthy</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
-             
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="32456" end="32464" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">controls</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="32448" end="32464" identifier="http://www.ukp.informatik.tu-darmstadt.de/inception/1.0#node1f7t...">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="32448" end="32455" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">healthy</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+                 
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="32456" end="32464" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">controls</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="32465" end="32468" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">who</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
@@ -11370,7 +11396,9 @@
         </de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence>
         
         <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence sofa="Sofa" begin="35000" end="35086" id="null">
-            <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="35000" end="35013" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Resting-state</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            <webanno.custom.ConceptLayer sofa="Sofa" begin="35000" end="35013" identifier="http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImagi...">
+                <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="35000" end="35013" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">Resting-state</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
+            </webanno.custom.ConceptLayer>
              
             <de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token sofa="Sofa" begin="35014" end="35023" parent="null" lemma="null" stem="null" pos="null" morph="null" id="null" form="null" syntacticFunction="null" order="0">synchrony</de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token>
              
