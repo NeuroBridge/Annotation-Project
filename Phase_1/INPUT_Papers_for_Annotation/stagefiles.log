@@ -1,0 +1,28 @@
+2021-10-29 22:09:12,658 : INFO : stagefiles.py started.
+2021-10-29 22:09:12,661 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
+2021-10-29 22:09:12,661 : ERROR : Command line arguments incorrect.
+2021-10-29 22:09:12,661 : ERROR : stagefile.py ended (badly).
+2021-10-29 22:09:41,713 : INFO : stagefiles.py started.
+2021-10-29 22:09:41,713 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
+2021-10-29 22:09:41,713 : INFO : Input directory is:  Source.
+2021-10-29 22:09:41,723 : INFO : Output directory is: Staging.
+2021-10-29 22:09:41,723 : INFO : File list is in:     group2.csv.
+2021-10-29 22:09:41,747 : INFO : far.py ended.
+2021-10-29 22:10:06,713 : INFO : stagefiles.py started.
+2021-10-29 22:10:06,713 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
+2021-10-29 22:10:06,713 : INFO : Input directory is:  Source.
+2021-10-29 22:10:06,713 : INFO : Output directory is: Staging.
+2021-10-29 22:10:06,713 : INFO : File list is in:     group2.csv.
+2021-10-29 22:10:06,747 : INFO : far.py ended.
+2021-10-29 22:10:48,710 : INFO : stagefiles.py started.
+2021-10-29 22:10:48,710 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
+2021-10-29 22:10:48,710 : INFO : Input directory is:  Source.
+2021-10-29 22:10:48,710 : INFO : Output directory is: Staging.
+2021-10-29 22:10:48,710 : INFO : File list is in:     group2.csv.
+2021-10-29 22:10:48,719 : INFO : far.py ended.
+2021-10-29 22:11:03,470 : INFO : stagefiles.py started.
+2021-10-29 22:11:03,470 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
+2021-10-29 22:11:03,470 : INFO : Input directory is:  Source.
+2021-10-29 22:11:03,470 : INFO : Output directory is: Staging.
+2021-10-29 22:11:03,470 : INFO : File list is in:     group2.csv.
+2021-10-29 22:11:03,491 : INFO : far.py ended.

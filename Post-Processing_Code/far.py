@@ -16,7 +16,7 @@ import glob
 import logging
 
 logging.basicConfig(filename='far.log', filemode='a', format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
-logging.info("far started.")
+logging.info("far.py started.")
 logging.info("Current absolute directory: %s.", os.path.abspath(os.getcwd()))
 
 new_extension = ".wtsv"
@@ -26,7 +26,7 @@ new_extension = ".wtsv"
 n = len(sys.argv)
 if n != 3:
     logging.error("Command line arguments incorrect.")
-    logging.error("far ended (badly).")
+    logging.error("far.py ended (badly).")
     raise RuntimeError("Incorrect number of command line arguments (specify IN and OUT dirs).")
 
 input_dir  = sys.argv[1]
@@ -57,6 +57,6 @@ for folder in os.listdir(input_dir):
 
 # Wrap up
 
-logging.info("far ended.")
+logging.info("far.py ended.")
 
 # EOF
