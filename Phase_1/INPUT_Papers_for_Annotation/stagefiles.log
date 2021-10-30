@@ -1,28 +1,78 @@
-2021-10-29 22:09:12,658 : INFO : stagefiles.py started.
-2021-10-29 22:09:12,661 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
-2021-10-29 22:09:12,661 : ERROR : Command line arguments incorrect.
-2021-10-29 22:09:12,661 : ERROR : stagefile.py ended (badly).
-2021-10-29 22:09:41,713 : INFO : stagefiles.py started.
-2021-10-29 22:09:41,713 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
-2021-10-29 22:09:41,713 : INFO : Input directory is:  Source.
-2021-10-29 22:09:41,723 : INFO : Output directory is: Staging.
-2021-10-29 22:09:41,723 : INFO : File list is in:     group2.csv.
-2021-10-29 22:09:41,747 : INFO : far.py ended.
-2021-10-29 22:10:06,713 : INFO : stagefiles.py started.
-2021-10-29 22:10:06,713 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
-2021-10-29 22:10:06,713 : INFO : Input directory is:  Source.
-2021-10-29 22:10:06,713 : INFO : Output directory is: Staging.
-2021-10-29 22:10:06,713 : INFO : File list is in:     group2.csv.
-2021-10-29 22:10:06,747 : INFO : far.py ended.
-2021-10-29 22:10:48,710 : INFO : stagefiles.py started.
-2021-10-29 22:10:48,710 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
-2021-10-29 22:10:48,710 : INFO : Input directory is:  Source.
-2021-10-29 22:10:48,710 : INFO : Output directory is: Staging.
-2021-10-29 22:10:48,710 : INFO : File list is in:     group2.csv.
-2021-10-29 22:10:48,719 : INFO : far.py ended.
-2021-10-29 22:11:03,470 : INFO : stagefiles.py started.
-2021-10-29 22:11:03,470 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
-2021-10-29 22:11:03,470 : INFO : Input directory is:  Source.
-2021-10-29 22:11:03,470 : INFO : Output directory is: Staging.
-2021-10-29 22:11:03,470 : INFO : File list is in:     group2.csv.
-2021-10-29 22:11:03,491 : INFO : far.py ended.
+2021-10-29 22:24:03,252 : INFO : stagefiles.py started.
+2021-10-29 22:24:03,252 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
+2021-10-29 22:24:03,252 : INFO : Input directory is:  Source.
+2021-10-29 22:24:03,252 : INFO : Output directory is: Staging.
+2021-10-29 22:24:03,252 : INFO : File list is in:     group2.csv.
+2021-10-29 22:24:03,252 : INFO : Moving Source\PMC4917471.txt to Staging.
+2021-10-29 22:24:03,253 : WARNING : Ignoring Source\PMC4917471.txt (probably already moved?).
+2021-10-29 22:24:03,253 : INFO : Moving Source\PMC4932513.txt to Staging.
+2021-10-29 22:24:03,260 : WARNING : Ignoring Source\PMC4932513.txt (probably already moved?).
+2021-10-29 22:24:03,260 : INFO : Moving Source\PMC5012952.txt to Staging.
+2021-10-29 22:24:03,260 : WARNING : Ignoring Source\PMC5012952.txt (probably already moved?).
+2021-10-29 22:24:03,260 : INFO : Moving Source\PMC5030462.txt to Staging.
+2021-10-29 22:24:03,260 : WARNING : Ignoring Source\PMC5030462.txt (probably already moved?).
+2021-10-29 22:24:03,260 : INFO : Moving Source\PMC5133646.txt to Staging.
+2021-10-29 22:24:03,260 : WARNING : Ignoring Source\PMC5133646.txt (probably already moved?).
+2021-10-29 22:24:03,260 : INFO : Moving Source\PMC5153672.txt to Staging.
+2021-10-29 22:24:03,264 : INFO : Moving Source\PMC5183556.txt to Staging.
+2021-10-29 22:24:03,266 : INFO : Moving Source\PMC5249106.txt to Staging.
+2021-10-29 22:24:03,268 : INFO : Moving Source\PMC5347082.txt to Staging.
+2021-10-29 22:24:03,271 : INFO : Moving Source\PMC5416677.txt to Staging.
+2021-10-29 22:24:03,273 : INFO : Moving Source\PMC5420342.txt to Staging.
+2021-10-29 22:24:03,276 : INFO : Moving Source\PMC5420345.txt to Staging.
+2021-10-29 22:24:03,279 : INFO : Moving Source\PMC5432384.txt to Staging.
+2021-10-29 22:24:03,281 : INFO : Moving Source\PMC5548624.txt to Staging.
+2021-10-29 22:24:03,284 : INFO : Moving Source\PMC5675790.txt to Staging.
+2021-10-29 22:24:03,286 : INFO : Moving Source\PMC5865171.txt to Staging.
+2021-10-29 22:24:03,289 : INFO : Moving Source\PMC6029565.txt to Staging.
+2021-10-29 22:24:03,291 : INFO : Moving Source\PMC6105009.txt to Staging.
+2021-10-29 22:24:03,293 : INFO : Moving Source\PMC6120475.txt to Staging.
+2021-10-29 22:24:03,295 : INFO : Moving Source\PMC6205927.txt to Staging.
+2021-10-29 22:24:03,296 : INFO : Moving Source\PMC6413302.txt to Staging.
+2021-10-29 22:24:03,299 : INFO : Moving Source\PMC6447492.txt to Staging.
+2021-10-29 22:24:03,300 : INFO : Moving Source\PMC6537905.txt to Staging.
+2021-10-29 22:24:03,301 : INFO : Moving Source\PMC6551253.txt to Staging.
+2021-10-29 22:24:03,303 : INFO : Moving Source\PMC6641556.txt to Staging.
+2021-10-29 22:24:03,303 : WARNING : Ignoring Source\PMC6641556.txt (probably already moved?).
+2021-10-29 22:24:03,303 : INFO : Moving Source\PMC6677917.txt to Staging.
+2021-10-29 22:24:03,304 : INFO : Moving Source\PMC6905532.txt to Staging.
+2021-10-29 22:24:03,305 : INFO : Moving Source\PMC7064048.txt to Staging.
+2021-10-29 22:24:03,307 : INFO : Moving Source\PMC7097849.txt to Staging.
+2021-10-29 22:24:03,308 : INFO : Moving Source\PMC7428193.txt to Staging.
+2021-10-29 22:24:03,309 : INFO : far.py ended.
+2021-10-29 22:27:11,218 : INFO : stagefiles.py started.
+2021-10-29 22:27:11,218 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
+2021-10-29 22:27:11,218 : INFO : Input directory is:  Source.
+2021-10-29 22:27:11,218 : INFO : Output directory is: Staging.
+2021-10-29 22:27:11,218 : INFO : File list is in:     group2.csv.
+2021-10-29 22:27:11,220 : WARNING : Ignoring Source\PMC4917471.txt (probably already moved?).
+2021-10-29 22:27:11,220 : WARNING : Ignoring Source\PMC4932513.txt (probably already moved?).
+2021-10-29 22:27:11,220 : WARNING : Ignoring Source\PMC5012952.txt (probably already moved?).
+2021-10-29 22:27:11,221 : WARNING : Ignoring Source\PMC5030462.txt (probably already moved?).
+2021-10-29 22:27:11,222 : INFO : Moving Source\PMC5133646.txt to Staging.
+2021-10-29 22:27:11,222 : INFO : Moving Source\PMC5153672.txt to Staging.
+2021-10-29 22:27:11,223 : INFO : Moving Source\PMC5183556.txt to Staging.
+2021-10-29 22:27:11,224 : INFO : Moving Source\PMC5249106.txt to Staging.
+2021-10-29 22:27:11,226 : INFO : Moving Source\PMC5347082.txt to Staging.
+2021-10-29 22:27:11,227 : INFO : Moving Source\PMC5416677.txt to Staging.
+2021-10-29 22:27:11,228 : INFO : Moving Source\PMC5420342.txt to Staging.
+2021-10-29 22:27:11,229 : INFO : Moving Source\PMC5420345.txt to Staging.
+2021-10-29 22:27:11,230 : INFO : Moving Source\PMC5432384.txt to Staging.
+2021-10-29 22:27:11,232 : INFO : Moving Source\PMC5548624.txt to Staging.
+2021-10-29 22:27:11,233 : INFO : Moving Source\PMC5675790.txt to Staging.
+2021-10-29 22:27:11,234 : INFO : Moving Source\PMC5865171.txt to Staging.
+2021-10-29 22:27:11,235 : INFO : Moving Source\PMC6029565.txt to Staging.
+2021-10-29 22:27:11,236 : INFO : Moving Source\PMC6105009.txt to Staging.
+2021-10-29 22:27:11,237 : INFO : Moving Source\PMC6120475.txt to Staging.
+2021-10-29 22:27:11,238 : INFO : Moving Source\PMC6205927.txt to Staging.
+2021-10-29 22:27:11,239 : INFO : Moving Source\PMC6413302.txt to Staging.
+2021-10-29 22:27:11,240 : INFO : Moving Source\PMC6447492.txt to Staging.
+2021-10-29 22:27:11,241 : INFO : Moving Source\PMC6537905.txt to Staging.
+2021-10-29 22:27:11,241 : INFO : Moving Source\PMC6551253.txt to Staging.
+2021-10-29 22:27:11,242 : WARNING : Ignoring Source\PMC6641556.txt (probably already moved?).
+2021-10-29 22:27:11,244 : INFO : Moving Source\PMC6677917.txt to Staging.
+2021-10-29 22:27:11,245 : INFO : Moving Source\PMC6905532.txt to Staging.
+2021-10-29 22:27:11,246 : INFO : Moving Source\PMC7064048.txt to Staging.
+2021-10-29 22:27:11,247 : INFO : Moving Source\PMC7097849.txt to Staging.
+2021-10-29 22:27:11,247 : INFO : Moving Source\PMC7428193.txt to Staging.
+2021-10-29 22:27:11,248 : INFO : staging.py ended.

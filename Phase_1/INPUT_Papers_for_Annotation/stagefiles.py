@@ -32,11 +32,16 @@ if not os.path.exists(to_dir):
 
 with open(file_list) as f:
     for line in f:
-        print(line)
-
+        try:
+            src = from_dir + '\\' + line.strip() + '.txt'
+            dst = to_dir
+            shutil.move(src, dst)
+            logging.info("Moving %s to %s.", src, dst)
+        except:
+            logging.warning("Ignoring %s (probably already moved?).", src)
 
 # Wrap up
 
-logging.info("far.py ended.")
+logging.info("staging.py ended.")
 
 # EOF
