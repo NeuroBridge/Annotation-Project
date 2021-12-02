@@ -3,7 +3,6 @@
 import os
 import shutil
 import sys
-import glob
 import logging
 
 logging.basicConfig(filename='stagefiles.log', filemode='a', format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
