@@ -34,3 +34,33 @@
 2021-10-29 22:27:11,247 : INFO : Moving Source\PMC7097849.txt to Staging.
 2021-10-29 22:27:11,247 : INFO : Moving Source\PMC7428193.txt to Staging.
 2021-10-29 22:27:11,248 : INFO : staging.py ended.
+2021-12-02 12:47:44,358 : INFO : stagefiles.py started.
+2021-12-02 12:47:44,358 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
+2021-12-02 12:47:44,358 : ERROR : Command line arguments incorrect.
+2021-12-02 12:47:44,358 : ERROR : stagefile.py ended (badly).
+2021-12-02 12:48:21,427 : INFO : stagefiles.py started.
+2021-12-02 12:48:21,427 : INFO : Current absolute directory: C:\Users\magnetic\Documents\GitHub\Annotation-Project\Phase_1\INPUT_Papers_for_Annotation.
+2021-12-02 12:48:21,427 : INFO : Input directory is:  Source.
+2021-12-02 12:48:21,428 : INFO : Output directory is: Staging.
+2021-12-02 12:48:21,428 : INFO : File list is in:     group3.csv.
+2021-12-02 12:48:21,429 : INFO : Moving Source\PMC5361832.txt to Staging.
+2021-12-02 12:48:21,430 : INFO : Moving Source\PMC4960447.txt to Staging.
+2021-12-02 12:48:21,432 : INFO : Moving Source\PMC5749425.txt to Staging.
+2021-12-02 12:48:21,433 : INFO : Moving Source\PMC7275517.txt to Staging.
+2021-12-02 12:48:21,434 : INFO : Moving Source\PMC5104674.txt to Staging.
+2021-12-02 12:48:21,435 : INFO : Moving Source\PMC5862477.txt to Staging.
+2021-12-02 12:48:21,436 : INFO : Moving Source\PMC5554148.txt to Staging.
+2021-12-02 12:48:21,437 : INFO : Moving Source\PMC6841919.txt to Staging.
+2021-12-02 12:48:21,438 : INFO : Moving Source\PMC6010171.txt to Staging.
+2021-12-02 12:48:21,440 : INFO : Moving Source\PMC5425311.txt to Staging.
+2021-12-02 12:48:21,441 : INFO : Moving Source\PMC4935649.txt to Staging.
+2021-12-02 12:48:21,442 : INFO : Moving Source\PMC6362203.txt to Staging.
+2021-12-02 12:48:21,442 : INFO : Moving Source\PMC6130867.txt to Staging.
+2021-12-02 12:48:21,443 : INFO : Moving Source\PMC5837898.txt to Staging.
+2021-12-02 12:48:21,445 : INFO : Moving Source\PMC6045574.txt to Staging.
+2021-12-02 12:48:21,446 : INFO : Moving Source\PMC6612476.txt to Staging.
+2021-12-02 12:48:21,447 : INFO : Moving Source\PMC5147458.txt to Staging.
+2021-12-02 12:48:21,449 : INFO : Moving Source\PMC5773029.txt to Staging.
+2021-12-02 12:48:21,450 : INFO : Moving Source\PMC6128822.txt to Staging.
+2021-12-02 12:48:21,452 : INFO : Moving Source\PMC5625840.txt to Staging.
+2021-12-02 12:48:21,452 : INFO : stagefiles.py ended.
