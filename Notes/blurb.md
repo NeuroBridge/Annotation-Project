@@ -4,7 +4,7 @@
 
 Work activities:
 
-Students working on this project will read and review papers covering topics in neuroimaging and cognitive neuroscience. While reading the papers they will search for and annotate critical text features (specific words and sentences) that identify:
+Students working on this project will read and review papers covering topics in neuroimaging and cognitive neuroscience. While reading the papers they will search for and annotate critical text features (specific words and sentences) that identify aspects of the experimental design and analysis:
 
 1. How the data was collected
 2. Participant populations
@@ -20,4 +20,4 @@ Specific student skills:
    - Scientific ontologies and semantic web systems
    - Tools used for semantic markup (Inception)
    - How to work with controlled vocabularies and systematically organized knowledge
-3. ???
+3. Students have the opportunity to present on the material to a larger multi-site collaboration
