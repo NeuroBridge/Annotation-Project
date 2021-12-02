@@ -41,6 +41,6 @@ with open(file_list) as f:
 
 # Wrap up
 
-logging.info("staging.py ended.")
+logging.info("stagefiles.py ended.")
 
 # EOF
