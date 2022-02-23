@@ -2,3 +2,18 @@
 Notes/Images/2021-06-11_newProblem.png
 **/TEMP_Intermediate_Results
 *.log
+
+# VSC
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
