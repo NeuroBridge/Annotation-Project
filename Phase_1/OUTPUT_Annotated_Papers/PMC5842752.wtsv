@@ -1,0 +1,5829 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.ConceptLayer|identifier
+
+
+#Text=Effect of rs1344706 in the ZNF804A gene on the brain network
+#Text=ZNF804A rs1344706 (A/C) was the first SNP that reached genome-wide significance for schizophrenia.
+1-1	0-6	Effect	_	
+1-2	7-9	of	_	
+1-3	10-19	rs1344706	_	
+1-4	20-22	in	_	
+1-5	23-26	the	_	
+1-6	27-34	ZNF804A	_	
+1-7	35-39	gene	_	
+1-8	40-42	on	_	
+1-9	43-46	the	_	
+1-10	47-52	brain	_	
+1-11	53-60	network	_	
+1-12	61-68	ZNF804A	_	
+1-13	69-78	rs1344706	_	
+1-14	79-80	(	_	
+1-15	80-81	A	_	
+1-16	81-82	/	_	
+1-17	82-83	C	_	
+1-18	83-84	)	_	
+1-19	85-88	was	_	
+1-20	89-92	the	_	
+1-21	93-98	first	_	
+1-22	99-102	SNP	_	
+1-23	103-107	that	_	
+1-24	108-115	reached	_	
+1-25	116-127	genome-wide	_	
+1-26	128-140	significance	_	
+1-27	141-144	for	_	
+1-28	145-158	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia	
+1-29	158-159	.	_	
+
+#Text=Recent studies have linked rs1344706 to functional connectivity among specific brain regions.
+2-1	160-166	Recent	_	
+2-2	167-174	studies	_	
+2-3	175-179	have	_	
+2-4	180-186	linked	_	
+2-5	187-196	rs1344706	_	
+2-6	197-199	to	_	
+2-7	200-210	functional	_	
+2-8	211-223	connectivity	_	
+2-9	224-229	among	_	
+2-10	230-238	specific	_	
+2-11	239-244	brain	_	
+2-12	245-252	regions	_	
+2-13	252-253	.	_	
+
+#Text=However, no study thus far has examined the role of this SNP in the entire functional connectome.
+3-1	254-261	However	_	
+3-2	261-262	,	_	
+3-3	263-265	no	_	
+3-4	266-271	study	_	
+3-5	272-276	thus	_	
+3-6	277-280	far	_	
+3-7	281-284	has	_	
+3-8	285-293	examined	_	
+3-9	294-297	the	_	
+3-10	298-302	role	_	
+3-11	303-305	of	_	
+3-12	306-310	this	_	
+3-13	311-314	SNP	_	
+3-14	315-317	in	_	
+3-15	318-321	the	_	
+3-16	322-328	entire	_	
+3-17	329-339	functional	_	
+3-18	340-350	connectome	_	
+3-19	350-351	.	_	
+
+#Text=In this study, we used degree centrality to test the role of rs1344706 in the whole-brain voxel-wise functional connectome during the resting state. 52 schizophrenia patients and 128 healthy controls were included in the final analysis.
+4-1	352-354	In	_	
+4-2	355-359	this	_	
+4-3	360-365	study	_	
+4-4	365-366	,	_	
+4-5	367-369	we	_	
+4-6	370-374	used	_	
+4-7	375-381	degree	_	
+4-8	382-392	centrality	_	
+4-9	393-395	to	_	
+4-10	396-400	test	_	
+4-11	401-404	the	_	
+4-12	405-409	role	_	
+4-13	410-412	of	_	
+4-14	413-422	rs1344706	_	
+4-15	423-425	in	_	
+4-16	426-429	the	_	
+4-17	430-441	whole-brain	_	
+4-18	442-452	voxel-wise	_	
+4-19	453-463	functional	_	
+4-20	464-474	connectome	_	
+4-21	475-481	during	_	
+4-22	482-485	the	_	
+4-23	486-493	resting	_	
+4-24	494-499	state	_	
+4-25	499-500	.	_	
+4-26	501-503	52	_	
+4-27	504-517	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia	
+4-28	518-526	patients	_	
+4-29	527-530	and	_	
+4-30	531-534	128	_	
+4-31	535-542	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[1]	
+4-32	543-551	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[1]	
+4-33	552-556	were	_	
+4-34	557-565	included	_	
+4-35	566-568	in	_	
+4-36	569-572	the	_	
+4-37	573-578	final	_	
+4-38	579-587	analysis	_	
+4-39	587-588	.	_	
+
+#Text=In our whole-brain analysis, we found a significant interaction effect of genotype × diagnosis at the precuneus (PCU) (cluster size = 52 voxels, peak voxel MNI coordinates: x = 9, y = − 69, z = 63, F = 32.57, FWE corrected P < 0.001).
+5-1	589-591	In	_	
+5-2	592-595	our	_	
+5-3	596-607	whole-brain	_	
+5-4	608-616	analysis	_	
+5-5	616-617	,	_	
+5-6	618-620	we	_	
+5-7	621-626	found	_	
+5-8	627-628	a	_	
+5-9	629-640	significant	_	
+5-10	641-652	interaction	_	
+5-11	653-659	effect	_	
+5-12	660-662	of	_	
+5-13	663-671	genotype	_	
+5-14	671-672	 	_	
+5-15	672-673	×	_	
+5-16	673-674	 	_	
+5-17	674-683	diagnosis	_	
+5-18	684-686	at	_	
+5-19	687-690	the	_	
+5-20	691-700	precuneus	_	
+5-21	701-702	(	_	
+5-22	702-705	PCU	_	
+5-23	705-706	)	_	
+5-24	707-708	(	_	
+5-25	708-715	cluster	_	
+5-26	716-720	size	_	
+5-27	720-721	 	_	
+5-28	721-722	=	_	
+5-29	722-723	 	_	
+5-30	723-725	52	_	
+5-31	726-732	voxels	_	
+5-32	732-733	,	_	
+5-33	734-738	peak	_	
+5-34	739-744	voxel	_	
+5-35	745-748	MNI	_	
+5-36	749-760	coordinates	_	
+5-37	760-761	:	_	
+5-38	762-763	x	_	
+5-39	763-764	 	_	
+5-40	764-765	=	_	
+5-41	765-766	 	_	
+5-42	766-767	9	_	
+5-43	767-768	,	_	
+5-44	769-770	y	_	
+5-45	770-771	 	_	
+5-46	771-772	=	_	
+5-47	772-773	 	_	
+5-48	773-774	−	_	
+5-49	774-775	 	_	
+5-50	775-777	69	_	
+5-51	777-778	,	_	
+5-52	779-780	z	_	
+5-53	780-781	 	_	
+5-54	781-782	=	_	
+5-55	782-783	 	_	
+5-56	783-785	63	_	
+5-57	785-786	,	_	
+5-58	787-788	F	_	
+5-59	788-789	 	_	
+5-60	789-790	=	_	
+5-61	790-791	 	_	
+5-62	791-796	32.57	_	
+5-63	796-797	,	_	
+5-64	798-801	FWE	_	
+5-65	802-811	corrected	_	
+5-66	812-813	P	_	
+5-67	813-814	 	_	
+5-68	814-815	<	_	
+5-69	815-816	 	_	
+5-70	816-821	0.001	_	
+5-71	821-822	)	_	
+5-72	822-823	.	_	
+
+#Text=When we subdivided the degree centrality network according to anatomical distance, the whole-brain analysis also found a significant interaction effect of genotype × diagnosis at the PCU with the same peak in the short-range degree centrality network (cluster size = 72 voxels, F = 37.29, FWE corrected P < 0.001).
+6-1	824-828	When	_	
+6-2	829-831	we	_	
+6-3	832-842	subdivided	_	
+6-4	843-846	the	_	
+6-5	847-853	degree	_	
+6-6	854-864	centrality	_	
+6-7	865-872	network	_	
+6-8	873-882	according	_	
+6-9	883-885	to	_	
+6-10	886-896	anatomical	_	
+6-11	897-905	distance	_	
+6-12	905-906	,	_	
+6-13	907-910	the	_	
+6-14	911-922	whole-brain	_	
+6-15	923-931	analysis	_	
+6-16	932-936	also	_	
+6-17	937-942	found	_	
+6-18	943-944	a	_	
+6-19	945-956	significant	_	
+6-20	957-968	interaction	_	
+6-21	969-975	effect	_	
+6-22	976-978	of	_	
+6-23	979-987	genotype	_	
+6-24	987-988	 	_	
+6-25	988-989	×	_	
+6-26	989-990	 	_	
+6-27	990-999	diagnosis	_	
+6-28	1000-1002	at	_	
+6-29	1003-1006	the	_	
+6-30	1007-1010	PCU	_	
+6-31	1011-1015	with	_	
+6-32	1016-1019	the	_	
+6-33	1020-1024	same	_	
+6-34	1025-1029	peak	_	
+6-35	1030-1032	in	_	
+6-36	1033-1036	the	_	
+6-37	1037-1048	short-range	_	
+6-38	1049-1055	degree	_	
+6-39	1056-1066	centrality	_	
+6-40	1067-1074	network	_	
+6-41	1075-1076	(	_	
+6-42	1076-1083	cluster	_	
+6-43	1084-1088	size	_	
+6-44	1088-1089	 	_	
+6-45	1089-1090	=	_	
+6-46	1090-1091	 	_	
+6-47	1091-1093	72	_	
+6-48	1094-1100	voxels	_	
+6-49	1100-1101	,	_	
+6-50	1102-1103	F	_	
+6-51	1103-1104	 	_	
+6-52	1104-1105	=	_	
+6-53	1105-1106	 	_	
+6-54	1106-1111	37.29	_	
+6-55	1111-1112	,	_	
+6-56	1113-1116	FWE	_	
+6-57	1117-1126	corrected	_	
+6-58	1127-1128	P	_	
+6-59	1128-1129	 	_	
+6-60	1129-1130	<	_	
+6-61	1130-1131	 	_	
+6-62	1131-1136	0.001	_	
+6-63	1136-1137	)	_	
+6-64	1137-1138	.	_	
+
+#Text=No significant result was found in the long-range degree centrality network.
+7-1	1139-1141	No	_	
+7-2	1142-1153	significant	_	
+7-3	1154-1160	result	_	
+7-4	1161-1164	was	_	
+7-5	1165-1170	found	_	
+7-6	1171-1173	in	_	
+7-7	1174-1177	the	_	
+7-8	1178-1188	long-range	_	
+7-9	1189-1195	degree	_	
+7-10	1196-1206	centrality	_	
+7-11	1207-1214	network	_	
+7-12	1214-1215	.	_	
+
+#Text=Our results elucidated the contribution of rs1344706 to functional connectivity within the brain network, and may have important implications for our understanding of this risk gene's role in functional dysconnectivity in schizophrenia.
+8-1	1216-1219	Our	_	
+8-2	1220-1227	results	_	
+8-3	1228-1238	elucidated	_	
+8-4	1239-1242	the	_	
+8-5	1243-1255	contribution	_	
+8-6	1256-1258	of	_	
+8-7	1259-1268	rs1344706	_	
+8-8	1269-1271	to	_	
+8-9	1272-1282	functional	_	
+8-10	1283-1295	connectivity	_	
+8-11	1296-1302	within	_	
+8-12	1303-1306	the	_	
+8-13	1307-1312	brain	_	
+8-14	1313-1320	network	_	
+8-15	1320-1321	,	_	
+8-16	1322-1325	and	_	
+8-17	1326-1329	may	_	
+8-18	1330-1334	have	_	
+8-19	1335-1344	important	_	
+8-20	1345-1357	implications	_	
+8-21	1358-1361	for	_	
+8-22	1362-1365	our	_	
+8-23	1366-1379	understanding	_	
+8-24	1380-1382	of	_	
+8-25	1383-1387	this	_	
+8-26	1388-1392	risk	_	
+8-27	1393-1399	gene's	_	
+8-28	1400-1404	role	_	
+8-29	1405-1407	in	_	
+8-30	1408-1418	functional	_	
+8-31	1419-1434	dysconnectivity	_	
+8-32	1435-1437	in	_	
+8-33	1438-1451	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia	
+8-34	1451-1452	.	_	
+
+#Text=Highlights
+#Text=This study was the first to report the effect of ZNF804A rs1344706 on the property of the whole-brain network.
+9-1	1453-1463	Highlights	_	
+9-2	1464-1468	This	_	
+9-3	1469-1474	study	_	
+9-4	1475-1478	was	_	
+9-5	1479-1482	the	_	
+9-6	1483-1488	first	_	
+9-7	1489-1491	to	_	
+9-8	1492-1498	report	_	
+9-9	1499-1502	the	_	
+9-10	1503-1509	effect	_	
+9-11	1510-1512	of	_	
+9-12	1513-1520	ZNF804A	_	
+9-13	1521-1530	rs1344706	_	
+9-14	1531-1533	on	_	
+9-15	1534-1537	the	_	
+9-16	1538-1546	property	_	
+9-17	1547-1549	of	_	
+9-18	1550-1553	the	_	
+9-19	1554-1565	whole-brain	_	
+9-20	1566-1573	network	_	
+9-21	1573-1574	.	_	
+
+#Text=We found a significant interaction of rs1344706 genotype × diagnosis on the functional connectivity of the PCU.
+10-1	1575-1577	We	_	
+10-2	1578-1583	found	_	
+10-3	1584-1585	a	_	
+10-4	1586-1597	significant	_	
+10-5	1598-1609	interaction	_	
+10-6	1610-1612	of	_	
+10-7	1613-1622	rs1344706	_	
+10-8	1623-1631	genotype	_	
+10-9	1632-1633	×	_	
+10-10	1634-1643	diagnosis	_	
+10-11	1644-1646	on	_	
+10-12	1647-1650	the	_	
+10-13	1651-1661	functional	_	
+10-14	1662-1674	connectivity	_	
+10-15	1675-1677	of	_	
+10-16	1678-1681	the	_	
+10-17	1682-1685	PCU	_	
+10-18	1685-1686	.	_	
+
+#Text=Introduction
+#Text=Schizophrenia is a serious and debilitating mental disorder with a lifetime prevalence rate of about 1%.
+11-1	1687-1699	Introduction	_	
+11-2	1700-1713	Schizophrenia	_	
+11-3	1714-1716	is	_	
+11-4	1717-1718	a	_	
+11-5	1719-1726	serious	_	
+11-6	1727-1730	and	_	
+11-7	1731-1743	debilitating	_	
+11-8	1744-1750	mental	_	
+11-9	1751-1759	disorder	_	
+11-10	1760-1764	with	_	
+11-11	1765-1766	a	_	
+11-12	1767-1775	lifetime	_	
+11-13	1776-1786	prevalence	_	
+11-14	1787-1791	rate	_	
+11-15	1792-1794	of	_	
+11-16	1795-1800	about	_	
+11-17	1801-1803	1%	_	
+11-18	1803-1804	.	_	
+
+#Text=Its heritability has been estimated to be about 81%.
+12-1	1805-1808	Its	_	
+12-2	1809-1821	heritability	_	
+12-3	1822-1825	has	_	
+12-4	1826-1830	been	_	
+12-5	1831-1840	estimated	_	
+12-6	1841-1843	to	_	
+12-7	1844-1846	be	_	
+12-8	1847-1852	about	_	
+12-9	1853-1856	81%	_	
+12-10	1856-1857	.	_	
+
+#Text=Recent whole genome-wide association studies of schizophrenia have suggested many risk genetic polymorphisms.
+13-1	1858-1864	Recent	_	
+13-2	1865-1870	whole	_	
+13-3	1871-1882	genome-wide	_	
+13-4	1883-1894	association	_	
+13-5	1895-1902	studies	_	
+13-6	1903-1905	of	_	
+13-7	1906-1919	schizophrenia	_	
+13-8	1920-1924	have	_	
+13-9	1925-1934	suggested	_	
+13-10	1935-1939	many	_	
+13-11	1940-1944	risk	_	
+13-12	1945-1952	genetic	_	
+13-13	1953-1966	polymorphisms	_	
+13-14	1966-1967	.	_	
+
+#Text=Among them, rs1344706 (A/C) in the gene of zinc finger protein 804A (ZNF804A) was the first SNP that reached genome-wide significance level.
+14-1	1968-1973	Among	_	
+14-2	1974-1978	them	_	
+14-3	1978-1979	,	_	
+14-4	1980-1989	rs1344706	_	
+14-5	1990-1991	(	_	
+14-6	1991-1992	A	_	
+14-7	1992-1993	/	_	
+14-8	1993-1994	C	_	
+14-9	1994-1995	)	_	
+14-10	1996-1998	in	_	
+14-11	1999-2002	the	_	
+14-12	2003-2007	gene	_	
+14-13	2008-2010	of	_	
+14-14	2011-2015	zinc	_	
+14-15	2016-2022	finger	_	
+14-16	2023-2030	protein	_	
+14-17	2031-2035	804A	_	
+14-18	2036-2037	(	_	
+14-19	2037-2044	ZNF804A	_	
+14-20	2044-2045	)	_	
+14-21	2046-2049	was	_	
+14-22	2050-2053	the	_	
+14-23	2054-2059	first	_	
+14-24	2060-2063	SNP	_	
+14-25	2064-2068	that	_	
+14-26	2069-2076	reached	_	
+14-27	2077-2088	genome-wide	_	
+14-28	2089-2101	significance	_	
+14-29	2102-2107	level	_	
+14-30	2107-2108	.	_	
+
+#Text=Our recent study also found a significant association between the same SNP and schizophrenia.
+15-1	2109-2112	Our	_	
+15-2	2113-2119	recent	_	
+15-3	2120-2125	study	_	
+15-4	2126-2130	also	_	
+15-5	2131-2136	found	_	
+15-6	2137-2138	a	_	
+15-7	2139-2150	significant	_	
+15-8	2151-2162	association	_	
+15-9	2163-2170	between	_	
+15-10	2171-2174	the	_	
+15-11	2175-2179	same	_	
+15-12	2180-2183	SNP	_	
+15-13	2184-2187	and	_	
+15-14	2188-2201	schizophrenia	_	
+15-15	2201-2202	.	_	
+
+#Text=To identify the neural systems linked to this SNP, multiple fMRI studies using working memory tasks (e.g., the N-back task) have been reported.
+16-1	2203-2205	To	_	
+16-2	2206-2214	identify	_	
+16-3	2215-2218	the	_	
+16-4	2219-2225	neural	_	
+16-5	2226-2233	systems	_	
+16-6	2234-2240	linked	_	
+16-7	2241-2243	to	_	
+16-8	2244-2248	this	_	
+16-9	2249-2252	SNP	_	
+16-10	2252-2253	,	_	
+16-11	2254-2262	multiple	_	
+16-12	2263-2267	fMRI	_	
+16-13	2268-2275	studies	_	
+16-14	2276-2281	using	_	
+16-15	2282-2289	working	_	
+16-16	2290-2296	memory	_	
+16-17	2297-2302	tasks	_	
+16-18	2303-2304	(	_	
+16-19	2304-2307	e.g	_	
+16-20	2307-2308	.	_	
+16-21	2308-2309	,	_	
+16-22	2310-2313	the	_	
+16-23	2314-2320	N-back	_	
+16-24	2321-2325	task	_	
+16-25	2325-2326	)	_	
+16-26	2327-2331	have	_	
+16-27	2332-2336	been	_	
+16-28	2337-2345	reported	_	
+16-29	2345-2346	.	_	
+
+#Text=Although these studies did not find significant genotype effects on regional brain activation, they consistently found significant genotype effects on functional connectivity seeded from the right dorsolateral prefrontal cortex (rDLPFC) to the left hippocampus formation (lHF).
+17-1	2347-2355	Although	_	
+17-2	2356-2361	these	_	
+17-3	2362-2369	studies	_	
+17-4	2370-2373	did	_	
+17-5	2374-2377	not	_	
+17-6	2378-2382	find	_	
+17-7	2383-2394	significant	_	
+17-8	2395-2403	genotype	_	
+17-9	2404-2411	effects	_	
+17-10	2412-2414	on	_	
+17-11	2415-2423	regional	_	
+17-12	2424-2429	brain	_	
+17-13	2430-2440	activation	_	
+17-14	2440-2441	,	_	
+17-15	2442-2446	they	_	
+17-16	2447-2459	consistently	_	
+17-17	2460-2465	found	_	
+17-18	2466-2477	significant	_	
+17-19	2478-2486	genotype	_	
+17-20	2487-2494	effects	_	
+17-21	2495-2497	on	_	
+17-22	2498-2508	functional	_	
+17-23	2509-2521	connectivity	_	
+17-24	2522-2528	seeded	_	
+17-25	2529-2533	from	_	
+17-26	2534-2537	the	_	
+17-27	2538-2543	right	_	
+17-28	2544-2556	dorsolateral	_	
+17-29	2557-2567	prefrontal	_	
+17-30	2568-2574	cortex	_	
+17-31	2575-2576	(	_	
+17-32	2576-2582	rDLPFC	_	
+17-33	2582-2583	)	_	
+17-34	2584-2586	to	_	
+17-35	2587-2590	the	_	
+17-36	2591-2595	left	_	
+17-37	2596-2607	hippocampus	_	
+17-38	2608-2617	formation	_	
+17-39	2618-2619	(	_	
+17-40	2619-2622	lHF	_	
+17-41	2622-2623	)	_	
+17-42	2623-2624	.	_	
+
+#Text=Our recent study reconstructed the fiberic and accordant functional subconnections between the rDLPFC and the lHF (with anterior cingulate cortex (ACC) and posterior cingulate cortex/precuneus (PCC/PCU) as the intervening nodes) and found a significant association between rs1344706 and PCC/PCU -lHF connection.
+18-1	2625-2628	Our	_	
+18-2	2629-2635	recent	_	
+18-3	2636-2641	study	_	
+18-4	2642-2655	reconstructed	_	
+18-5	2656-2659	the	_	
+18-6	2660-2667	fiberic	_	
+18-7	2668-2671	and	_	
+18-8	2672-2681	accordant	_	
+18-9	2682-2692	functional	_	
+18-10	2693-2707	subconnections	_	
+18-11	2708-2715	between	_	
+18-12	2716-2719	the	_	
+18-13	2720-2726	rDLPFC	_	
+18-14	2727-2730	and	_	
+18-15	2731-2734	the	_	
+18-16	2735-2738	lHF	_	
+18-17	2739-2740	(	_	
+18-18	2740-2744	with	_	
+18-19	2745-2753	anterior	_	
+18-20	2754-2763	cingulate	_	
+18-21	2764-2770	cortex	_	
+18-22	2771-2772	(	_	
+18-23	2772-2775	ACC	_	
+18-24	2775-2776	)	_	
+18-25	2777-2780	and	_	
+18-26	2781-2790	posterior	_	
+18-27	2791-2800	cingulate	_	
+18-28	2801-2807	cortex	_	
+18-29	2807-2808	/	_	
+18-30	2808-2817	precuneus	_	
+18-31	2818-2819	(	_	
+18-32	2819-2822	PCC	_	
+18-33	2822-2823	/	_	
+18-34	2823-2826	PCU	_	
+18-35	2826-2827	)	_	
+18-36	2828-2830	as	_	
+18-37	2831-2834	the	_	
+18-38	2835-2846	intervening	_	
+18-39	2847-2852	nodes	_	
+18-40	2852-2853	)	_	
+18-41	2854-2857	and	_	
+18-42	2858-2863	found	_	
+18-43	2864-2865	a	_	
+18-44	2866-2877	significant	_	
+18-45	2878-2889	association	_	
+18-46	2890-2897	between	_	
+18-47	2898-2907	rs1344706	_	
+18-48	2908-2911	and	_	
+18-49	2912-2915	PCC	_	
+18-50	2915-2916	/	_	
+18-51	2916-2919	PCU	_	
+18-52	2920-2921	-	_	
+18-53	2921-2924	lHF	_	
+18-54	2925-2935	connection	_	
+18-55	2935-2936	.	_	
+
+#Text=One limitation of the previous functional connectivity studies is that they relied on a priori selection of seeds.
+19-1	2937-2940	One	_	
+19-2	2941-2951	limitation	_	
+19-3	2952-2954	of	_	
+19-4	2955-2958	the	_	
+19-5	2959-2967	previous	_	
+19-6	2968-2978	functional	_	
+19-7	2979-2991	connectivity	_	
+19-8	2992-2999	studies	_	
+19-9	3000-3002	is	_	
+19-10	3003-3007	that	_	
+19-11	3008-3012	they	_	
+19-12	3013-3019	relied	_	
+19-13	3020-3022	on	_	
+19-14	3023-3024	a	_	
+19-15	3025-3031	priori	_	
+19-16	3032-3041	selection	_	
+19-17	3042-3044	of	_	
+19-18	3045-3050	seeds	_	
+19-19	3050-3051	.	_	
+
+#Text=No study thus far has examined the role of this SNP in the entire functional connectome, perhaps because it was only recently when the development of computational neuroimaging made it possible to examine the whole-brain voxel-wise functional connectome during the resting state.
+20-1	3052-3054	No	_	
+20-2	3055-3060	study	_	
+20-3	3061-3065	thus	_	
+20-4	3066-3069	far	_	
+20-5	3070-3073	has	_	
+20-6	3074-3082	examined	_	
+20-7	3083-3086	the	_	
+20-8	3087-3091	role	_	
+20-9	3092-3094	of	_	
+20-10	3095-3099	this	_	
+20-11	3100-3103	SNP	_	
+20-12	3104-3106	in	_	
+20-13	3107-3110	the	_	
+20-14	3111-3117	entire	_	
+20-15	3118-3128	functional	_	
+20-16	3129-3139	connectome	_	
+20-17	3139-3140	,	_	
+20-18	3141-3148	perhaps	_	
+20-19	3149-3156	because	_	
+20-20	3157-3159	it	_	
+20-21	3160-3163	was	_	
+20-22	3164-3168	only	_	
+20-23	3169-3177	recently	_	
+20-24	3178-3182	when	_	
+20-25	3183-3186	the	_	
+20-26	3187-3198	development	_	
+20-27	3199-3201	of	_	
+20-28	3202-3215	computational	_	
+20-29	3216-3228	neuroimaging	_	
+20-30	3229-3233	made	_	
+20-31	3234-3236	it	_	
+20-32	3237-3245	possible	_	
+20-33	3246-3248	to	_	
+20-34	3249-3256	examine	_	
+20-35	3257-3260	the	_	
+20-36	3261-3272	whole-brain	_	
+20-37	3273-3283	voxel-wise	_	
+20-38	3284-3294	functional	_	
+20-39	3295-3305	connectome	_	
+20-40	3306-3312	during	_	
+20-41	3313-3316	the	_	
+20-42	3317-3324	resting	_	
+20-43	3325-3330	state	_	
+20-44	3330-3331	.	_	
+
+#Text=Instead of using seeds, the new approach computes degree centrality (a measure of network in graph theory) of a specific grey matter voxel based on the total correlations of its time series with those of the rest of the network.
+21-1	3332-3339	Instead	_	
+21-2	3340-3342	of	_	
+21-3	3343-3348	using	_	
+21-4	3349-3354	seeds	_	
+21-5	3354-3355	,	_	
+21-6	3356-3359	the	_	
+21-7	3360-3363	new	_	
+21-8	3364-3372	approach	_	
+21-9	3373-3381	computes	_	
+21-10	3382-3388	degree	_	
+21-11	3389-3399	centrality	_	
+21-12	3400-3401	(	_	
+21-13	3401-3402	a	_	
+21-14	3403-3410	measure	_	
+21-15	3411-3413	of	_	
+21-16	3414-3421	network	_	
+21-17	3422-3424	in	_	
+21-18	3425-3430	graph	_	
+21-19	3431-3437	theory	_	
+21-20	3437-3438	)	_	
+21-21	3439-3441	of	_	
+21-22	3442-3443	a	_	
+21-23	3444-3452	specific	_	
+21-24	3453-3457	grey	_	
+21-25	3458-3464	matter	_	
+21-26	3465-3470	voxel	_	
+21-27	3471-3476	based	_	
+21-28	3477-3479	on	_	
+21-29	3480-3483	the	_	
+21-30	3484-3489	total	_	
+21-31	3490-3502	correlations	_	
+21-32	3503-3505	of	_	
+21-33	3506-3509	its	_	
+21-34	3510-3514	time	_	
+21-35	3515-3521	series	_	
+21-36	3522-3526	with	_	
+21-37	3527-3532	those	_	
+21-38	3533-3535	of	_	
+21-39	3536-3539	the	_	
+21-40	3540-3544	rest	_	
+21-41	3545-3547	of	_	
+21-42	3548-3551	the	_	
+21-43	3552-3559	network	_	
+21-44	3559-3560	.	_	
+
+#Text=Brain regions with high degree centrality are deemed to be the hubs that play central roles in functional integrity of the whole-brain network.
+22-1	3561-3566	Brain	_	
+22-2	3567-3574	regions	_	
+22-3	3575-3579	with	_	
+22-4	3580-3584	high	_	
+22-5	3585-3591	degree	_	
+22-6	3592-3602	centrality	_	
+22-7	3603-3606	are	_	
+22-8	3607-3613	deemed	_	
+22-9	3614-3616	to	_	
+22-10	3617-3619	be	_	
+22-11	3620-3623	the	_	
+22-12	3624-3628	hubs	_	
+22-13	3629-3633	that	_	
+22-14	3634-3638	play	_	
+22-15	3639-3646	central	_	
+22-16	3647-3652	roles	_	
+22-17	3653-3655	in	_	
+22-18	3656-3666	functional	_	
+22-19	3667-3676	integrity	_	
+22-20	3677-3679	of	_	
+22-21	3680-3683	the	_	
+22-22	3684-3695	whole-brain	_	
+22-23	3696-3703	network	_	
+22-24	3703-3704	.	_	
+
+#Text=In the current study, we used the whole-brain connectome approach to identify key brain regions within the brain network that were linked to rs1344706.
+23-1	3705-3707	In	_	
+23-2	3708-3711	the	_	
+23-3	3712-3719	current	_	
+23-4	3720-3725	study	_	
+23-5	3725-3726	,	_	
+23-6	3727-3729	we	_	
+23-7	3730-3734	used	_	
+23-8	3735-3738	the	_	
+23-9	3739-3750	whole-brain	_	
+23-10	3751-3761	connectome	_	
+23-11	3762-3770	approach	_	
+23-12	3771-3773	to	_	
+23-13	3774-3782	identify	_	
+23-14	3783-3786	key	_	
+23-15	3787-3792	brain	_	
+23-16	3793-3800	regions	_	
+23-17	3801-3807	within	_	
+23-18	3808-3811	the	_	
+23-19	3812-3817	brain	_	
+23-20	3818-3825	network	_	
+23-21	3826-3830	that	_	
+23-22	3831-3835	were	_	
+23-23	3836-3842	linked	_	
+23-24	3843-3845	to	_	
+23-25	3846-3855	rs1344706	_	
+23-26	3855-3856	.	_	
+
+#Text=The final sample included 52 schizophrenia patients and 128 healthy controls who were scanned using fMRI during the resting state.
+24-1	3857-3860	The	_	
+24-2	3861-3866	final	_	
+24-3	3867-3873	sample	_	
+24-4	3874-3882	included	_	
+24-5	3883-3885	52	_	
+24-6	3886-3899	schizophrenia	_	
+24-7	3900-3908	patients	_	
+24-8	3909-3912	and	_	
+24-9	3913-3916	128	_	
+24-10	3917-3924	healthy	_	
+24-11	3925-3933	controls	_	
+24-12	3934-3937	who	_	
+24-13	3938-3942	were	_	
+24-14	3943-3950	scanned	_	
+24-15	3951-3956	using	_	
+24-16	3957-3961	fMRI	_	
+24-17	3962-3968	during	_	
+24-18	3969-3972	the	_	
+24-19	3973-3980	resting	_	
+24-20	3981-3986	state	_	
+24-21	3986-3987	.	_	
+
+#Text=We hypothesized that the PCC/PCU may be one of the key brain regions linked to rs1344706 due to four reasons: (1) The PCC/PCU is an important brain hub in the human brain with high connectivities with other brain areas; (2) Perhaps due at least partially to such connectivities, cerebral blood flow and metabolic rate of the PCC/PCU are 40% greater than average; (3) Altered degree centrality of the PCC/PCU has been found in schizophrenia and has been associated with some symptoms of schizophrenia such as hallucination; and (4) Our recent study as mentioned above found a significant role of rs1344706 in functional connection of the PCC/PCU.
+25-1	3988-3990	We	_	
+25-2	3991-4003	hypothesized	_	
+25-3	4004-4008	that	_	
+25-4	4009-4012	the	_	
+25-5	4013-4016	PCC	_	
+25-6	4016-4017	/	_	
+25-7	4017-4020	PCU	_	
+25-8	4021-4024	may	_	
+25-9	4025-4027	be	_	
+25-10	4028-4031	one	_	
+25-11	4032-4034	of	_	
+25-12	4035-4038	the	_	
+25-13	4039-4042	key	_	
+25-14	4043-4048	brain	_	
+25-15	4049-4056	regions	_	
+25-16	4057-4063	linked	_	
+25-17	4064-4066	to	_	
+25-18	4067-4076	rs1344706	_	
+25-19	4077-4080	due	_	
+25-20	4081-4083	to	_	
+25-21	4084-4088	four	_	
+25-22	4089-4096	reasons	_	
+25-23	4096-4097	:	_	
+25-24	4098-4099	(	_	
+25-25	4099-4100	1	_	
+25-26	4100-4101	)	_	
+25-27	4102-4105	The	_	
+25-28	4106-4109	PCC	_	
+25-29	4109-4110	/	_	
+25-30	4110-4113	PCU	_	
+25-31	4114-4116	is	_	
+25-32	4117-4119	an	_	
+25-33	4120-4129	important	_	
+25-34	4130-4135	brain	_	
+25-35	4136-4139	hub	_	
+25-36	4140-4142	in	_	
+25-37	4143-4146	the	_	
+25-38	4147-4152	human	_	
+25-39	4153-4158	brain	_	
+25-40	4159-4163	with	_	
+25-41	4164-4168	high	_	
+25-42	4169-4183	connectivities	_	
+25-43	4184-4188	with	_	
+25-44	4189-4194	other	_	
+25-45	4195-4200	brain	_	
+25-46	4201-4206	areas	_	
+25-47	4206-4207	;	_	
+25-48	4208-4209	(	_	
+25-49	4209-4210	2	_	
+25-50	4210-4211	)	_	
+25-51	4212-4219	Perhaps	_	
+25-52	4220-4223	due	_	
+25-53	4224-4226	at	_	
+25-54	4227-4232	least	_	
+25-55	4233-4242	partially	_	
+25-56	4243-4245	to	_	
+25-57	4246-4250	such	_	
+25-58	4251-4265	connectivities	_	
+25-59	4265-4266	,	_	
+25-60	4267-4275	cerebral	_	
+25-61	4276-4281	blood	_	
+25-62	4282-4286	flow	_	
+25-63	4287-4290	and	_	
+25-64	4291-4300	metabolic	_	
+25-65	4301-4305	rate	_	
+25-66	4306-4308	of	_	
+25-67	4309-4312	the	_	
+25-68	4313-4316	PCC	_	
+25-69	4316-4317	/	_	
+25-70	4317-4320	PCU	_	
+25-71	4321-4324	are	_	
+25-72	4325-4328	40%	_	
+25-73	4329-4336	greater	_	
+25-74	4337-4341	than	_	
+25-75	4342-4349	average	_	
+25-76	4349-4350	;	_	
+25-77	4351-4352	(	_	
+25-78	4352-4353	3	_	
+25-79	4353-4354	)	_	
+25-80	4355-4362	Altered	_	
+25-81	4363-4369	degree	_	
+25-82	4370-4380	centrality	_	
+25-83	4381-4383	of	_	
+25-84	4384-4387	the	_	
+25-85	4388-4391	PCC	_	
+25-86	4391-4392	/	_	
+25-87	4392-4395	PCU	_	
+25-88	4396-4399	has	_	
+25-89	4400-4404	been	_	
+25-90	4405-4410	found	_	
+25-91	4411-4413	in	_	
+25-92	4414-4427	schizophrenia	_	
+25-93	4428-4431	and	_	
+25-94	4432-4435	has	_	
+25-95	4436-4440	been	_	
+25-96	4441-4451	associated	_	
+25-97	4452-4456	with	_	
+25-98	4457-4461	some	_	
+25-99	4462-4470	symptoms	_	
+25-100	4471-4473	of	_	
+25-101	4474-4487	schizophrenia	_	
+25-102	4488-4492	such	_	
+25-103	4493-4495	as	_	
+25-104	4496-4509	hallucination	_	
+25-105	4509-4510	;	_	
+25-106	4511-4514	and	_	
+25-107	4515-4516	(	_	
+25-108	4516-4517	4	_	
+25-109	4517-4518	)	_	
+25-110	4519-4522	Our	_	
+25-111	4523-4529	recent	_	
+25-112	4530-4535	study	_	
+25-113	4536-4538	as	_	
+25-114	4539-4548	mentioned	_	
+25-115	4549-4554	above	_	
+25-116	4555-4560	found	_	
+25-117	4561-4562	a	_	
+25-118	4563-4574	significant	_	
+25-119	4575-4579	role	_	
+25-120	4580-4582	of	_	
+25-121	4583-4592	rs1344706	_	
+25-122	4593-4595	in	_	
+25-123	4596-4606	functional	_	
+25-124	4607-4617	connection	_	
+25-125	4618-4620	of	_	
+25-126	4621-4624	the	_	
+25-127	4625-4628	PCC	_	
+25-128	4628-4629	/	_	
+25-129	4629-4632	PCU	_	
+25-130	4632-4633	.	_	
+
+#Text=Materials and methods
+#Text=Participants
+#Text=Demographics and clinical characteristics of the participants.
+26-1	4634-4643	Materials	http://www.case.edu/ProvCaRe/provcare#StudyMethod[2]	
+26-2	4644-4647	and	http://www.case.edu/ProvCaRe/provcare#StudyMethod[2]	
+26-3	4648-4655	methods	http://www.case.edu/ProvCaRe/provcare#StudyMethod[2]	
+26-4	4656-4668	Participants	_	
+26-5	4669-4681	Demographics	_	
+26-6	4682-4685	and	_	
+26-7	4686-4694	clinical	_	
+26-8	4695-4710	characteristics	_	
+26-9	4711-4713	of	_	
+26-10	4714-4717	the	_	
+26-11	4718-4730	participants	_	
+26-12	4730-4731	.	_	
+
+#Text=Table 1\t \t
+#Text=\tSCZ\tHealthy control\tTotal\t \t\tMean ± SD\tF or χ2\tP\tMean ± SD\tF or χ2\tP\tMean ± SD\tF or χ2\tP\t \t\tAA\tCA/CC\tAA\tCA/CC\tAA\tCA/CC\t \tAge (years)\t27.44 ± 6.81\t28.24 ± 8.78\t0.11\t0.74\t26.84 ± 4.57\t27.20 ± 6.11\t0.91\t0.76\t27.06 ± 5.42\t27.47 ± 6.88\t0.14\t0.71\t \tGender (male/female)\t18 (15/3)\t34 (30/4)\t0.24\t0.68\t32 (25/7)\t96 (74/22)\t0.02\t1.00\t50 (40/10)\t130 (104/26)\t0.00\t1.00\t \tEducation (years)\t12.44 ± 2.85\t13.00 ± 3.19\t0.38\t0.54\t13.62 ± 2.64\t12.59 ± 3.19\t2.72\t0.10\t13.20 ± 2.75\t12.70 ± 3.18\t0.96\t0.33\t \tPANSS positive score\t19.33 ± 11.12\t17.91 ± 10.28\t0.21\t0.65\tNA\tNA\tNA\tNA\tNA\tNA\tNA\tNA\t \tPANSS negative score\t16.28 ± 10.49\t17.62 ± 9.96\t0.21\t0.65\tNA\tNA\tNA\tNA\tNA\tNA\tNA\tNA\t \tPANSS total score\t62.89 ± 38.88\t68.35 ± 33.99\t0.28\t0.60\tNA\tNA\tNA\tNA\tNA\tNA\tNA\tNA\t \tNumber of episodes\t2.72 ± 1.56\t2.85 ± 1.51\t0.09\t0.76\tNA\tNA\tNA\tNA\tNA\tNA\tNA\tNA\t \tAge of onset (years)\t20.88 ± 3.99\t21.74 ± 4.48\t0.46\t0.49\tNA\tNA\tNA\tNA\tNA\tNA\tNA\tNA\t \tIllness duration (months)\t72.66 ± 59.14\t70.28 ± 71.29\t0.02\t0.90\tNA\tNA\tNA\tNA\tNA\tNA\tNA\tNA\t \tMedication dosage (mg/day)a\t310.72 ± 273.52\t224.88 ± 172.53\t1.92\t0.17\tNA\tNA\tNA\tNA\tNA\tNA\tNA\tNA\t \t
+#Text=Chlorpromazine equivalents.
+27-1	4732-4737	Table	_	
+27-2	4738-4739	1	_	
+27-3	4744-4747	SCZ	_	
+27-4	4748-4755	Healthy	_	
+27-5	4756-4763	control	_	
+27-6	4764-4769	Total	_	
+27-7	4773-4777	Mean	_	
+27-8	4777-4778	 	_	
+27-9	4778-4779	±	_	
+27-10	4779-4780	 	_	
+27-11	4780-4782	SD	_	
+27-12	4783-4784	F	_	
+27-13	4785-4787	or	_	
+27-14	4788-4790	χ2	_	
+27-15	4791-4792	P	_	
+27-16	4793-4797	Mean	_	
+27-17	4797-4798	 	_	
+27-18	4798-4799	±	_	
+27-19	4799-4800	 	_	
+27-20	4800-4802	SD	_	
+27-21	4803-4804	F	_	
+27-22	4805-4807	or	_	
+27-23	4808-4810	χ2	_	
+27-24	4811-4812	P	_	
+27-25	4813-4817	Mean	_	
+27-26	4817-4818	 	_	
+27-27	4818-4819	±	_	
+27-28	4819-4820	 	_	
+27-29	4820-4822	SD	_	
+27-30	4823-4824	F	_	
+27-31	4825-4827	or	_	
+27-32	4828-4830	χ2	_	
+27-33	4831-4832	P	_	
+27-34	4836-4838	AA	_	
+27-35	4839-4841	CA	_	
+27-36	4841-4842	/	_	
+27-37	4842-4844	CC	_	
+27-38	4845-4847	AA	_	
+27-39	4848-4850	CA	_	
+27-40	4850-4851	/	_	
+27-41	4851-4853	CC	_	
+27-42	4854-4856	AA	_	
+27-43	4857-4859	CA	_	
+27-44	4859-4860	/	_	
+27-45	4860-4862	CC	_	
+27-46	4865-4868	Age	_	
+27-47	4869-4870	(	_	
+27-48	4870-4875	years	_	
+27-49	4875-4876	)	_	
+27-50	4877-4882	27.44	_	
+27-51	4882-4883	 	_	
+27-52	4883-4884	±	_	
+27-53	4884-4885	 	_	
+27-54	4885-4889	6.81	_	
+27-55	4890-4895	28.24	_	
+27-56	4895-4896	 	_	
+27-57	4896-4897	±	_	
+27-58	4897-4898	 	_	
+27-59	4898-4902	8.78	_	
+27-60	4903-4907	0.11	_	
+27-61	4908-4912	0.74	_	
+27-62	4913-4918	26.84	_	
+27-63	4918-4919	 	_	
+27-64	4919-4920	±	_	
+27-65	4920-4921	 	_	
+27-66	4921-4925	4.57	_	
+27-67	4926-4931	27.20	_	
+27-68	4931-4932	 	_	
+27-69	4932-4933	±	_	
+27-70	4933-4934	 	_	
+27-71	4934-4938	6.11	_	
+27-72	4939-4943	0.91	_	
+27-73	4944-4948	0.76	_	
+27-74	4949-4954	27.06	_	
+27-75	4954-4955	 	_	
+27-76	4955-4956	±	_	
+27-77	4956-4957	 	_	
+27-78	4957-4961	5.42	_	
+27-79	4962-4967	27.47	_	
+27-80	4967-4968	 	_	
+27-81	4968-4969	±	_	
+27-82	4969-4970	 	_	
+27-83	4970-4974	6.88	_	
+27-84	4975-4979	0.14	_	
+27-85	4980-4984	0.71	_	
+27-86	4987-4993	Gender	_	
+27-87	4994-4995	(	_	
+27-88	4995-4999	male	_	
+27-89	4999-5000	/	_	
+27-90	5000-5006	female	_	
+27-91	5006-5007	)	_	
+27-92	5008-5010	18	_	
+27-93	5011-5012	(	_	
+27-94	5012-5014	15	_	
+27-95	5014-5015	/	_	
+27-96	5015-5016	3	_	
+27-97	5016-5017	)	_	
+27-98	5018-5020	34	_	
+27-99	5021-5022	(	_	
+27-100	5022-5024	30	_	
+27-101	5024-5025	/	_	
+27-102	5025-5026	4	_	
+27-103	5026-5027	)	_	
+27-104	5028-5032	0.24	_	
+27-105	5033-5037	0.68	_	
+27-106	5038-5040	32	_	
+27-107	5041-5042	(	_	
+27-108	5042-5044	25	_	
+27-109	5044-5045	/	_	
+27-110	5045-5046	7	_	
+27-111	5046-5047	)	_	
+27-112	5048-5050	96	_	
+27-113	5051-5052	(	_	
+27-114	5052-5054	74	_	
+27-115	5054-5055	/	_	
+27-116	5055-5057	22	_	
+27-117	5057-5058	)	_	
+27-118	5059-5063	0.02	_	
+27-119	5064-5068	1.00	_	
+27-120	5069-5071	50	_	
+27-121	5072-5073	(	_	
+27-122	5073-5075	40	_	
+27-123	5075-5076	/	_	
+27-124	5076-5078	10	_	
+27-125	5078-5079	)	_	
+27-126	5080-5083	130	_	
+27-127	5084-5085	(	_	
+27-128	5085-5088	104	_	
+27-129	5088-5089	/	_	
+27-130	5089-5091	26	_	
+27-131	5091-5092	)	_	
+27-132	5093-5097	0.00	_	
+27-133	5098-5102	1.00	_	
+27-134	5105-5114	Education	_	
+27-135	5115-5116	(	_	
+27-136	5116-5121	years	_	
+27-137	5121-5122	)	_	
+27-138	5123-5128	12.44	_	
+27-139	5128-5129	 	_	
+27-140	5129-5130	±	_	
+27-141	5130-5131	 	_	
+27-142	5131-5135	2.85	_	
+27-143	5136-5141	13.00	_	
+27-144	5141-5142	 	_	
+27-145	5142-5143	±	_	
+27-146	5143-5144	 	_	
+27-147	5144-5148	3.19	_	
+27-148	5149-5153	0.38	_	
+27-149	5154-5158	0.54	_	
+27-150	5159-5164	13.62	_	
+27-151	5164-5165	 	_	
+27-152	5165-5166	±	_	
+27-153	5166-5167	 	_	
+27-154	5167-5171	2.64	_	
+27-155	5172-5177	12.59	_	
+27-156	5177-5178	 	_	
+27-157	5178-5179	±	_	
+27-158	5179-5180	 	_	
+27-159	5180-5184	3.19	_	
+27-160	5185-5189	2.72	_	
+27-161	5190-5194	0.10	_	
+27-162	5195-5200	13.20	_	
+27-163	5200-5201	 	_	
+27-164	5201-5202	±	_	
+27-165	5202-5203	 	_	
+27-166	5203-5207	2.75	_	
+27-167	5208-5213	12.70	_	
+27-168	5213-5214	 	_	
+27-169	5214-5215	±	_	
+27-170	5215-5216	 	_	
+27-171	5216-5220	3.18	_	
+27-172	5221-5225	0.96	_	
+27-173	5226-5230	0.33	_	
+27-174	5233-5238	PANSS	_	
+27-175	5239-5247	positive	_	
+27-176	5248-5253	score	_	
+27-177	5254-5259	19.33	_	
+27-178	5259-5260	 	_	
+27-179	5260-5261	±	_	
+27-180	5261-5262	 	_	
+27-181	5262-5267	11.12	_	
+27-182	5268-5273	17.91	_	
+27-183	5273-5274	 	_	
+27-184	5274-5275	±	_	
+27-185	5275-5276	 	_	
+27-186	5276-5281	10.28	_	
+27-187	5282-5286	0.21	_	
+27-188	5287-5291	0.65	_	
+27-189	5292-5294	NA	_	
+27-190	5295-5297	NA	_	
+27-191	5298-5300	NA	_	
+27-192	5301-5303	NA	_	
+27-193	5304-5306	NA	_	
+27-194	5307-5309	NA	_	
+27-195	5310-5312	NA	_	
+27-196	5313-5315	NA	_	
+27-197	5318-5323	PANSS	_	
+27-198	5324-5332	negative	_	
+27-199	5333-5338	score	_	
+27-200	5339-5344	16.28	_	
+27-201	5344-5345	 	_	
+27-202	5345-5346	±	_	
+27-203	5346-5347	 	_	
+27-204	5347-5352	10.49	_	
+27-205	5353-5358	17.62	_	
+27-206	5358-5359	 	_	
+27-207	5359-5360	±	_	
+27-208	5360-5361	 	_	
+27-209	5361-5365	9.96	_	
+27-210	5366-5370	0.21	_	
+27-211	5371-5375	0.65	_	
+27-212	5376-5378	NA	_	
+27-213	5379-5381	NA	_	
+27-214	5382-5384	NA	_	
+27-215	5385-5387	NA	_	
+27-216	5388-5390	NA	_	
+27-217	5391-5393	NA	_	
+27-218	5394-5396	NA	_	
+27-219	5397-5399	NA	_	
+27-220	5402-5407	PANSS	_	
+27-221	5408-5413	total	_	
+27-222	5414-5419	score	_	
+27-223	5420-5425	62.89	_	
+27-224	5425-5426	 	_	
+27-225	5426-5427	±	_	
+27-226	5427-5428	 	_	
+27-227	5428-5433	38.88	_	
+27-228	5434-5439	68.35	_	
+27-229	5439-5440	 	_	
+27-230	5440-5441	±	_	
+27-231	5441-5442	 	_	
+27-232	5442-5447	33.99	_	
+27-233	5448-5452	0.28	_	
+27-234	5453-5457	0.60	_	
+27-235	5458-5460	NA	_	
+27-236	5461-5463	NA	_	
+27-237	5464-5466	NA	_	
+27-238	5467-5469	NA	_	
+27-239	5470-5472	NA	_	
+27-240	5473-5475	NA	_	
+27-241	5476-5478	NA	_	
+27-242	5479-5481	NA	_	
+27-243	5484-5490	Number	_	
+27-244	5491-5493	of	_	
+27-245	5494-5502	episodes	_	
+27-246	5503-5507	2.72	_	
+27-247	5507-5508	 	_	
+27-248	5508-5509	±	_	
+27-249	5509-5510	 	_	
+27-250	5510-5514	1.56	_	
+27-251	5515-5519	2.85	_	
+27-252	5519-5520	 	_	
+27-253	5520-5521	±	_	
+27-254	5521-5522	 	_	
+27-255	5522-5526	1.51	_	
+27-256	5527-5531	0.09	_	
+27-257	5532-5536	0.76	_	
+27-258	5537-5539	NA	_	
+27-259	5540-5542	NA	_	
+27-260	5543-5545	NA	_	
+27-261	5546-5548	NA	_	
+27-262	5549-5551	NA	_	
+27-263	5552-5554	NA	_	
+27-264	5555-5557	NA	_	
+27-265	5558-5560	NA	_	
+27-266	5563-5566	Age	_	
+27-267	5567-5569	of	_	
+27-268	5570-5575	onset	_	
+27-269	5576-5577	(	_	
+27-270	5577-5582	years	_	
+27-271	5582-5583	)	_	
+27-272	5584-5589	20.88	_	
+27-273	5589-5590	 	_	
+27-274	5590-5591	±	_	
+27-275	5591-5592	 	_	
+27-276	5592-5596	3.99	_	
+27-277	5597-5602	21.74	_	
+27-278	5602-5603	 	_	
+27-279	5603-5604	±	_	
+27-280	5604-5605	 	_	
+27-281	5605-5609	4.48	_	
+27-282	5610-5614	0.46	_	
+27-283	5615-5619	0.49	_	
+27-284	5620-5622	NA	_	
+27-285	5623-5625	NA	_	
+27-286	5626-5628	NA	_	
+27-287	5629-5631	NA	_	
+27-288	5632-5634	NA	_	
+27-289	5635-5637	NA	_	
+27-290	5638-5640	NA	_	
+27-291	5641-5643	NA	_	
+27-292	5646-5653	Illness	_	
+27-293	5654-5662	duration	_	
+27-294	5663-5664	(	_	
+27-295	5664-5670	months	_	
+27-296	5670-5671	)	_	
+27-297	5672-5677	72.66	_	
+27-298	5677-5678	 	_	
+27-299	5678-5679	±	_	
+27-300	5679-5680	 	_	
+27-301	5680-5685	59.14	_	
+27-302	5686-5691	70.28	_	
+27-303	5691-5692	 	_	
+27-304	5692-5693	±	_	
+27-305	5693-5694	 	_	
+27-306	5694-5699	71.29	_	
+27-307	5700-5704	0.02	_	
+27-308	5705-5709	0.90	_	
+27-309	5710-5712	NA	_	
+27-310	5713-5715	NA	_	
+27-311	5716-5718	NA	_	
+27-312	5719-5721	NA	_	
+27-313	5722-5724	NA	_	
+27-314	5725-5727	NA	_	
+27-315	5728-5730	NA	_	
+27-316	5731-5733	NA	_	
+27-317	5736-5746	Medication	_	
+27-318	5747-5753	dosage	_	
+27-319	5754-5755	(	_	
+27-320	5755-5757	mg	_	
+27-321	5757-5758	/	_	
+27-322	5758-5761	day	_	
+27-323	5761-5762	)	_	
+27-324	5762-5763	a	_	
+27-325	5764-5770	310.72	_	
+27-326	5770-5771	 	_	
+27-327	5771-5772	±	_	
+27-328	5772-5773	 	_	
+27-329	5773-5779	273.52	_	
+27-330	5780-5786	224.88	_	
+27-331	5786-5787	 	_	
+27-332	5787-5788	±	_	
+27-333	5788-5789	 	_	
+27-334	5789-5795	172.53	_	
+27-335	5796-5800	1.92	_	
+27-336	5801-5805	0.17	_	
+27-337	5806-5808	NA	_	
+27-338	5809-5811	NA	_	
+27-339	5812-5814	NA	_	
+27-340	5815-5817	NA	_	
+27-341	5818-5820	NA	_	
+27-342	5821-5823	NA	_	
+27-343	5824-5826	NA	_	
+27-344	5827-5829	NA	_	
+27-345	5833-5847	Chlorpromazine	_	
+27-346	5848-5859	equivalents	_	
+27-347	5859-5860	.	_	
+
+#Text=The initial sample consisted of 55 schizophrenia patients and 137 healthy controls.
+28-1	5861-5864	The	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+28-2	5865-5872	initial	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+28-3	5873-5879	sample	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+28-4	5880-5889	consisted	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+28-5	5890-5892	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+28-6	5893-5895	55	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+28-7	5896-5909	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]|http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia[4]	
+28-8	5910-5918	patients	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+28-9	5919-5922	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+28-10	5923-5926	137	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+28-11	5927-5934	healthy	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]|http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[5]	
+28-12	5935-5943	controls	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]|http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[5]	
+28-13	5943-5944	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+
+#Text=Due to their excessive head motion (> 3° or 3 mm) and failure of registration (due to low quality of T1 images), 3 patients and 9 healthy controls were excluded.
+29-1	5945-5948	Due	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-2	5949-5951	to	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-3	5952-5957	their	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-4	5958-5967	excessive	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-5	5968-5972	head	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-6	5973-5979	motion	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-7	5980-5981	(	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-8	5981-5982	>	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-9	5982-5983	 	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-10	5983-5984	3	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-11	5984-5985	°	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-12	5986-5988	or	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-13	5989-5990	3	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-14	5990-5991	 	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-15	5991-5993	mm	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-16	5993-5994	)	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-17	5995-5998	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-18	5999-6006	failure	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-19	6007-6009	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-20	6010-6022	registration	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-21	6023-6024	(	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-22	6024-6027	due	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-23	6028-6030	to	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-24	6031-6034	low	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-25	6035-6042	quality	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-26	6043-6045	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-27	6046-6048	T1	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-28	6049-6055	images	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-29	6055-6056	)	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-30	6056-6057	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-31	6058-6059	3	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-32	6060-6068	patients	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-33	6069-6072	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-34	6073-6074	9	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-35	6075-6082	healthy	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]|http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[6]	
+29-36	6083-6091	controls	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]|http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[6]	
+29-37	6092-6096	were	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-38	6097-6105	excluded	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+29-39	6105-6106	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+
+#Text=Due to the small number of the minor-allele homozygotes (10 patients and 28 controls), we combined the CC genotype with the CA genotype as the non-risk allele carriers.
+30-1	6107-6110	Due	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-2	6111-6113	to	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-3	6114-6117	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-4	6118-6123	small	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-5	6124-6130	number	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-6	6131-6133	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-7	6134-6137	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-8	6138-6150	minor-allele	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-9	6151-6162	homozygotes	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-10	6163-6164	(	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-11	6164-6166	10	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-12	6167-6175	patients	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-13	6176-6179	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-14	6180-6182	28	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-15	6183-6191	controls	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]|http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[7]	
+30-16	6191-6192	)	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-17	6192-6193	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-18	6194-6196	we	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-19	6197-6205	combined	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-20	6206-6209	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-21	6210-6212	CC	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-22	6213-6221	genotype	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-23	6222-6226	with	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-24	6227-6230	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-25	6231-6233	CA	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-26	6234-6242	genotype	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-27	6243-6245	as	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-28	6246-6249	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-29	6250-6258	non-risk	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-30	6259-6265	allele	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-31	6266-6274	carriers	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+30-32	6274-6275	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[3]	
+
+#Text=The final data analysis included 52 schizophrenia patients (34 CA/CC and 18 AA) and 128 healthy controls (96 CA/CC and 32 AA).
+31-1	6276-6279	The	_	
+31-2	6280-6285	final	_	
+31-3	6286-6290	data	_	
+31-4	6291-6299	analysis	_	
+31-5	6300-6308	included	_	
+31-6	6309-6311	52	_	
+31-7	6312-6325	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia	
+31-8	6326-6334	patients	_	
+31-9	6335-6336	(	_	
+31-10	6336-6338	34	_	
+31-11	6339-6341	CA	_	
+31-12	6341-6342	/	_	
+31-13	6342-6344	CC	_	
+31-14	6345-6348	and	_	
+31-15	6349-6351	18	_	
+31-16	6352-6354	AA	_	
+31-17	6354-6355	)	_	
+31-18	6356-6359	and	_	
+31-19	6360-6363	128	_	
+31-20	6364-6371	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[8]	
+31-21	6372-6380	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[8]	
+31-22	6381-6382	(	_	
+31-23	6382-6384	96	_	
+31-24	6385-6387	CA	_	
+31-25	6387-6388	/	_	
+31-26	6388-6390	CC	_	
+31-27	6391-6394	and	_	
+31-28	6395-6397	32	_	
+31-29	6398-6400	AA	_	
+31-30	6400-6401	)	_	
+31-31	6401-6402	.	_	
+
+#Text=The patients were recruited from the inpatients of the Beijing Anding Hospital.
+32-1	6403-6406	The	_	
+32-2	6407-6415	patients	_	
+32-3	6416-6420	were	_	
+32-4	6421-6430	recruited	_	
+32-5	6431-6435	from	_	
+32-6	6436-6439	the	_	
+32-7	6440-6450	inpatients	_	
+32-8	6451-6453	of	_	
+32-9	6454-6457	the	_	
+32-10	6458-6465	Beijing	_	
+32-11	6466-6472	Anding	_	
+32-12	6473-6481	Hospital	_	
+32-13	6481-6482	.	_	
+
+#Text=All patients fulfilled the DSM-IV criteria for schizophrenia according to the diagnostic consensus of two experienced psychiatrists based on structured interview (SCID).
+33-1	6483-6486	All	_	
+33-2	6487-6495	patients	_	
+33-3	6496-6505	fulfilled	_	
+33-4	6506-6509	the	_	
+33-5	6510-6516	DSM-IV	_	
+33-6	6517-6525	criteria	_	
+33-7	6526-6529	for	_	
+33-8	6530-6543	schizophrenia	http://maven.renci.org/NeuroBridge/neurobridge#Schizophrenia	
+33-9	6544-6553	according	_	
+33-10	6554-6556	to	_	
+33-11	6557-6560	the	_	
+33-12	6561-6571	diagnostic	_	
+33-13	6572-6581	consensus	_	
+33-14	6582-6584	of	_	
+33-15	6585-6588	two	_	
+33-16	6589-6600	experienced	_	
+33-17	6601-6614	psychiatrists	_	
+33-18	6615-6620	based	_	
+33-19	6621-6623	on	_	
+33-20	6624-6634	structured	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders[9]	
+33-21	6635-6644	interview	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders[9]	
+33-22	6645-6646	(	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders[9]	
+33-23	6646-6650	SCID	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders[9]	
+33-24	6650-6651	)	http://maven.renci.org/NeuroBridge/neurobridge#StructuredClinicalInterviewforDSMDisorders[9]	
+33-25	6651-6652	.	_	
+
+#Text=The positive and negative syndrome scale (PANSS) was used to assess each patient's positive (SAPS) and negative (SANS) symptoms.
+34-1	6653-6656	The	_	
+34-2	6657-6665	positive	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale[10]	
+34-3	6666-6669	and	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale[10]	
+34-4	6670-6678	negative	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale[10]	
+34-5	6679-6687	syndrome	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale[10]	
+34-6	6688-6693	scale	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale[10]	
+34-7	6694-6695	(	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale[10]	
+34-8	6695-6700	PANSS	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale[10]	
+34-9	6700-6701	)	http://maven.renci.org/NeuroBridge/neurobridge#PositiveandNegativeSyndromeScale[10]	
+34-10	6702-6705	was	_	
+34-11	6706-6710	used	_	
+34-12	6711-6713	to	_	
+34-13	6714-6720	assess	_	
+34-14	6721-6725	each	_	
+34-15	6726-6735	patient's	_	
+34-16	6736-6744	positive	_	
+34-17	6745-6746	(	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofPositiveSymptoms[11]	
+34-18	6746-6750	SAPS	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofPositiveSymptoms[11]	
+34-19	6750-6751	)	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofPositiveSymptoms[11]	
+34-20	6752-6755	and	_	
+34-21	6756-6764	negative	_	
+34-22	6765-6766	(	_	
+34-23	6766-6770	SANS	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofNegativeSymptoms	
+34-24	6770-6771	)	_	
+34-25	6772-6780	symptoms	_	
+34-26	6780-6781	.	_	
+
+#Text=The mean scores of the SAPS and SANS are shown in Table 1.
+35-1	6782-6785	The	_	
+35-2	6786-6790	mean	_	
+35-3	6791-6797	scores	_	
+35-4	6798-6800	of	_	
+35-5	6801-6804	the	_	
+35-6	6805-6809	SAPS	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofPositiveSymptoms	
+35-7	6810-6813	and	_	
+35-8	6814-6818	SANS	http://maven.renci.org/NeuroBridge/neurobridge#ScaleforAssessmentofNegativeSymptoms	
+35-9	6819-6822	are	_	
+35-10	6823-6828	shown	_	
+35-11	6829-6831	in	_	
+35-12	6832-6837	Table	_	
+35-13	6838-6839	1	_	
+35-14	6839-6840	.	_	
+
+#Text=All patients were treated with stable doses of atypical antipsychotics for > 2 weeks.
+36-1	6841-6844	All	_	
+36-2	6845-6853	patients	_	
+36-3	6854-6858	were	_	
+36-4	6859-6866	treated	_	
+36-5	6867-6871	with	_	
+36-6	6872-6878	stable	_	
+36-7	6879-6884	doses	_	
+36-8	6885-6887	of	_	
+36-9	6888-6896	atypical	_	
+36-10	6897-6911	antipsychotics	_	
+36-11	6912-6915	for	_	
+36-12	6916-6917	>	_	
+36-13	6917-6918	 	_	
+36-14	6918-6919	2	_	
+36-15	6919-6920	 	_	
+36-16	6920-6925	weeks	_	
+36-17	6925-6926	.	_	
+
+#Text=Antipsychotic drugs included clozapine (5 patients), olanzapine (13 patients), risperidone (22 patients), aripiprazole (6 patients), and haloperidol (6 patients).
+37-1	6927-6940	Antipsychotic	_	
+37-2	6941-6946	drugs	_	
+37-3	6947-6955	included	_	
+37-4	6956-6965	clozapine	_	
+37-5	6966-6967	(	_	
+37-6	6967-6968	5	_	
+37-7	6969-6977	patients	_	
+37-8	6977-6978	)	_	
+37-9	6978-6979	,	_	
+37-10	6980-6990	olanzapine	_	
+37-11	6991-6992	(	_	
+37-12	6992-6994	13	_	
+37-13	6995-7003	patients	_	
+37-14	7003-7004	)	_	
+37-15	7004-7005	,	_	
+37-16	7006-7017	risperidone	_	
+37-17	7018-7019	(	_	
+37-18	7019-7021	22	_	
+37-19	7022-7030	patients	_	
+37-20	7030-7031	)	_	
+37-21	7031-7032	,	_	
+37-22	7033-7045	aripiprazole	_	
+37-23	7046-7047	(	_	
+37-24	7047-7048	6	_	
+37-25	7049-7057	patients	_	
+37-26	7057-7058	)	_	
+37-27	7058-7059	,	_	
+37-28	7060-7063	and	_	
+37-29	7064-7075	haloperidol	_	
+37-30	7076-7077	(	_	
+37-31	7077-7078	6	_	
+37-32	7079-7087	patients	_	
+37-33	7087-7088	)	_	
+37-34	7088-7089	.	_	
+
+#Text=No antidepressants were involved.
+38-1	7090-7092	No	_	
+38-2	7093-7108	antidepressants	_	
+38-3	7109-7113	were	_	
+38-4	7114-7122	involved	_	
+38-5	7122-7123	.	_	
+
+#Text=Patients took 2.5–5 mg diazepam occasionally for their insomnia.
+39-1	7124-7132	Patients	_	
+39-2	7133-7137	took	_	
+39-3	7138-7141	2.5	_	
+39-4	7141-7142	–	_	
+39-5	7142-7143	5	_	
+39-6	7143-7144	 	_	
+39-7	7144-7146	mg	_	
+39-8	7147-7155	diazepam	_	
+39-9	7156-7168	occasionally	_	
+39-10	7169-7172	for	_	
+39-11	7173-7178	their	_	
+39-12	7179-7187	insomnia	_	
+39-13	7187-7188	.	_	
+
+#Text=However, patients were asked not to take diazepam or other benzodiazepines on the night before the scan.
+40-1	7189-7196	However	_	
+40-2	7196-7197	,	_	
+40-3	7198-7206	patients	_	
+40-4	7207-7211	were	_	
+40-5	7212-7217	asked	_	
+40-6	7218-7221	not	_	
+40-7	7222-7224	to	_	
+40-8	7225-7229	take	_	
+40-9	7230-7238	diazepam	_	
+40-10	7239-7241	or	_	
+40-11	7242-7247	other	_	
+40-12	7248-7263	benzodiazepines	_	
+40-13	7264-7266	on	_	
+40-14	7267-7270	the	_	
+40-15	7271-7276	night	_	
+40-16	7277-7283	before	_	
+40-17	7284-7287	the	_	
+40-18	7288-7292	scan	_	
+40-19	7292-7293	.	_	
+
+#Text=If they did, their appointments for fMRI scans were canceled.
+41-1	7294-7296	If	_	
+41-2	7297-7301	they	_	
+41-3	7302-7305	did	_	
+41-4	7305-7306	,	_	
+41-5	7307-7312	their	_	
+41-6	7313-7325	appointments	_	
+41-7	7326-7329	for	_	
+41-8	7330-7334	fMRI	_	
+41-9	7335-7340	scans	_	
+41-10	7341-7345	were	_	
+41-11	7346-7354	canceled	_	
+41-12	7354-7355	.	_	
+
+#Text=Exclusion criteria for the patients included a history of other psychiatric disorders and severe brain injury (any closed or open injuries that may be related to current symptoms or cognitive functions), current substance abuse, and currently having acute psychotic episodes.
+42-1	7356-7365	Exclusion	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-2	7366-7374	criteria	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-3	7375-7378	for	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-4	7379-7382	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-5	7383-7391	patients	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-6	7392-7400	included	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-7	7401-7402	a	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-8	7403-7410	history	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-9	7411-7413	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-10	7414-7419	other	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-11	7420-7431	psychiatric	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-12	7432-7441	disorders	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-13	7442-7445	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-14	7446-7452	severe	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-15	7453-7458	brain	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-16	7459-7465	injury	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-17	7466-7467	(	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-18	7467-7470	any	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-19	7471-7477	closed	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-20	7478-7480	or	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-21	7481-7485	open	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-22	7486-7494	injuries	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-23	7495-7499	that	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-24	7500-7503	may	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-25	7504-7506	be	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-26	7507-7514	related	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-27	7515-7517	to	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-28	7518-7525	current	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-29	7526-7534	symptoms	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-30	7535-7537	or	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-31	7538-7547	cognitive	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-32	7548-7557	functions	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-33	7557-7558	)	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-34	7558-7559	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-35	7560-7567	current	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-36	7568-7577	substance	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-37	7578-7583	abuse	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-38	7583-7584	,	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-39	7585-7588	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-40	7589-7598	currently	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-41	7599-7605	having	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-42	7606-7611	acute	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-43	7612-7621	psychotic	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-44	7622-7630	episodes	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+42-45	7630-7631	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[12]	
+
+#Text=The healthy controls were recruited from the same geographical region as the patients by advertisement and received unstructured clinical interview by experienced psychiatrists to screen for any personal or family history of psychiatric disorders.
+43-1	7632-7635	The	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-2	7636-7643	healthy	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]|http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[14]	
+43-3	7644-7652	controls	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]|http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[14]	
+43-4	7653-7657	were	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-5	7658-7667	recruited	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-6	7668-7672	from	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-7	7673-7676	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-8	7677-7681	same	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-9	7682-7694	geographical	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-10	7695-7701	region	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-11	7702-7704	as	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-12	7705-7708	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-13	7709-7717	patients	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-14	7718-7720	by	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-15	7721-7734	advertisement	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-16	7735-7738	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-17	7739-7747	received	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-18	7748-7760	unstructured	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-19	7761-7769	clinical	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-20	7770-7779	interview	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-21	7780-7782	by	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-22	7783-7794	experienced	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-23	7795-7808	psychiatrists	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-24	7809-7811	to	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-25	7812-7818	screen	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-26	7819-7822	for	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-27	7823-7826	any	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-28	7827-7835	personal	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-29	7836-7838	or	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-30	7839-7845	family	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-31	7846-7853	history	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-32	7854-7856	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-33	7857-7868	psychiatric	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-34	7869-7878	disorders	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+43-35	7878-7879	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[13]	
+
+#Text=Most healthy controls were involved in our previous studies.
+44-1	7880-7884	Most	_	
+44-2	7885-7892	healthy	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[15]	
+44-3	7893-7901	controls	http://maven.renci.org/NeuroBridge/neurobridge#NoKnownDisorder[15]	
+44-4	7902-7906	were	_	
+44-5	7907-7915	involved	_	
+44-6	7916-7918	in	_	
+44-7	7919-7922	our	_	
+44-8	7923-7931	previous	_	
+44-9	7932-7939	studies	_	
+44-10	7939-7940	.	_	
+
+#Text=All patients and controls had normal or corrected-to-normal vision and were right-handed as assessed by the Edinburgh handedness inventory.
+45-1	7941-7944	All	_	
+45-2	7945-7953	patients	_	
+45-3	7954-7957	and	_	
+45-4	7958-7966	controls	_	
+45-5	7967-7970	had	_	
+45-6	7971-7977	normal	_	
+45-7	7978-7980	or	_	
+45-8	7981-8000	corrected-to-normal	_	
+45-9	8001-8007	vision	_	
+45-10	8008-8011	and	_	
+45-11	8012-8016	were	_	
+45-12	8017-8029	right-handed	_	
+45-13	8030-8032	as	_	
+45-14	8033-8041	assessed	_	
+45-15	8042-8044	by	_	
+45-16	8045-8048	the	_	
+45-17	8049-8058	Edinburgh	_	
+45-18	8059-8069	handedness	_	
+45-19	8070-8079	inventory	_	
+45-20	8079-8080	.	_	
+
+#Text=None of the patients and controls reported any history of hard drug use (e.g., cocaine, crack, heroin, methamphetamine, etc.).
+46-1	8081-8085	None	_	
+46-2	8086-8088	of	_	
+46-3	8089-8092	the	_	
+46-4	8093-8101	patients	_	
+46-5	8102-8105	and	_	
+46-6	8106-8114	controls	_	
+46-7	8115-8123	reported	_	
+46-8	8124-8127	any	_	
+46-9	8128-8135	history	_	
+46-10	8136-8138	of	_	
+46-11	8139-8143	hard	_	
+46-12	8144-8148	drug	_	
+46-13	8149-8152	use	_	
+46-14	8153-8154	(	_	
+46-15	8154-8157	e.g	_	
+46-16	8157-8158	.	_	
+46-17	8158-8159	,	_	
+46-18	8160-8167	cocaine	_	
+46-19	8167-8168	,	_	
+46-20	8169-8174	crack	_	
+46-21	8174-8175	,	_	
+46-22	8176-8182	heroin	_	
+46-23	8182-8183	,	_	
+46-24	8184-8199	methamphetamine	_	
+46-25	8199-8200	,	_	
+46-26	8201-8204	etc	_	
+46-27	8204-8205	.	_	
+46-28	8205-8206	)	_	
+46-29	8206-8207	.	_	
+
+#Text=Additional demographic and clinical information for both patients and controls is shown in Table 1.
+47-1	8208-8218	Additional	_	
+47-2	8219-8230	demographic	_	
+47-3	8231-8234	and	_	
+47-4	8235-8243	clinical	_	
+47-5	8244-8255	information	_	
+47-6	8256-8259	for	_	
+47-7	8260-8264	both	_	
+47-8	8265-8273	patients	_	
+47-9	8274-8277	and	_	
+47-10	8278-8286	controls	_	
+47-11	8287-8289	is	_	
+47-12	8290-8295	shown	_	
+47-13	8296-8298	in	_	
+47-14	8299-8304	Table	_	
+47-15	8305-8306	1	_	
+47-16	8306-8307	.	_	
+
+#Text=This study's protocol was reviewed and approved by the Institutional Review Board of the Institute of Cognitive Neuroscience and Learning at Beijing Normal University.
+48-1	8308-8312	This	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-2	8313-8320	study's	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-3	8321-8329	protocol	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-4	8330-8333	was	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-5	8334-8342	reviewed	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-6	8343-8346	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-7	8347-8355	approved	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-8	8356-8358	by	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-9	8359-8362	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-10	8363-8376	Institutional	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-11	8377-8383	Review	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-12	8384-8389	Board	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-13	8390-8392	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-14	8393-8396	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-15	8397-8406	Institute	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-16	8407-8409	of	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-17	8410-8419	Cognitive	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-18	8420-8432	Neuroscience	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-19	8433-8436	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-20	8437-8445	Learning	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-21	8446-8448	at	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-22	8449-8456	Beijing	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-23	8457-8463	Normal	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-24	8464-8474	University	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+48-25	8474-8475	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+
+#Text=This study was conducted in accordance with the approved protocol.
+49-1	8476-8480	This	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+49-2	8481-8486	study	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+49-3	8487-8490	was	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+49-4	8491-8500	conducted	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+49-5	8501-8503	in	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+49-6	8504-8514	accordance	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+49-7	8515-8519	with	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+49-8	8520-8523	the	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+49-9	8524-8532	approved	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+49-10	8533-8541	protocol	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+49-11	8541-8542	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+
+#Text=All participants were Han Chinese and gave written informed consent for this study.
+50-1	8543-8546	All	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-2	8547-8559	participants	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-3	8560-8564	were	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-4	8565-8568	Han	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-5	8569-8576	Chinese	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-6	8577-8580	and	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-7	8581-8585	gave	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-8	8586-8593	written	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-9	8594-8602	informed	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-10	8603-8610	consent	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-11	8611-8614	for	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-12	8615-8619	this	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-13	8620-8625	study	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+50-14	8625-8626	.	http://maven.renci.org/NeuroBridge/neurobridge#RecruitmentProtocol[16]	
+
+#Text=Genotyping
+#Text=Genomic DNA was extracted using the standard method.
+51-1	8627-8637	Genotyping	_	
+51-2	8638-8645	Genomic	_	
+51-3	8646-8649	DNA	_	
+51-4	8650-8653	was	_	
+51-5	8654-8663	extracted	_	
+51-6	8664-8669	using	_	
+51-7	8670-8673	the	_	
+51-8	8674-8682	standard	_	
+51-9	8683-8689	method	_	
+51-10	8689-8690	.	_	
+
+#Text=The SNP rs1344706 was genotyped using TaqMan allele-specific assays on the 7900HT Fast Real-Time PCR System (Applied Biosystems, Foster City, CA, U.S.A.).
+52-1	8691-8694	The	_	
+52-2	8695-8698	SNP	_	
+52-3	8699-8708	rs1344706	_	
+52-4	8709-8712	was	_	
+52-5	8713-8722	genotyped	_	
+52-6	8723-8728	using	_	
+52-7	8729-8735	TaqMan	_	
+52-8	8736-8751	allele-specific	_	
+52-9	8752-8758	assays	_	
+52-10	8759-8761	on	_	
+52-11	8762-8765	the	_	
+52-12	8766-8772	7900HT	_	
+52-13	8773-8777	Fast	_	
+52-14	8778-8787	Real-Time	_	
+52-15	8788-8791	PCR	_	
+52-16	8792-8798	System	_	
+52-17	8799-8800	(	_	
+52-18	8800-8807	Applied	_	
+52-19	8808-8818	Biosystems	_	
+52-20	8818-8819	,	_	
+52-21	8820-8826	Foster	_	
+52-22	8827-8831	City	_	
+52-23	8831-8832	,	_	
+52-24	8833-8835	CA	_	
+52-25	8835-8836	,	_	
+52-26	8837-8842	U.S.A	_	
+52-27	8842-8843	.	_	
+52-28	8843-8844	)	_	
+52-29	8844-8845	.	_	
+
+#Text=The sample success rate was 100%.
+53-1	8846-8849	The	_	
+53-2	8850-8856	sample	_	
+53-3	8857-8864	success	_	
+53-4	8865-8869	rate	_	
+53-5	8870-8873	was	_	
+53-6	8874-8878	100%	_	
+53-7	8878-8879	.	_	
+
+#Text=The reproducibility of the genotyping was 100% based on a duplicate analysis of 40% of the genotypes.
+54-1	8880-8883	The	_	
+54-2	8884-8899	reproducibility	_	
+54-3	8900-8902	of	_	
+54-4	8903-8906	the	_	
+54-5	8907-8917	genotyping	_	
+54-6	8918-8921	was	_	
+54-7	8922-8926	100%	_	
+54-8	8927-8932	based	_	
+54-9	8933-8935	on	_	
+54-10	8936-8937	a	_	
+54-11	8938-8947	duplicate	_	
+54-12	8948-8956	analysis	_	
+54-13	8957-8959	of	_	
+54-14	8960-8963	40%	_	
+54-15	8964-8966	of	_	
+54-16	8967-8970	the	_	
+54-17	8971-8980	genotypes	_	
+54-18	8980-8981	.	_	
+
+#Text=Imaging data acquisition
+#Text=All imaging data were acquired at the Brain Imaging Center of Beijing Normal University.
+55-1	8982-8989	Imaging	_	
+55-2	8990-8994	data	_	
+55-3	8995-9006	acquisition	_	
+55-4	9007-9010	All	_	
+55-5	9011-9018	imaging	_	
+55-6	9019-9023	data	_	
+55-7	9024-9028	were	_	
+55-8	9029-9037	acquired	_	
+55-9	9038-9040	at	_	
+55-10	9041-9044	the	_	
+55-11	9045-9050	Brain	_	
+55-12	9051-9058	Imaging	_	
+55-13	9059-9065	Center	_	
+55-14	9066-9068	of	_	
+55-15	9069-9076	Beijing	_	
+55-16	9077-9083	Normal	_	
+55-17	9084-9094	University	_	
+55-18	9094-9095	.	_	
+
+#Text=All participants were scanned on a Siemens 3 T scanner (Siemens, Erlangen, Germany) with their head snugly fixed with straps and foam pads to restrict head movement.
+56-1	9096-9099	All	_	
+56-2	9100-9112	participants	_	
+56-3	9113-9117	were	_	
+56-4	9118-9125	scanned	_	
+56-5	9126-9128	on	_	
+56-6	9129-9130	a	_	
+56-7	9131-9138	Siemens	_	
+56-8	9139-9140	3	_	
+56-9	9140-9141	 	_	
+56-10	9141-9142	T	_	
+56-11	9143-9150	scanner	_	
+56-12	9151-9152	(	_	
+56-13	9152-9159	Siemens	_	
+56-14	9159-9160	,	_	
+56-15	9161-9169	Erlangen	_	
+56-16	9169-9170	,	_	
+56-17	9171-9178	Germany	_	
+56-18	9178-9179	)	_	
+56-19	9180-9184	with	_	
+56-20	9185-9190	their	_	
+56-21	9191-9195	head	_	
+56-22	9196-9202	snugly	_	
+56-23	9203-9208	fixed	_	
+56-24	9209-9213	with	_	
+56-25	9214-9220	straps	_	
+56-26	9221-9224	and	_	
+56-27	9225-9229	foam	_	
+56-28	9230-9234	pads	_	
+56-29	9235-9237	to	_	
+56-30	9238-9246	restrict	_	
+56-31	9247-9251	head	_	
+56-32	9252-9260	movement	_	
+56-33	9260-9261	.	_	
+
+#Text=Resting-state images (240 volumes) were acquired first, followed by the T1 scan.
+57-1	9262-9275	Resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging[17]	
+57-2	9276-9282	images	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging[17]	
+57-3	9283-9284	(	_	
+57-4	9284-9287	240	_	
+57-5	9288-9295	volumes	_	
+57-6	9295-9296	)	_	
+57-7	9297-9301	were	_	
+57-8	9302-9310	acquired	_	
+57-9	9311-9316	first	_	
+57-10	9316-9317	,	_	
+57-11	9318-9326	followed	_	
+57-12	9327-9329	by	_	
+57-13	9330-9333	the	_	
+57-14	9334-9336	T1	_	
+57-15	9337-9341	scan	_	
+57-16	9341-9342	.	_	
+
+#Text=During the resting-state fMRI data collection (lasting about 8 min), all subjects were required to keep their eyes closed, to stay still but relaxed, and not to think of anything in particular and not to fall asleep.
+58-1	9343-9349	During	_	
+58-2	9350-9353	the	_	
+58-3	9354-9367	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging[18]	
+58-4	9368-9372	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging[18]	
+58-5	9373-9377	data	_	
+58-6	9378-9388	collection	_	
+58-7	9389-9390	(	_	
+58-8	9390-9397	lasting	_	
+58-9	9398-9403	about	_	
+58-10	9404-9405	8	_	
+58-11	9405-9406	 	_	
+58-12	9406-9409	min	_	
+58-13	9409-9410	)	_	
+58-14	9410-9411	,	_	
+58-15	9412-9415	all	_	
+58-16	9416-9424	subjects	_	
+58-17	9425-9429	were	_	
+58-18	9430-9438	required	_	
+58-19	9439-9441	to	_	
+58-20	9442-9446	keep	_	
+58-21	9447-9452	their	_	
+58-22	9453-9457	eyes	_	
+58-23	9458-9464	closed	_	
+58-24	9464-9465	,	_	
+58-25	9466-9468	to	_	
+58-26	9469-9473	stay	_	
+58-27	9474-9479	still	_	
+58-28	9480-9483	but	_	
+58-29	9484-9491	relaxed	_	
+58-30	9491-9492	,	_	
+58-31	9493-9496	and	_	
+58-32	9497-9500	not	_	
+58-33	9501-9503	to	_	
+58-34	9504-9509	think	_	
+58-35	9510-9512	of	_	
+58-36	9513-9521	anything	_	
+58-37	9522-9524	in	_	
+58-38	9525-9535	particular	_	
+58-39	9536-9539	and	_	
+58-40	9540-9543	not	_	
+58-41	9544-9546	to	_	
+58-42	9547-9551	fall	_	
+58-43	9552-9558	asleep	_	
+58-44	9558-9559	.	_	
+
+#Text=The resting-state images were collected axially using echo-planar imaging (EPI) sequence: repetition time (TR) = 2000 ms; echo time (TE) = 30 ms; flip angle (FA) = 90°; field of view (FOV) = 200 × 200 mm2; matrix size = 64 × 64; axial slices = 31; 4.0 mm slice thickness without gap; voxel size = 3.125 × 3.125 × 4.0 mm3.
+59-1	9560-9563	The	_	
+59-2	9564-9577	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging	
+59-3	9578-9584	images	_	
+59-4	9585-9589	were	_	
+59-5	9590-9599	collected	_	
+59-6	9600-9607	axially	_	
+59-7	9608-9613	using	_	
+59-8	9614-9625	echo-planar	_	
+59-9	9626-9633	imaging	_	
+59-10	9634-9635	(	_	
+59-11	9635-9638	EPI	_	
+59-12	9638-9639	)	_	
+59-13	9640-9648	sequence	_	
+59-14	9648-9649	:	_	
+59-15	9650-9660	repetition	_	
+59-16	9661-9665	time	_	
+59-17	9666-9667	(	_	
+59-18	9667-9669	TR	_	
+59-19	9669-9670	)	_	
+59-20	9670-9671	 	_	
+59-21	9671-9672	=	_	
+59-22	9672-9673	 	_	
+59-23	9673-9677	2000	_	
+59-24	9677-9678	 	_	
+59-25	9678-9680	ms	_	
+59-26	9680-9681	;	_	
+59-27	9682-9686	echo	_	
+59-28	9687-9691	time	_	
+59-29	9692-9693	(	_	
+59-30	9693-9695	TE	_	
+59-31	9695-9696	)	_	
+59-32	9696-9697	 	_	
+59-33	9697-9698	=	_	
+59-34	9698-9699	 	_	
+59-35	9699-9701	30	_	
+59-36	9701-9702	 	_	
+59-37	9702-9704	ms	_	
+59-38	9704-9705	;	_	
+59-39	9706-9710	flip	_	
+59-40	9711-9716	angle	_	
+59-41	9717-9718	(	_	
+59-42	9718-9720	FA	_	
+59-43	9720-9721	)	_	
+59-44	9721-9722	 	_	
+59-45	9722-9723	=	_	
+59-46	9723-9724	 	_	
+59-47	9724-9726	90	_	
+59-48	9726-9727	°	_	
+59-49	9727-9728	;	_	
+59-50	9729-9734	field	_	
+59-51	9735-9737	of	_	
+59-52	9738-9742	view	_	
+59-53	9743-9744	(	_	
+59-54	9744-9747	FOV	_	
+59-55	9747-9748	)	_	
+59-56	9748-9749	 	_	
+59-57	9749-9750	=	_	
+59-58	9750-9751	 	_	
+59-59	9751-9754	200	_	
+59-60	9754-9755	 	_	
+59-61	9755-9756	×	_	
+59-62	9756-9757	 	_	
+59-63	9757-9760	200	_	
+59-64	9760-9761	 	_	
+59-65	9761-9764	mm2	_	
+59-66	9764-9765	;	_	
+59-67	9766-9772	matrix	_	
+59-68	9773-9777	size	_	
+59-69	9777-9778	 	_	
+59-70	9778-9779	=	_	
+59-71	9779-9780	 	_	
+59-72	9780-9782	64	_	
+59-73	9782-9783	 	_	
+59-74	9783-9784	×	_	
+59-75	9784-9785	 	_	
+59-76	9785-9787	64	_	
+59-77	9787-9788	;	_	
+59-78	9789-9794	axial	_	
+59-79	9795-9801	slices	_	
+59-80	9801-9802	 	_	
+59-81	9802-9803	=	_	
+59-82	9803-9804	 	_	
+59-83	9804-9806	31	_	
+59-84	9806-9807	;	_	
+59-85	9808-9811	4.0	_	
+59-86	9811-9812	 	_	
+59-87	9812-9814	mm	_	
+59-88	9815-9820	slice	_	
+59-89	9821-9830	thickness	_	
+59-90	9831-9838	without	_	
+59-91	9839-9842	gap	_	
+59-92	9842-9843	;	_	
+59-93	9844-9849	voxel	_	
+59-94	9850-9854	size	_	
+59-95	9854-9855	 	_	
+59-96	9855-9856	=	_	
+59-97	9856-9857	 	_	
+59-98	9857-9862	3.125	_	
+59-99	9862-9863	 	_	
+59-100	9863-9864	×	_	
+59-101	9864-9865	 	_	
+59-102	9865-9870	3.125	_	
+59-103	9870-9871	 	_	
+59-104	9871-9872	×	_	
+59-105	9872-9873	 	_	
+59-106	9873-9876	4.0	_	
+59-107	9876-9877	 	_	
+59-108	9877-9880	mm3	_	
+59-109	9880-9881	.	_	
+
+#Text=Structural images were acquired using a T1-weighted sagittal 3D magnetization-prepared rapid gradient echo (MPRAGE) sequence: TR = 2530 ms; TE = 3.45 ms; FA = 7o; FOV = 256 × 256 mm2; matrix size = 256 × 256; slices = 176; thickness = 1.0 mm; voxel size = 1 × 1 × 1 mm3.
+#Text=fMRI data preprocessing
+#Text=Functional imaging data were preprocessed and analyzed using Statistical Parametric Mapping (SPM12, Wellcome Department of Cognitive Neurology, London, UK).
+60-1	9882-9892	Structural	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging[19]	
+60-2	9893-9899	images	http://maven.renci.org/NeuroBridge/neurobridge#StructuralImaging[19]	
+60-3	9900-9904	were	_	
+60-4	9905-9913	acquired	_	
+60-5	9914-9919	using	_	
+60-6	9920-9921	a	_	
+60-7	9922-9924	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[20]	
+60-8	9924-9925	-	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[20]	
+60-9	9925-9933	weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[20]	
+60-10	9934-9942	sagittal	_	
+60-11	9943-9945	3D	_	
+60-12	9946-9968	magnetization-prepared	_	
+60-13	9969-9974	rapid	_	
+60-14	9975-9983	gradient	_	
+60-15	9984-9988	echo	_	
+60-16	9989-9990	(	_	
+60-17	9990-9996	MPRAGE	_	
+60-18	9996-9997	)	_	
+60-19	9998-10006	sequence	_	
+60-20	10006-10007	:	_	
+60-21	10008-10010	TR	_	
+60-22	10010-10011	 	_	
+60-23	10011-10012	=	_	
+60-24	10012-10013	 	_	
+60-25	10013-10017	2530	_	
+60-26	10017-10018	 	_	
+60-27	10018-10020	ms	_	
+60-28	10020-10021	;	_	
+60-29	10022-10024	TE	_	
+60-30	10024-10025	 	_	
+60-31	10025-10026	=	_	
+60-32	10026-10027	 	_	
+60-33	10027-10031	3.45	_	
+60-34	10031-10032	 	_	
+60-35	10032-10034	ms	_	
+60-36	10034-10035	;	_	
+60-37	10036-10038	FA	_	
+60-38	10038-10039	 	_	
+60-39	10039-10040	=	_	
+60-40	10040-10041	 	_	
+60-41	10041-10043	7o	_	
+60-42	10043-10044	;	_	
+60-43	10045-10048	FOV	_	
+60-44	10048-10049	 	_	
+60-45	10049-10050	=	_	
+60-46	10050-10051	 	_	
+60-47	10051-10054	256	_	
+60-48	10054-10055	 	_	
+60-49	10055-10056	×	_	
+60-50	10056-10057	 	_	
+60-51	10057-10060	256	_	
+60-52	10060-10061	 	_	
+60-53	10061-10064	mm2	_	
+60-54	10064-10065	;	_	
+60-55	10066-10072	matrix	_	
+60-56	10073-10077	size	_	
+60-57	10077-10078	 	_	
+60-58	10078-10079	=	_	
+60-59	10079-10080	 	_	
+60-60	10080-10083	256	_	
+60-61	10083-10084	 	_	
+60-62	10084-10085	×	_	
+60-63	10085-10086	 	_	
+60-64	10086-10089	256	_	
+60-65	10089-10090	;	_	
+60-66	10091-10097	slices	_	
+60-67	10097-10098	 	_	
+60-68	10098-10099	=	_	
+60-69	10099-10100	 	_	
+60-70	10100-10103	176	_	
+60-71	10103-10104	;	_	
+60-72	10105-10114	thickness	_	
+60-73	10114-10115	 	_	
+60-74	10115-10116	=	_	
+60-75	10116-10117	 	_	
+60-76	10117-10120	1.0	_	
+60-77	10120-10121	 	_	
+60-78	10121-10123	mm	_	
+60-79	10123-10124	;	_	
+60-80	10125-10130	voxel	_	
+60-81	10131-10135	size	_	
+60-82	10135-10136	 	_	
+60-83	10136-10137	=	_	
+60-84	10137-10138	 	_	
+60-85	10138-10139	1	_	
+60-86	10139-10140	 	_	
+60-87	10140-10141	×	_	
+60-88	10141-10142	 	_	
+60-89	10142-10143	1	_	
+60-90	10143-10144	 	_	
+60-91	10144-10145	×	_	
+60-92	10145-10146	 	_	
+60-93	10146-10147	1	_	
+60-94	10147-10148	 	_	
+60-95	10148-10151	mm3	_	
+60-96	10151-10152	.	_	
+60-97	10153-10157	fMRI	_	
+60-98	10158-10162	data	_	
+60-99	10163-10176	preprocessing	_	
+60-100	10177-10187	Functional	_	
+60-101	10188-10195	imaging	_	
+60-102	10196-10200	data	_	
+60-103	10201-10205	were	_	
+60-104	10206-10218	preprocessed	_	
+60-105	10219-10222	and	_	
+60-106	10223-10231	analyzed	_	
+60-107	10232-10237	using	_	
+60-108	10238-10249	Statistical	_	
+60-109	10250-10260	Parametric	_	
+60-110	10261-10268	Mapping	_	
+60-111	10269-10270	(	_	
+60-112	10270-10275	SPM12	_	
+60-113	10275-10276	,	_	
+60-114	10277-10285	Wellcome	_	
+60-115	10286-10296	Department	_	
+60-116	10297-10299	of	_	
+60-117	10300-10309	Cognitive	_	
+60-118	10310-10319	Neurology	_	
+60-119	10319-10320	,	_	
+60-120	10321-10327	London	_	
+60-121	10327-10328	,	_	
+60-122	10329-10331	UK	_	
+60-123	10331-10332	)	_	
+60-124	10332-10333	.	_	
+
+#Text=Preprocessing of resting-state fMRI data included slice timing (to correct the acquisition time differences between slices), realignment (participants with > 3 mm maximum displacement in any of the x, y, z directions or > 3° of angular rotation about any axis were excluded), normalization to the MNI space (each participant's T1-weighted images were first coregistered to the mean functional image after head motion correction and then segmented into white matter, grey matter, and cerebrospinal fluid, and generated segmentation parameters were then used to normalize functional images to the MNI standard space), resampling to voxel size 3 × 3 × 3 mm3, spatial smoothing with a 4-mm full width at half maximum (FWHM) Gaussian kernel, and removal of linear trends and temporal filter (0.01–0.1 Hz, to reduce low-frequency drifts and high-frequency physiological noise).
+61-1	10334-10347	Preprocessing	_	
+61-2	10348-10350	of	_	
+61-3	10351-10364	resting-state	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging[21]	
+61-4	10365-10369	fMRI	http://maven.renci.org/NeuroBridge/neurobridge#RestingStateImaging[21]	
+61-5	10370-10374	data	_	
+61-6	10375-10383	included	_	
+61-7	10384-10389	slice	_	
+61-8	10390-10396	timing	_	
+61-9	10397-10398	(	_	
+61-10	10398-10400	to	_	
+61-11	10401-10408	correct	_	
+61-12	10409-10412	the	_	
+61-13	10413-10424	acquisition	_	
+61-14	10425-10429	time	_	
+61-15	10430-10441	differences	_	
+61-16	10442-10449	between	_	
+61-17	10450-10456	slices	_	
+61-18	10456-10457	)	_	
+61-19	10457-10458	,	_	
+61-20	10459-10470	realignment	_	
+61-21	10471-10472	(	_	
+61-22	10472-10484	participants	_	
+61-23	10485-10489	with	_	
+61-24	10490-10491	>	_	
+61-25	10491-10492	 	_	
+61-26	10492-10493	3	_	
+61-27	10493-10494	 	_	
+61-28	10494-10496	mm	_	
+61-29	10497-10504	maximum	_	
+61-30	10505-10517	displacement	_	
+61-31	10518-10520	in	_	
+61-32	10521-10524	any	_	
+61-33	10525-10527	of	_	
+61-34	10528-10531	the	_	
+61-35	10532-10533	x	_	
+61-36	10533-10534	,	_	
+61-37	10535-10536	y	_	
+61-38	10536-10537	,	_	
+61-39	10538-10539	z	_	
+61-40	10540-10550	directions	_	
+61-41	10551-10553	or	_	
+61-42	10554-10555	>	_	
+61-43	10555-10556	 	_	
+61-44	10556-10557	3	_	
+61-45	10557-10558	°	_	
+61-46	10559-10561	of	_	
+61-47	10562-10569	angular	_	
+61-48	10570-10578	rotation	_	
+61-49	10579-10584	about	_	
+61-50	10585-10588	any	_	
+61-51	10589-10593	axis	_	
+61-52	10594-10598	were	_	
+61-53	10599-10607	excluded	_	
+61-54	10607-10608	)	_	
+61-55	10608-10609	,	_	
+61-56	10610-10623	normalization	_	
+61-57	10624-10626	to	_	
+61-58	10627-10630	the	_	
+61-59	10631-10634	MNI	_	
+61-60	10635-10640	space	_	
+61-61	10641-10642	(	_	
+61-62	10642-10646	each	_	
+61-63	10647-10660	participant's	_	
+61-64	10661-10663	T1	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[22]	
+61-65	10663-10664	-	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[22]	
+61-66	10664-10672	weighted	http://maven.renci.org/NeuroBridge/neurobridge#T1WeightedImaging[22]	
+61-67	10673-10679	images	_	
+61-68	10680-10684	were	_	
+61-69	10685-10690	first	_	
+61-70	10691-10703	coregistered	_	
+61-71	10704-10706	to	_	
+61-72	10707-10710	the	_	
+61-73	10711-10715	mean	_	
+61-74	10716-10726	functional	_	
+61-75	10727-10732	image	_	
+61-76	10733-10738	after	_	
+61-77	10739-10743	head	_	
+61-78	10744-10750	motion	_	
+61-79	10751-10761	correction	_	
+61-80	10762-10765	and	_	
+61-81	10766-10770	then	_	
+61-82	10771-10780	segmented	_	
+61-83	10781-10785	into	_	
+61-84	10786-10791	white	_	
+61-85	10792-10798	matter	_	
+61-86	10798-10799	,	_	
+61-87	10800-10804	grey	_	
+61-88	10805-10811	matter	_	
+61-89	10811-10812	,	_	
+61-90	10813-10816	and	_	
+61-91	10817-10830	cerebrospinal	_	
+61-92	10831-10836	fluid	_	
+61-93	10836-10837	,	_	
+61-94	10838-10841	and	_	
+61-95	10842-10851	generated	_	
+61-96	10852-10864	segmentation	_	
+61-97	10865-10875	parameters	_	
+61-98	10876-10880	were	_	
+61-99	10881-10885	then	_	
+61-100	10886-10890	used	_	
+61-101	10891-10893	to	_	
+61-102	10894-10903	normalize	_	
+61-103	10904-10914	functional	_	
+61-104	10915-10921	images	_	
+61-105	10922-10924	to	_	
+61-106	10925-10928	the	_	
+61-107	10929-10932	MNI	_	
+61-108	10933-10941	standard	_	
+61-109	10942-10947	space	_	
+61-110	10947-10948	)	_	
+61-111	10948-10949	,	_	
+61-112	10950-10960	resampling	_	
+61-113	10961-10963	to	_	
+61-114	10964-10969	voxel	_	
+61-115	10970-10974	size	_	
+61-116	10975-10976	3	_	
+61-117	10976-10977	 	_	
+61-118	10977-10978	×	_	
+61-119	10978-10979	 	_	
+61-120	10979-10980	3	_	
+61-121	10980-10981	 	_	
+61-122	10981-10982	×	_	
+61-123	10982-10983	 	_	
+61-124	10983-10984	3	_	
+61-125	10984-10985	 	_	
+61-126	10985-10988	mm3	_	
+61-127	10988-10989	,	_	
+61-128	10990-10997	spatial	_	
+61-129	10998-11007	smoothing	_	
+61-130	11008-11012	with	_	
+61-131	11013-11014	a	_	
+61-132	11015-11016	4	_	
+61-133	11016-11017	-	_	
+61-134	11017-11019	mm	_	
+61-135	11020-11024	full	_	
+61-136	11025-11030	width	_	
+61-137	11031-11033	at	_	
+61-138	11034-11038	half	_	
+61-139	11039-11046	maximum	_	
+61-140	11047-11048	(	_	
+61-141	11048-11052	FWHM	_	
+61-142	11052-11053	)	_	
+61-143	11054-11062	Gaussian	_	
+61-144	11063-11069	kernel	_	
+61-145	11069-11070	,	_	
+61-146	11071-11074	and	_	
+61-147	11075-11082	removal	_	
+61-148	11083-11085	of	_	
+61-149	11086-11092	linear	_	
+61-150	11093-11099	trends	_	
+61-151	11100-11103	and	_	
+61-152	11104-11112	temporal	_	
+61-153	11113-11119	filter	_	
+61-154	11120-11121	(	_	
+61-155	11121-11125	0.01	_	
+61-156	11125-11126	–	_	
+61-157	11126-11129	0.1	_	
+61-158	11129-11130	 	_	
+61-159	11130-11132	Hz	_	
+61-160	11132-11133	,	_	
+61-161	11134-11136	to	_	
+61-162	11137-11143	reduce	_	
+61-163	11144-11157	low-frequency	_	
+61-164	11158-11164	drifts	_	
+61-165	11165-11168	and	_	
+61-166	11169-11183	high-frequency	_	
+61-167	11184-11197	physiological	_	
+61-168	11198-11203	noise	_	
+61-169	11203-11204	)	_	
+61-170	11204-11205	.	_	
+
+#Text=To further reduce the effects of confounding factors, 6 head motion parameters and white matter and cerebrospinal fluid signals were included as covariates.
+62-1	11206-11208	To	_	
+62-2	11209-11216	further	_	
+62-3	11217-11223	reduce	_	
+62-4	11224-11227	the	_	
+62-5	11228-11235	effects	_	
+62-6	11236-11238	of	_	
+62-7	11239-11250	confounding	_	
+62-8	11251-11258	factors	_	
+62-9	11258-11259	,	_	
+62-10	11260-11261	6	_	
+62-11	11262-11266	head	_	
+62-12	11267-11273	motion	_	
+62-13	11274-11284	parameters	_	
+62-14	11285-11288	and	_	
+62-15	11289-11294	white	_	
+62-16	11295-11301	matter	_	
+62-17	11302-11305	and	_	
+62-18	11306-11319	cerebrospinal	_	
+62-19	11320-11325	fluid	_	
+62-20	11326-11333	signals	_	
+62-21	11334-11338	were	_	
+62-22	11339-11347	included	_	
+62-23	11348-11350	as	_	
+62-24	11351-11361	covariates	_	
+62-25	11361-11362	.	_	
+
+#Text=The global mean signal was not included as a covariate.
+63-1	11363-11366	The	_	
+63-2	11367-11373	global	_	
+63-3	11374-11378	mean	_	
+63-4	11379-11385	signal	_	
+63-5	11386-11389	was	_	
+63-6	11390-11393	not	_	
+63-7	11394-11402	included	_	
+63-8	11403-11405	as	_	
+63-9	11406-11407	a	_	
+63-10	11408-11417	covariate	_	
+63-11	11417-11418	.	_	
+
+#Text=Degree centrality analysis
+#Text=Degree centrality (whole-range) is a measure in graph theory that estimates the total connectivity between a voxel and the rest of the brain.
+64-1	11419-11425	Degree	_	
+64-2	11426-11436	centrality	_	
+64-3	11437-11445	analysis	_	
+64-4	11446-11452	Degree	_	
+64-5	11453-11463	centrality	_	
+64-6	11464-11465	(	_	
+64-7	11465-11476	whole-range	_	
+64-8	11476-11477	)	_	
+64-9	11478-11480	is	_	
+64-10	11481-11482	a	_	
+64-11	11483-11490	measure	_	
+64-12	11491-11493	in	_	
+64-13	11494-11499	graph	_	
+64-14	11500-11506	theory	_	
+64-15	11507-11511	that	_	
+64-16	11512-11521	estimates	_	
+64-17	11522-11525	the	_	
+64-18	11526-11531	total	_	
+64-19	11532-11544	connectivity	_	
+64-20	11545-11552	between	_	
+64-21	11553-11554	a	_	
+64-22	11555-11560	voxel	_	
+64-23	11561-11564	and	_	
+64-24	11565-11568	the	_	
+64-25	11569-11573	rest	_	
+64-26	11574-11576	of	_	
+64-27	11577-11580	the	_	
+64-28	11581-11586	brain	_	
+64-29	11586-11587	.	_	
+
+#Text=It has often been used to identify the hub regions of the brain network.
+65-1	11588-11590	It	_	
+65-2	11591-11594	has	_	
+65-3	11595-11600	often	_	
+65-4	11601-11605	been	_	
+65-5	11606-11610	used	_	
+65-6	11611-11613	to	_	
+65-7	11614-11622	identify	_	
+65-8	11623-11626	the	_	
+65-9	11627-11630	hub	_	
+65-10	11631-11638	regions	_	
+65-11	11639-11641	of	_	
+65-12	11642-11645	the	_	
+65-13	11646-11651	brain	_	
+65-14	11652-11659	network	_	
+65-15	11659-11660	.	_	
+
+#Text=Specifically, Pearson's correlation coefficients were computed in all possible pairs of voxels, which resulted in a whole-brain functional connectivity matrix.
+66-1	11661-11673	Specifically	_	
+66-2	11673-11674	,	_	
+66-3	11675-11684	Pearson's	_	
+66-4	11685-11696	correlation	_	
+66-5	11697-11709	coefficients	_	
+66-6	11710-11714	were	_	
+66-7	11715-11723	computed	_	
+66-8	11724-11726	in	_	
+66-9	11727-11730	all	_	
+66-10	11731-11739	possible	_	
+66-11	11740-11745	pairs	_	
+66-12	11746-11748	of	_	
+66-13	11749-11755	voxels	_	
+66-14	11755-11756	,	_	
+66-15	11757-11762	which	_	
+66-16	11763-11771	resulted	_	
+66-17	11772-11774	in	_	
+66-18	11775-11776	a	_	
+66-19	11777-11788	whole-brain	_	
+66-20	11789-11799	functional	_	
+66-21	11800-11812	connectivity	_	
+66-22	11813-11819	matrix	_	
+66-23	11819-11820	.	_	
+
+#Text=This step was restricted to a predefined grey matter mask that was the same as in previous studies.
+67-1	11821-11825	This	_	
+67-2	11826-11830	step	_	
+67-3	11831-11834	was	_	
+67-4	11835-11845	restricted	_	
+67-5	11846-11848	to	_	
+67-6	11849-11850	a	_	
+67-7	11851-11861	predefined	_	
+67-8	11862-11866	grey	_	
+67-9	11867-11873	matter	_	
+67-10	11874-11878	mask	_	
+67-11	11879-11883	that	_	
+67-12	11884-11887	was	_	
+67-13	11888-11891	the	_	
+67-14	11892-11896	same	_	
+67-15	11897-11899	as	_	
+67-16	11900-11902	in	_	
+67-17	11903-11911	previous	_	
+67-18	11912-11919	studies	_	
+67-19	11919-11920	.	_	
+
+#Text=For a given voxel, its degree centrality was calculated using the following equation:where rij was Pearson's correlation coefficient between voxel i and voxel j, and r0 was a correlation threshold that was used to eliminate possible spurious correlations arising from noise.
+68-1	11921-11924	For	_	
+68-2	11925-11926	a	_	
+68-3	11927-11932	given	_	
+68-4	11933-11938	voxel	_	
+68-5	11938-11939	,	_	
+68-6	11940-11943	its	_	
+68-7	11944-11950	degree	_	
+68-8	11951-11961	centrality	_	
+68-9	11962-11965	was	_	
+68-10	11966-11976	calculated	_	
+68-11	11977-11982	using	_	
+68-12	11983-11986	the	_	
+68-13	11987-11996	following	_	
+68-14	11997-12005	equation	_	
+68-15	12005-12006	:	_	
+68-16	12006-12011	where	_	
+68-17	12012-12015	rij	_	
+68-18	12016-12019	was	_	
+68-19	12020-12029	Pearson's	_	
+68-20	12030-12041	correlation	_	
+68-21	12042-12053	coefficient	_	
+68-22	12054-12061	between	_	
+68-23	12062-12067	voxel	_	
+68-24	12068-12069	i	_	
+68-25	12070-12073	and	_	
+68-26	12074-12079	voxel	_	
+68-27	12080-12081	j	_	
+68-28	12081-12082	,	_	
+68-29	12083-12086	and	_	
+68-30	12087-12089	r0	_	
+68-31	12090-12093	was	_	
+68-32	12094-12095	a	_	
+68-33	12096-12107	correlation	_	
+68-34	12108-12117	threshold	_	
+68-35	12118-12122	that	_	
+68-36	12123-12126	was	_	
+68-37	12127-12131	used	_	
+68-38	12132-12134	to	_	
+68-39	12135-12144	eliminate	_	
+68-40	12145-12153	possible	_	
+68-41	12154-12162	spurious	_	
+68-42	12163-12175	correlations	_	
+68-43	12176-12183	arising	_	
+68-44	12184-12188	from	_	
+68-45	12189-12194	noise	_	
+68-46	12194-12195	.	_	
+
+#Text=In the current study, r0 = 0.2.
+69-1	12196-12198	In	_	
+69-2	12199-12202	the	_	
+69-3	12203-12210	current	_	
+69-4	12211-12216	study	_	
+69-5	12216-12217	,	_	
+69-6	12218-12220	r0	_	
+69-7	12220-12221	 	_	
+69-8	12221-12222	=	_	
+69-9	12222-12223	 	_	
+69-10	12223-12226	0.2	_	
+69-11	12226-12227	.	_	
+
+#Text=It is worth noting that different correlation thresholds did not change the connection pattern significantly, which is consistent with previous reports.
+70-1	12228-12230	It	_	
+70-2	12231-12233	is	_	
+70-3	12234-12239	worth	_	
+70-4	12240-12246	noting	_	
+70-5	12247-12251	that	_	
+70-6	12252-12261	different	_	
+70-7	12262-12273	correlation	_	
+70-8	12274-12284	thresholds	_	
+70-9	12285-12288	did	_	
+70-10	12289-12292	not	_	
+70-11	12293-12299	change	_	
+70-12	12300-12303	the	_	
+70-13	12304-12314	connection	_	
+70-14	12315-12322	pattern	_	
+70-15	12323-12336	significantly	_	
+70-16	12336-12337	,	_	
+70-17	12338-12343	which	_	
+70-18	12344-12346	is	_	
+70-19	12347-12357	consistent	_	
+70-20	12358-12362	with	_	
+70-21	12363-12371	previous	_	
+70-22	12372-12379	reports	_	
+70-23	12379-12380	.	_	
+
+#Text=A degree centrality map for each individual was produced and then standardized to a z-score map.
+71-1	12381-12382	A	_	
+71-2	12383-12389	degree	_	
+71-3	12390-12400	centrality	_	
+71-4	12401-12404	map	_	
+71-5	12405-12408	for	_	
+71-6	12409-12413	each	_	
+71-7	12414-12424	individual	_	
+71-8	12425-12428	was	_	
+71-9	12429-12437	produced	_	
+71-10	12438-12441	and	_	
+71-11	12442-12446	then	_	
+71-12	12447-12459	standardized	_	
+71-13	12460-12462	to	_	
+71-14	12463-12464	a	_	
+71-15	12465-12472	z-score	_	
+71-16	12473-12476	map	_	
+71-17	12476-12477	.	_	
+
+#Text=Degree centrality can be affected by connectivity distance between regions.
+72-1	12478-12484	Degree	_	
+72-2	12485-12495	centrality	_	
+72-3	12496-12499	can	_	
+72-4	12500-12502	be	_	
+72-5	12503-12511	affected	_	
+72-6	12512-12514	by	_	
+72-7	12515-12527	connectivity	_	
+72-8	12528-12536	distance	_	
+72-9	12537-12544	between	_	
+72-10	12545-12552	regions	_	
+72-11	12552-12553	.	_	
+
+#Text=Therefore, for further analysis, we subdivided the connections and associated degree centrality between all possible pairs of voxels into long-range (> 75 mm) and short-range (< 75 mm) according to their anatomical distance by using the GRaph thEoreTical Network Analysis (GRETNA) toolbox.
+73-1	12554-12563	Therefore	_	
+73-2	12563-12564	,	_	
+73-3	12565-12568	for	_	
+73-4	12569-12576	further	_	
+73-5	12577-12585	analysis	_	
+73-6	12585-12586	,	_	
+73-7	12587-12589	we	_	
+73-8	12590-12600	subdivided	_	
+73-9	12601-12604	the	_	
+73-10	12605-12616	connections	_	
+73-11	12617-12620	and	_	
+73-12	12621-12631	associated	_	
+73-13	12632-12638	degree	_	
+73-14	12639-12649	centrality	_	
+73-15	12650-12657	between	_	
+73-16	12658-12661	all	_	
+73-17	12662-12670	possible	_	
+73-18	12671-12676	pairs	_	
+73-19	12677-12679	of	_	
+73-20	12680-12686	voxels	_	
+73-21	12687-12691	into	_	
+73-22	12692-12702	long-range	_	
+73-23	12703-12704	(	_	
+73-24	12704-12705	>	_	
+73-25	12705-12706	 	_	
+73-26	12706-12708	75	_	
+73-27	12708-12709	 	_	
+73-28	12709-12711	mm	_	
+73-29	12711-12712	)	_	
+73-30	12713-12716	and	_	
+73-31	12717-12728	short-range	_	
+73-32	12729-12730	(	_	
+73-33	12730-12731	<	_	
+73-34	12731-12732	 	_	
+73-35	12732-12734	75	_	
+73-36	12734-12735	 	_	
+73-37	12735-12737	mm	_	
+73-38	12737-12738	)	_	
+73-39	12739-12748	according	_	
+73-40	12749-12751	to	_	
+73-41	12752-12757	their	_	
+73-42	12758-12768	anatomical	_	
+73-43	12769-12777	distance	_	
+73-44	12778-12780	by	_	
+73-45	12781-12786	using	_	
+73-46	12787-12790	the	_	
+73-47	12791-12796	GRaph	_	
+73-48	12797-12808	thEoreTical	_	
+73-49	12809-12816	Network	_	
+73-50	12817-12825	Analysis	_	
+73-51	12826-12827	(	_	
+73-52	12827-12833	GRETNA	_	
+73-53	12833-12834	)	_	
+73-54	12835-12842	toolbox	_	
+73-55	12842-12843	.	_	
+
+#Text=Statistical analysis
+#Text=We did full factorial two-way ANOVA across the whole brain to test the genotype effect, the diagnosis effect, and their interaction, with genotype (AA vs.
+74-1	12844-12855	Statistical	_	
+74-2	12856-12864	analysis	_	
+74-3	12865-12867	We	_	
+74-4	12868-12871	did	_	
+74-5	12872-12876	full	_	
+74-6	12877-12886	factorial	_	
+74-7	12887-12894	two-way	_	
+74-8	12895-12900	ANOVA	_	
+74-9	12901-12907	across	_	
+74-10	12908-12911	the	_	
+74-11	12912-12917	whole	_	
+74-12	12918-12923	brain	_	
+74-13	12924-12926	to	_	
+74-14	12927-12931	test	_	
+74-15	12932-12935	the	_	
+74-16	12936-12944	genotype	_	
+74-17	12945-12951	effect	_	
+74-18	12951-12952	,	_	
+74-19	12953-12956	the	_	
+74-20	12957-12966	diagnosis	_	
+74-21	12967-12973	effect	_	
+74-22	12973-12974	,	_	
+74-23	12975-12978	and	_	
+74-24	12979-12984	their	_	
+74-25	12985-12996	interaction	_	
+74-26	12996-12997	,	_	
+74-27	12998-13002	with	_	
+74-28	13003-13011	genotype	_	
+74-29	13012-13013	(	_	
+74-30	13013-13015	AA	_	
+74-31	13016-13018	vs	_	
+74-32	13018-13019	.	_	
+
+#Text=CA/CC) and diagnosis (schizophrenia vs. controls) as fixed factors.
+75-1	13020-13022	CA	_	
+75-2	13022-13023	/	_	
+75-3	13023-13025	CC	_	
+75-4	13025-13026	)	_	
+75-5	13027-13030	and	_	
+75-6	13031-13040	diagnosis	_	
+75-7	13041-13042	(	_	
+75-8	13042-13055	schizophrenia	_	
+75-9	13056-13058	vs	_	
+75-10	13058-13059	.	_	
+75-11	13060-13068	controls	_	
+75-12	13068-13069	)	_	
+75-13	13070-13072	as	_	
+75-14	13073-13078	fixed	_	
+75-15	13079-13086	factors	_	
+75-16	13086-13087	.	_	
+
+#Text=If significant main effects of genotype or significant interaction effects of genotype × diagnosis were found, genotype effects were further explored using two-sample t-test across the whole brain in the patients and controls separately.
+76-1	13088-13090	If	_	
+76-2	13091-13102	significant	_	
+76-3	13103-13107	main	_	
+76-4	13108-13115	effects	_	
+76-5	13116-13118	of	_	
+76-6	13119-13127	genotype	_	
+76-7	13128-13130	or	_	
+76-8	13131-13142	significant	_	
+76-9	13143-13154	interaction	_	
+76-10	13155-13162	effects	_	
+76-11	13163-13165	of	_	
+76-12	13166-13174	genotype	_	
+76-13	13174-13175	 	_	
+76-14	13175-13176	×	_	
+76-15	13176-13177	 	_	
+76-16	13177-13186	diagnosis	_	
+76-17	13187-13191	were	_	
+76-18	13192-13197	found	_	
+76-19	13197-13198	,	_	
+76-20	13199-13207	genotype	_	
+76-21	13208-13215	effects	_	
+76-22	13216-13220	were	_	
+76-23	13221-13228	further	_	
+76-24	13229-13237	explored	_	
+76-25	13238-13243	using	_	
+76-26	13244-13254	two-sample	_	
+76-27	13255-13261	t-test	_	
+76-28	13262-13268	across	_	
+76-29	13269-13272	the	_	
+76-30	13273-13278	whole	_	
+76-31	13279-13284	brain	_	
+76-32	13285-13287	in	_	
+76-33	13288-13291	the	_	
+76-34	13292-13300	patients	_	
+76-35	13301-13304	and	_	
+76-36	13305-13313	controls	_	
+76-37	13314-13324	separately	_	
+76-38	13324-13325	.	_	
+
+#Text=To correct for multiple comparisons, significance was determined using a voxel-level threshold of P < 0.001 and cluster-level family-wise error (FWE) corrected P < 0.05.
+77-1	13326-13328	To	_	
+77-2	13329-13336	correct	_	
+77-3	13337-13340	for	_	
+77-4	13341-13349	multiple	_	
+77-5	13350-13361	comparisons	_	
+77-6	13361-13362	,	_	
+77-7	13363-13375	significance	_	
+77-8	13376-13379	was	_	
+77-9	13380-13390	determined	_	
+77-10	13391-13396	using	_	
+77-11	13397-13398	a	_	
+77-12	13399-13410	voxel-level	_	
+77-13	13411-13420	threshold	_	
+77-14	13421-13423	of	_	
+77-15	13424-13425	P	_	
+77-16	13425-13426	 	_	
+77-17	13426-13427	<	_	
+77-18	13427-13428	 	_	
+77-19	13428-13433	0.001	_	
+77-20	13434-13437	and	_	
+77-21	13438-13451	cluster-level	_	
+77-22	13452-13463	family-wise	_	
+77-23	13464-13469	error	_	
+77-24	13470-13471	(	_	
+77-25	13471-13474	FWE	_	
+77-26	13474-13475	)	_	
+77-27	13476-13485	corrected	_	
+77-28	13486-13487	P	_	
+77-29	13487-13488	 	_	
+77-30	13488-13489	<	_	
+77-31	13489-13490	 	_	
+77-32	13490-13494	0.05	_	
+77-33	13494-13495	.	_	
+
+#Text=Results
+#Text=No deviation from Hardy–Weinberg equilibrium was found for rs1344706 (P > 0.05).
+78-1	13496-13503	Results	_	
+78-2	13504-13506	No	_	
+78-3	13507-13516	deviation	_	
+78-4	13517-13521	from	_	
+78-5	13522-13536	Hardy–Weinberg	_	
+78-6	13537-13548	equilibrium	_	
+78-7	13549-13552	was	_	
+78-8	13553-13558	found	_	
+78-9	13559-13562	for	_	
+78-10	13563-13572	rs1344706	_	
+78-11	13573-13574	(	_	
+78-12	13574-13575	P	_	
+78-13	13575-13576	 	_	
+78-14	13576-13577	>	_	
+78-15	13577-13578	 	_	
+78-16	13578-13582	0.05	_	
+78-17	13582-13583	)	_	
+78-18	13583-13584	.	_	
+
+#Text=As shown in Table 1, there were no significant differences between genotypes in their demographic factors.
+79-1	13585-13587	As	_	
+79-2	13588-13593	shown	_	
+79-3	13594-13596	in	_	
+79-4	13597-13602	Table	_	
+79-5	13603-13604	1	_	
+79-6	13604-13605	,	_	
+79-7	13606-13611	there	_	
+79-8	13612-13616	were	_	
+79-9	13617-13619	no	_	
+79-10	13620-13631	significant	_	
+79-11	13632-13643	differences	_	
+79-12	13644-13651	between	_	
+79-13	13652-13661	genotypes	_	
+79-14	13662-13664	in	_	
+79-15	13665-13670	their	_	
+79-16	13671-13682	demographic	_	
+79-17	13683-13690	factors	_	
+79-18	13690-13691	.	_	
+
+#Text=Full factorial ANOVA across the whole-brain whole-range degree centrality network showed a significant interaction effect of genotype × diagnosis at the PCU (Panel A, the maximal peak voxel MNI coordinates: x, y, z = [9–69 63]).
+80-1	13692-13696	Full	_	
+80-2	13697-13706	factorial	_	
+80-3	13707-13712	ANOVA	_	
+80-4	13713-13719	across	_	
+80-5	13720-13723	the	_	
+80-6	13724-13735	whole-brain	_	
+80-7	13736-13747	whole-range	_	
+80-8	13748-13754	degree	_	
+80-9	13755-13765	centrality	_	
+80-10	13766-13773	network	_	
+80-11	13774-13780	showed	_	
+80-12	13781-13782	a	_	
+80-13	13783-13794	significant	_	
+80-14	13795-13806	interaction	_	
+80-15	13807-13813	effect	_	
+80-16	13814-13816	of	_	
+80-17	13817-13825	genotype	_	
+80-18	13825-13826	 	_	
+80-19	13826-13827	×	_	
+80-20	13827-13828	 	_	
+80-21	13828-13837	diagnosis	_	
+80-22	13838-13840	at	_	
+80-23	13841-13844	the	_	
+80-24	13845-13848	PCU	_	
+80-25	13849-13850	(	_	
+80-26	13850-13855	Panel	_	
+80-27	13856-13857	A	_	
+80-28	13857-13858	,	_	
+80-29	13859-13862	the	_	
+80-30	13863-13870	maximal	_	
+80-31	13871-13875	peak	_	
+80-32	13876-13881	voxel	_	
+80-33	13882-13885	MNI	_	
+80-34	13886-13897	coordinates	_	
+80-35	13897-13898	:	_	
+80-36	13899-13900	x	_	
+80-37	13900-13901	,	_	
+80-38	13902-13903	y	_	
+80-39	13903-13904	,	_	
+80-40	13905-13906	z	_	
+80-41	13906-13907	 	_	
+80-42	13907-13908	=	_	
+80-43	13908-13909	 	_	
+80-44	13909-13910	[	_	
+80-45	13910-13911	9	_	
+80-46	13911-13912	–	_	
+80-47	13912-13914	69	_	
+80-48	13915-13917	63	_	
+80-49	13917-13918	]	_	
+80-50	13918-13919	)	_	
+80-51	13919-13920	.	_	
+
+#Text=Further analysis found that the interaction effect was limited to short-range connections (Panel C).
+81-1	13921-13928	Further	_	
+81-2	13929-13937	analysis	_	
+81-3	13938-13943	found	_	
+81-4	13944-13948	that	_	
+81-5	13949-13952	the	_	
+81-6	13953-13964	interaction	_	
+81-7	13965-13971	effect	_	
+81-8	13972-13975	was	_	
+81-9	13976-13983	limited	_	
+81-10	13984-13986	to	_	
+81-11	13987-13998	short-range	_	
+81-12	13999-14010	connections	_	
+81-13	14011-14012	(	_	
+81-14	14012-14017	Panel	_	
+81-15	14018-14019	C	_	
+81-16	14019-14020	)	_	
+81-17	14020-14021	.	_	
+
+#Text=Separate analyses for patients and controls found that these effects were specific to patients (Panel B for whole-range, Panel D for short-range).
+82-1	14022-14030	Separate	_	
+82-2	14031-14039	analyses	_	
+82-3	14040-14043	for	_	
+82-4	14044-14052	patients	_	
+82-5	14053-14056	and	_	
+82-6	14057-14065	controls	_	
+82-7	14066-14071	found	_	
+82-8	14072-14076	that	_	
+82-9	14077-14082	these	_	
+82-10	14083-14090	effects	_	
+82-11	14091-14095	were	_	
+82-12	14096-14104	specific	_	
+82-13	14105-14107	to	_	
+82-14	14108-14116	patients	_	
+82-15	14117-14118	(	_	
+82-16	14118-14123	Panel	_	
+82-17	14124-14125	B	_	
+82-18	14126-14129	for	_	
+82-19	14130-14141	whole-range	_	
+82-20	14141-14142	,	_	
+82-21	14143-14148	Panel	_	
+82-22	14149-14150	D	_	
+82-23	14151-14154	for	_	
+82-24	14155-14166	short-range	_	
+82-25	14166-14167	)	_	
+82-26	14167-14168	.	_	
+
+#Text=Fig. 1
+#Text=The whole-brain analysis of the whole-range degree centrality network revealed no significant genotype effects, but a significant interaction effect of genotype × diagnosis within the PCU (cluster size = 52 voxels, peak voxel MNI coordinates: x = 9, y = − 69, z = 63, F = 32.57, FWE corrected P < 0.001) (see Fig. 1A).
+83-1	14169-14172	Fig	_	
+83-2	14172-14173	.	_	
+83-3	14174-14175	1	_	
+83-4	14176-14179	The	_	
+83-5	14180-14191	whole-brain	_	
+83-6	14192-14200	analysis	_	
+83-7	14201-14203	of	_	
+83-8	14204-14207	the	_	
+83-9	14208-14219	whole-range	_	
+83-10	14220-14226	degree	_	
+83-11	14227-14237	centrality	_	
+83-12	14238-14245	network	_	
+83-13	14246-14254	revealed	_	
+83-14	14255-14257	no	_	
+83-15	14258-14269	significant	_	
+83-16	14270-14278	genotype	_	
+83-17	14279-14286	effects	_	
+83-18	14286-14287	,	_	
+83-19	14288-14291	but	_	
+83-20	14292-14293	a	_	
+83-21	14294-14305	significant	_	
+83-22	14306-14317	interaction	_	
+83-23	14318-14324	effect	_	
+83-24	14325-14327	of	_	
+83-25	14328-14336	genotype	_	
+83-26	14336-14337	 	_	
+83-27	14337-14338	×	_	
+83-28	14338-14339	 	_	
+83-29	14339-14348	diagnosis	_	
+83-30	14349-14355	within	_	
+83-31	14356-14359	the	_	
+83-32	14360-14363	PCU	_	
+83-33	14364-14365	(	_	
+83-34	14365-14372	cluster	_	
+83-35	14373-14377	size	_	
+83-36	14377-14378	 	_	
+83-37	14378-14379	=	_	
+83-38	14379-14380	 	_	
+83-39	14380-14382	52	_	
+83-40	14383-14389	voxels	_	
+83-41	14389-14390	,	_	
+83-42	14391-14395	peak	_	
+83-43	14396-14401	voxel	_	
+83-44	14402-14405	MNI	_	
+83-45	14406-14417	coordinates	_	
+83-46	14417-14418	:	_	
+83-47	14419-14420	x	_	
+83-48	14420-14421	 	_	
+83-49	14421-14422	=	_	
+83-50	14422-14423	 	_	
+83-51	14423-14424	9	_	
+83-52	14424-14425	,	_	
+83-53	14426-14427	y	_	
+83-54	14427-14428	 	_	
+83-55	14428-14429	=	_	
+83-56	14429-14430	 	_	
+83-57	14430-14431	−	_	
+83-58	14431-14432	 	_	
+83-59	14432-14434	69	_	
+83-60	14434-14435	,	_	
+83-61	14436-14437	z	_	
+83-62	14437-14438	 	_	
+83-63	14438-14439	=	_	
+83-64	14439-14440	 	_	
+83-65	14440-14442	63	_	
+83-66	14442-14443	,	_	
+83-67	14444-14445	F	_	
+83-68	14445-14446	 	_	
+83-69	14446-14447	=	_	
+83-70	14447-14448	 	_	
+83-71	14448-14453	32.57	_	
+83-72	14453-14454	,	_	
+83-73	14455-14458	FWE	_	
+83-74	14459-14468	corrected	_	
+83-75	14469-14470	P	_	
+83-76	14470-14471	 	_	
+83-77	14471-14472	<	_	
+83-78	14472-14473	 	_	
+83-79	14473-14478	0.001	_	
+83-80	14478-14479	)	_	
+83-81	14480-14481	(	_	
+83-82	14481-14484	see	_	
+83-83	14485-14488	Fig	_	
+83-84	14488-14489	.	_	
+83-85	14490-14492	1A	_	
+83-86	14492-14493	)	_	
+83-87	14493-14494	.	_	
+
+#Text=We then did the whole-brain analysis for the genotype effect in patients and healthy controls separately and only found a significant genotype effect in patients, at the PCU with the same peak (cluster size = 27 voxels, T = 5.35, FWE corrected P = 0.042, see Fig. 1B and Supplementary Fig.
+84-1	14495-14497	We	_	
+84-2	14498-14502	then	_	
+84-3	14503-14506	did	_	
+84-4	14507-14510	the	_	
+84-5	14511-14522	whole-brain	_	
+84-6	14523-14531	analysis	_	
+84-7	14532-14535	for	_	
+84-8	14536-14539	the	_	
+84-9	14540-14548	genotype	_	
+84-10	14549-14555	effect	_	
+84-11	14556-14558	in	_	
+84-12	14559-14567	patients	_	
+84-13	14568-14571	and	_	
+84-14	14572-14579	healthy	_	
+84-15	14580-14588	controls	_	
+84-16	14589-14599	separately	_	
+84-17	14600-14603	and	_	
+84-18	14604-14608	only	_	
+84-19	14609-14614	found	_	
+84-20	14615-14616	a	_	
+84-21	14617-14628	significant	_	
+84-22	14629-14637	genotype	_	
+84-23	14638-14644	effect	_	
+84-24	14645-14647	in	_	
+84-25	14648-14656	patients	_	
+84-26	14656-14657	,	_	
+84-27	14658-14660	at	_	
+84-28	14661-14664	the	_	
+84-29	14665-14668	PCU	_	
+84-30	14669-14673	with	_	
+84-31	14674-14677	the	_	
+84-32	14678-14682	same	_	
+84-33	14683-14687	peak	_	
+84-34	14688-14689	(	_	
+84-35	14689-14696	cluster	_	
+84-36	14697-14701	size	_	
+84-37	14701-14702	 	_	
+84-38	14702-14703	=	_	
+84-39	14703-14704	 	_	
+84-40	14704-14706	27	_	
+84-41	14707-14713	voxels	_	
+84-42	14713-14714	,	_	
+84-43	14715-14716	T	_	
+84-44	14716-14717	 	_	
+84-45	14717-14718	=	_	
+84-46	14718-14719	 	_	
+84-47	14719-14723	5.35	_	
+84-48	14723-14724	,	_	
+84-49	14725-14728	FWE	_	
+84-50	14729-14738	corrected	_	
+84-51	14739-14740	P	_	
+84-52	14740-14741	 	_	
+84-53	14741-14742	=	_	
+84-54	14742-14743	 	_	
+84-55	14743-14748	0.042	_	
+84-56	14748-14749	,	_	
+84-57	14750-14753	see	_	
+84-58	14754-14757	Fig	_	
+84-59	14757-14758	.	_	
+84-60	14759-14761	1B	_	
+84-61	14762-14765	and	_	
+84-62	14766-14779	Supplementary	_	
+84-63	14780-14783	Fig	_	
+84-64	14783-14784	.	_	
+
+#Text=S2A).
+85-1	14785-14788	S2A	_	
+85-2	14788-14789	)	_	
+85-3	14789-14790	.	_	
+
+#Text=The patients who were risk allele homozygotes showed significantly increased degree centrality as compared to risk allele non-carriers.
+86-1	14791-14794	The	_	
+86-2	14795-14803	patients	_	
+86-3	14804-14807	who	_	
+86-4	14808-14812	were	_	
+86-5	14813-14817	risk	_	
+86-6	14818-14824	allele	_	
+86-7	14825-14836	homozygotes	_	
+86-8	14837-14843	showed	_	
+86-9	14844-14857	significantly	_	
+86-10	14858-14867	increased	_	
+86-11	14868-14874	degree	_	
+86-12	14875-14885	centrality	_	
+86-13	14886-14888	as	_	
+86-14	14889-14897	compared	_	
+86-15	14898-14900	to	_	
+86-16	14901-14905	risk	_	
+86-17	14906-14912	allele	_	
+86-18	14913-14925	non-carriers	_	
+86-19	14925-14926	.	_	
+
+#Text=No significant result was found in healthy controls (FWE corrected P > 0.05) although its sample size was three times as large as that of patients.
+87-1	14927-14929	No	_	
+87-2	14930-14941	significant	_	
+87-3	14942-14948	result	_	
+87-4	14949-14952	was	_	
+87-5	14953-14958	found	_	
+87-6	14959-14961	in	_	
+87-7	14962-14969	healthy	_	
+87-8	14970-14978	controls	_	
+87-9	14979-14980	(	_	
+87-10	14980-14983	FWE	_	
+87-11	14984-14993	corrected	_	
+87-12	14994-14995	P	_	
+87-13	14995-14996	 	_	
+87-14	14996-14997	>	_	
+87-15	14997-14998	 	_	
+87-16	14998-15002	0.05	_	
+87-17	15002-15003	)	_	
+87-18	15004-15012	although	_	
+87-19	15013-15016	its	_	
+87-20	15017-15023	sample	_	
+87-21	15024-15028	size	_	
+87-22	15029-15032	was	_	
+87-23	15033-15038	three	_	
+87-24	15039-15044	times	_	
+87-25	15045-15047	as	_	
+87-26	15048-15053	large	_	
+87-27	15054-15056	as	_	
+87-28	15057-15061	that	_	
+87-29	15062-15064	of	_	
+87-30	15065-15073	patients	_	
+87-31	15073-15074	.	_	
+
+#Text=It needs to be mentioned that, the main effect of diagnosis within the PCU was also significant with patients showing higher degree centrality (cluster size = 29 voxels, peak voxel MNI coordinates: x = − 3, y = − 66, z = 33, F = 17.55, FWE corrected P = 0.029) than healthy controls (see Supplementary Fig.
+88-1	15075-15077	It	_	
+88-2	15078-15083	needs	_	
+88-3	15084-15086	to	_	
+88-4	15087-15089	be	_	
+88-5	15090-15099	mentioned	_	
+88-6	15100-15104	that	_	
+88-7	15104-15105	,	_	
+88-8	15106-15109	the	_	
+88-9	15110-15114	main	_	
+88-10	15115-15121	effect	_	
+88-11	15122-15124	of	_	
+88-12	15125-15134	diagnosis	_	
+88-13	15135-15141	within	_	
+88-14	15142-15145	the	_	
+88-15	15146-15149	PCU	_	
+88-16	15150-15153	was	_	
+88-17	15154-15158	also	_	
+88-18	15159-15170	significant	_	
+88-19	15171-15175	with	_	
+88-20	15176-15184	patients	_	
+88-21	15185-15192	showing	_	
+88-22	15193-15199	higher	_	
+88-23	15200-15206	degree	_	
+88-24	15207-15217	centrality	_	
+88-25	15218-15219	(	_	
+88-26	15219-15226	cluster	_	
+88-27	15227-15231	size	_	
+88-28	15231-15232	 	_	
+88-29	15232-15233	=	_	
+88-30	15233-15234	 	_	
+88-31	15234-15236	29	_	
+88-32	15237-15243	voxels	_	
+88-33	15243-15244	,	_	
+88-34	15245-15249	peak	_	
+88-35	15250-15255	voxel	_	
+88-36	15256-15259	MNI	_	
+88-37	15260-15271	coordinates	_	
+88-38	15271-15272	:	_	
+88-39	15273-15274	x	_	
+88-40	15274-15275	 	_	
+88-41	15275-15276	=	_	
+88-42	15276-15277	 	_	
+88-43	15277-15278	−	_	
+88-44	15278-15279	 	_	
+88-45	15279-15280	3	_	
+88-46	15280-15281	,	_	
+88-47	15282-15283	y	_	
+88-48	15283-15284	 	_	
+88-49	15284-15285	=	_	
+88-50	15285-15286	 	_	
+88-51	15286-15287	−	_	
+88-52	15287-15288	 	_	
+88-53	15288-15290	66	_	
+88-54	15290-15291	,	_	
+88-55	15292-15293	z	_	
+88-56	15293-15294	 	_	
+88-57	15294-15295	=	_	
+88-58	15295-15296	 	_	
+88-59	15296-15298	33	_	
+88-60	15298-15299	,	_	
+88-61	15300-15301	F	_	
+88-62	15301-15302	 	_	
+88-63	15302-15303	=	_	
+88-64	15303-15304	 	_	
+88-65	15304-15309	17.55	_	
+88-66	15309-15310	,	_	
+88-67	15311-15314	FWE	_	
+88-68	15315-15324	corrected	_	
+88-69	15325-15326	P	_	
+88-70	15326-15327	 	_	
+88-71	15327-15328	=	_	
+88-72	15328-15329	 	_	
+88-73	15329-15334	0.029	_	
+88-74	15334-15335	)	_	
+88-75	15336-15340	than	_	
+88-76	15341-15348	healthy	_	
+88-77	15349-15357	controls	_	
+88-78	15358-15359	(	_	
+88-79	15359-15362	see	_	
+88-80	15363-15376	Supplementary	_	
+88-81	15377-15380	Fig	_	
+88-82	15380-15381	.	_	
+
+#Text=S1), which was consistent with previous reports.
+89-1	15382-15384	S1	_	
+89-2	15384-15385	)	_	
+89-3	15385-15386	,	_	
+89-4	15387-15392	which	_	
+89-5	15393-15396	was	_	
+89-6	15397-15407	consistent	_	
+89-7	15408-15412	with	_	
+89-8	15413-15421	previous	_	
+89-9	15422-15429	reports	_	
+89-10	15429-15430	.	_	
+
+#Text=Because distance is one of the major potential confounds when studying functional connectivity, we further subdivided the degree centrality network into long- and short-range connections.
+90-1	15431-15438	Because	_	
+90-2	15439-15447	distance	_	
+90-3	15448-15450	is	_	
+90-4	15451-15454	one	_	
+90-5	15455-15457	of	_	
+90-6	15458-15461	the	_	
+90-7	15462-15467	major	_	
+90-8	15468-15477	potential	_	
+90-9	15478-15487	confounds	_	
+90-10	15488-15492	when	_	
+90-11	15493-15501	studying	_	
+90-12	15502-15512	functional	_	
+90-13	15513-15525	connectivity	_	
+90-14	15525-15526	,	_	
+90-15	15527-15529	we	_	
+90-16	15530-15537	further	_	
+90-17	15538-15548	subdivided	_	
+90-18	15549-15552	the	_	
+90-19	15553-15559	degree	_	
+90-20	15560-15570	centrality	_	
+90-21	15571-15578	network	_	
+90-22	15579-15583	into	_	
+90-23	15584-15588	long	_	
+90-24	15588-15589	-	_	
+90-25	15590-15593	and	_	
+90-26	15594-15605	short-range	_	
+90-27	15606-15617	connections	_	
+90-28	15617-15618	.	_	
+
+#Text=The whole-brain analysis found significant results only for short-range connections, with a significant interaction effect of genotype × diagnosis at the PCU with the same peak as above (cluster size = 72 voxels, F = 37.29, FWE corrected P < 0.001) (see Fig. 1C).
+91-1	15619-15622	The	_	
+91-2	15623-15634	whole-brain	_	
+91-3	15635-15643	analysis	_	
+91-4	15644-15649	found	_	
+91-5	15650-15661	significant	_	
+91-6	15662-15669	results	_	
+91-7	15670-15674	only	_	
+91-8	15675-15678	for	_	
+91-9	15679-15690	short-range	_	
+91-10	15691-15702	connections	_	
+91-11	15702-15703	,	_	
+91-12	15704-15708	with	_	
+91-13	15709-15710	a	_	
+91-14	15711-15722	significant	_	
+91-15	15723-15734	interaction	_	
+91-16	15735-15741	effect	_	
+91-17	15742-15744	of	_	
+91-18	15745-15753	genotype	_	
+91-19	15753-15754	 	_	
+91-20	15754-15755	×	_	
+91-21	15755-15756	 	_	
+91-22	15756-15765	diagnosis	_	
+91-23	15766-15768	at	_	
+91-24	15769-15772	the	_	
+91-25	15773-15776	PCU	_	
+91-26	15777-15781	with	_	
+91-27	15782-15785	the	_	
+91-28	15786-15790	same	_	
+91-29	15791-15795	peak	_	
+91-30	15796-15798	as	_	
+91-31	15799-15804	above	_	
+91-32	15805-15806	(	_	
+91-33	15806-15813	cluster	_	
+91-34	15814-15818	size	_	
+91-35	15818-15819	 	_	
+91-36	15819-15820	=	_	
+91-37	15820-15821	 	_	
+91-38	15821-15823	72	_	
+91-39	15824-15830	voxels	_	
+91-40	15830-15831	,	_	
+91-41	15832-15833	F	_	
+91-42	15833-15834	 	_	
+91-43	15834-15835	=	_	
+91-44	15835-15836	 	_	
+91-45	15836-15841	37.29	_	
+91-46	15841-15842	,	_	
+91-47	15843-15846	FWE	_	
+91-48	15847-15856	corrected	_	
+91-49	15857-15858	P	_	
+91-50	15858-15859	 	_	
+91-51	15859-15860	<	_	
+91-52	15860-15861	 	_	
+91-53	15861-15866	0.001	_	
+91-54	15866-15867	)	_	
+91-55	15868-15869	(	_	
+91-56	15869-15872	see	_	
+91-57	15873-15876	Fig	_	
+91-58	15876-15877	.	_	
+91-59	15878-15880	1C	_	
+91-60	15880-15881	)	_	
+91-61	15881-15882	.	_	
+
+#Text=Separate analyses for patients and controls confirmed that the genotype effect was limited to patients, within the PCU at the same peak (cluster size = 66 voxels, T = 5.68, FWE corrected P < 0.001, see Fig. 1D and Supplementary Fig.
+92-1	15883-15891	Separate	_	
+92-2	15892-15900	analyses	_	
+92-3	15901-15904	for	_	
+92-4	15905-15913	patients	_	
+92-5	15914-15917	and	_	
+92-6	15918-15926	controls	_	
+92-7	15927-15936	confirmed	_	
+92-8	15937-15941	that	_	
+92-9	15942-15945	the	_	
+92-10	15946-15954	genotype	_	
+92-11	15955-15961	effect	_	
+92-12	15962-15965	was	_	
+92-13	15966-15973	limited	_	
+92-14	15974-15976	to	_	
+92-15	15977-15985	patients	_	
+92-16	15985-15986	,	_	
+92-17	15987-15993	within	_	
+92-18	15994-15997	the	_	
+92-19	15998-16001	PCU	_	
+92-20	16002-16004	at	_	
+92-21	16005-16008	the	_	
+92-22	16009-16013	same	_	
+92-23	16014-16018	peak	_	
+92-24	16019-16020	(	_	
+92-25	16020-16027	cluster	_	
+92-26	16028-16032	size	_	
+92-27	16032-16033	 	_	
+92-28	16033-16034	=	_	
+92-29	16034-16035	 	_	
+92-30	16035-16037	66	_	
+92-31	16038-16044	voxels	_	
+92-32	16044-16045	,	_	
+92-33	16046-16047	T	_	
+92-34	16047-16048	 	_	
+92-35	16048-16049	=	_	
+92-36	16049-16050	 	_	
+92-37	16050-16054	5.68	_	
+92-38	16054-16055	,	_	
+92-39	16056-16059	FWE	_	
+92-40	16060-16069	corrected	_	
+92-41	16070-16071	P	_	
+92-42	16071-16072	 	_	
+92-43	16072-16073	<	_	
+92-44	16073-16074	 	_	
+92-45	16074-16079	0.001	_	
+92-46	16079-16080	,	_	
+92-47	16081-16084	see	_	
+92-48	16085-16088	Fig	_	
+92-49	16088-16089	.	_	
+92-50	16090-16092	1D	_	
+92-51	16093-16096	and	_	
+92-52	16097-16110	Supplementary	_	
+92-53	16111-16114	Fig	_	
+92-54	16114-16115	.	_	
+
+#Text=S2B).
+93-1	16116-16119	S2B	_	
+93-2	16119-16120	)	_	
+93-3	16120-16121	.	_	
+
+#Text=The patients who were risk allele homozygotes showed significantly increased short-range degree centrality.
+94-1	16122-16125	The	_	
+94-2	16126-16134	patients	_	
+94-3	16135-16138	who	_	
+94-4	16139-16143	were	_	
+94-5	16144-16148	risk	_	
+94-6	16149-16155	allele	_	
+94-7	16156-16167	homozygotes	_	
+94-8	16168-16174	showed	_	
+94-9	16175-16188	significantly	_	
+94-10	16189-16198	increased	_	
+94-11	16199-16210	short-range	_	
+94-12	16211-16217	degree	_	
+94-13	16218-16228	centrality	_	
+94-14	16228-16229	.	_	
+
+#Text=No significant result was found in healthy controls (FWE corrected P > 0.05).
+95-1	16230-16232	No	_	
+95-2	16233-16244	significant	_	
+95-3	16245-16251	result	_	
+95-4	16252-16255	was	_	
+95-5	16256-16261	found	_	
+95-6	16262-16264	in	_	
+95-7	16265-16272	healthy	_	
+95-8	16273-16281	controls	_	
+95-9	16282-16283	(	_	
+95-10	16283-16286	FWE	_	
+95-11	16287-16296	corrected	_	
+95-12	16297-16298	P	_	
+95-13	16298-16299	 	_	
+95-14	16299-16300	>	_	
+95-15	16300-16301	 	_	
+95-16	16301-16305	0.05	_	
+95-17	16305-16306	)	_	
+95-18	16306-16307	.	_	
+
+#Text=Discussion
+#Text=This study was the first to report the effect of ZNF804A rs1344706 on the property of the whole-brain network.
+96-1	16308-16318	Discussion	_	
+96-2	16319-16323	This	_	
+96-3	16324-16329	study	_	
+96-4	16330-16333	was	_	
+96-5	16334-16337	the	_	
+96-6	16338-16343	first	_	
+96-7	16344-16346	to	_	
+96-8	16347-16353	report	_	
+96-9	16354-16357	the	_	
+96-10	16358-16364	effect	_	
+96-11	16365-16367	of	_	
+96-12	16368-16375	ZNF804A	_	
+96-13	16376-16385	rs1344706	_	
+96-14	16386-16388	on	_	
+96-15	16389-16392	the	_	
+96-16	16393-16401	property	_	
+96-17	16402-16404	of	_	
+96-18	16405-16408	the	_	
+96-19	16409-16420	whole-brain	_	
+96-20	16421-16428	network	_	
+96-21	16428-16429	.	_	
+
+#Text=Using the case-control design, we found a significant interaction of rs1344706 genotype × diagnosis on the functional connectivity of the PCU (specifically, short-range degree centrality), indicating a diverging effect of rs1344706 in schizophrenia patients and healthy controls.
+97-1	16430-16435	Using	_	
+97-2	16436-16439	the	_	
+97-3	16440-16452	case-control	_	
+97-4	16453-16459	design	_	
+97-5	16459-16460	,	_	
+97-6	16461-16463	we	_	
+97-7	16464-16469	found	_	
+97-8	16470-16471	a	_	
+97-9	16472-16483	significant	_	
+97-10	16484-16495	interaction	_	
+97-11	16496-16498	of	_	
+97-12	16499-16508	rs1344706	_	
+97-13	16509-16517	genotype	_	
+97-14	16517-16518	 	_	
+97-15	16518-16519	×	_	
+97-16	16519-16520	 	_	
+97-17	16520-16529	diagnosis	_	
+97-18	16530-16532	on	_	
+97-19	16533-16536	the	_	
+97-20	16537-16547	functional	_	
+97-21	16548-16560	connectivity	_	
+97-22	16561-16563	of	_	
+97-23	16564-16567	the	_	
+97-24	16568-16571	PCU	_	
+97-25	16572-16573	(	_	
+97-26	16573-16585	specifically	_	
+97-27	16585-16586	,	_	
+97-28	16587-16598	short-range	_	
+97-29	16599-16605	degree	_	
+97-30	16606-16616	centrality	_	
+97-31	16616-16617	)	_	
+97-32	16617-16618	,	_	
+97-33	16619-16629	indicating	_	
+97-34	16630-16631	a	_	
+97-35	16632-16641	diverging	_	
+97-36	16642-16648	effect	_	
+97-37	16649-16651	of	_	
+97-38	16652-16661	rs1344706	_	
+97-39	16662-16664	in	_	
+97-40	16665-16678	schizophrenia	_	
+97-41	16679-16687	patients	_	
+97-42	16688-16691	and	_	
+97-43	16692-16699	healthy	_	
+97-44	16700-16708	controls	_	
+97-45	16708-16709	.	_	
+
+#Text=The interaction effect of rs1344706 genotype × diagnosis may be one of the most consistent results in previous studies.
+98-1	16710-16713	The	_	
+98-2	16714-16725	interaction	_	
+98-3	16726-16732	effect	_	
+98-4	16733-16735	of	_	
+98-5	16736-16745	rs1344706	_	
+98-6	16746-16754	genotype	_	
+98-7	16754-16755	 	_	
+98-8	16755-16756	×	_	
+98-9	16756-16757	 	_	
+98-10	16757-16766	diagnosis	_	
+98-11	16767-16770	may	_	
+98-12	16771-16773	be	_	
+98-13	16774-16777	one	_	
+98-14	16778-16780	of	_	
+98-15	16781-16784	the	_	
+98-16	16785-16789	most	_	
+98-17	16790-16800	consistent	_	
+98-18	16801-16808	results	_	
+98-19	16809-16811	in	_	
+98-20	16812-16820	previous	_	
+98-21	16821-16828	studies	_	
+98-22	16828-16829	.	_	
+
+#Text=In addition to this study, there were at least 10 other studies that also used the case-control design to test the effect of rs1344706, 8 of which found significant interaction effects of rs1344706 genotype × diagnosis.
+99-1	16830-16832	In	_	
+99-2	16833-16841	addition	_	
+99-3	16842-16844	to	_	
+99-4	16845-16849	this	_	
+99-5	16850-16855	study	_	
+99-6	16855-16856	,	_	
+99-7	16857-16862	there	_	
+99-8	16863-16867	were	_	
+99-9	16868-16870	at	_	
+99-10	16871-16876	least	_	
+99-11	16877-16879	10	_	
+99-12	16880-16885	other	_	
+99-13	16886-16893	studies	_	
+99-14	16894-16898	that	_	
+99-15	16899-16903	also	_	
+99-16	16904-16908	used	_	
+99-17	16909-16912	the	_	
+99-18	16913-16925	case-control	_	
+99-19	16926-16932	design	_	
+99-20	16933-16935	to	_	
+99-21	16936-16940	test	_	
+99-22	16941-16944	the	_	
+99-23	16945-16951	effect	_	
+99-24	16952-16954	of	_	
+99-25	16955-16964	rs1344706	_	
+99-26	16964-16965	,	_	
+99-27	16966-16967	8	_	
+99-28	16968-16970	of	_	
+99-29	16971-16976	which	_	
+99-30	16977-16982	found	_	
+99-31	16983-16994	significant	_	
+99-32	16995-17006	interaction	_	
+99-33	17007-17014	effects	_	
+99-34	17015-17017	of	_	
+99-35	17018-17027	rs1344706	_	
+99-36	17028-17036	genotype	_	
+99-37	17036-17037	 	_	
+99-38	17037-17038	×	_	
+99-39	17038-17039	 	_	
+99-40	17039-17048	diagnosis	_	
+99-41	17048-17049	.	_	
+
+#Text=Within the 8 studies, two were behavioral studies and the other six examined structural MRI characteristics, such as grey matter volume, cortical thickness, surface area, white matter density, or white matter integrity.
+100-1	17050-17056	Within	_	
+100-2	17057-17060	the	_	
+100-3	17061-17062	8	_	
+100-4	17063-17070	studies	_	
+100-5	17070-17071	,	_	
+100-6	17072-17075	two	_	
+100-7	17076-17080	were	_	
+100-8	17081-17091	behavioral	_	
+100-9	17092-17099	studies	_	
+100-10	17100-17103	and	_	
+100-11	17104-17107	the	_	
+100-12	17108-17113	other	_	
+100-13	17114-17117	six	_	
+100-14	17118-17126	examined	_	
+100-15	17127-17137	structural	_	
+100-16	17138-17141	MRI	_	
+100-17	17142-17157	characteristics	_	
+100-18	17157-17158	,	_	
+100-19	17159-17163	such	_	
+100-20	17164-17166	as	_	
+100-21	17167-17171	grey	_	
+100-22	17172-17178	matter	_	
+100-23	17179-17185	volume	_	
+100-24	17185-17186	,	_	
+100-25	17187-17195	cortical	_	
+100-26	17196-17205	thickness	_	
+100-27	17205-17206	,	_	
+100-28	17207-17214	surface	_	
+100-29	17215-17219	area	_	
+100-30	17219-17220	,	_	
+100-31	17221-17226	white	_	
+100-32	17227-17233	matter	_	
+100-33	17234-17241	density	_	
+100-34	17241-17242	,	_	
+100-35	17243-17245	or	_	
+100-36	17246-17251	white	_	
+100-37	17252-17258	matter	_	
+100-38	17259-17268	integrity	_	
+100-39	17268-17269	.	_	
+
+#Text=Although the location of the genotype × diagnosis interaction effect was not the same across these studies, the PCC/PCU was one of the most often reported regions.
+101-1	17270-17278	Although	_	
+101-2	17279-17282	the	_	
+101-3	17283-17291	location	_	
+101-4	17292-17294	of	_	
+101-5	17295-17298	the	_	
+101-6	17299-17307	genotype	_	
+101-7	17307-17308	 	_	
+101-8	17308-17309	×	_	
+101-9	17309-17310	 	_	
+101-10	17310-17319	diagnosis	_	
+101-11	17320-17331	interaction	_	
+101-12	17332-17338	effect	_	
+101-13	17339-17342	was	_	
+101-14	17343-17346	not	_	
+101-15	17347-17350	the	_	
+101-16	17351-17355	same	_	
+101-17	17356-17362	across	_	
+101-18	17363-17368	these	_	
+101-19	17369-17376	studies	_	
+101-20	17376-17377	,	_	
+101-21	17378-17381	the	_	
+101-22	17382-17385	PCC	_	
+101-23	17385-17386	/	_	
+101-24	17386-17389	PCU	_	
+101-25	17390-17393	was	_	
+101-26	17394-17397	one	_	
+101-27	17398-17400	of	_	
+101-28	17401-17404	the	_	
+101-29	17405-17409	most	_	
+101-30	17410-17415	often	_	
+101-31	17416-17424	reported	_	
+101-32	17425-17432	regions	_	
+101-33	17432-17433	.	_	
+
+#Text=This study, for the first time, suggested an interaction effect of genotype × diagnosis in fMRI data and localized it to the PCU.
+102-1	17434-17438	This	_	
+102-2	17439-17444	study	_	
+102-3	17444-17445	,	_	
+102-4	17446-17449	for	_	
+102-5	17450-17453	the	_	
+102-6	17454-17459	first	_	
+102-7	17460-17464	time	_	
+102-8	17464-17465	,	_	
+102-9	17466-17475	suggested	_	
+102-10	17476-17478	an	_	
+102-11	17479-17490	interaction	_	
+102-12	17491-17497	effect	_	
+102-13	17498-17500	of	_	
+102-14	17501-17509	genotype	_	
+102-15	17509-17510	 	_	
+102-16	17510-17511	×	_	
+102-17	17511-17512	 	_	
+102-18	17512-17521	diagnosis	_	
+102-19	17522-17524	in	_	
+102-20	17525-17529	fMRI	_	
+102-21	17530-17534	data	_	
+102-22	17535-17538	and	_	
+102-23	17539-17548	localized	_	
+102-24	17549-17551	it	_	
+102-25	17552-17554	to	_	
+102-26	17555-17558	the	_	
+102-27	17559-17562	PCU	_	
+102-28	17562-17563	.	_	
+
+#Text=However, due to lacks of detailed information on diagnosis effect within PCC/PCU in the previous studies which could indicate the characteristic changes of schizophrenia patients, it is impossible to compare the direction of the interaction effect across different studies directly.
+103-1	17564-17571	However	_	
+103-2	17571-17572	,	_	
+103-3	17573-17576	due	_	
+103-4	17577-17579	to	_	
+103-5	17580-17585	lacks	_	
+103-6	17586-17588	of	_	
+103-7	17589-17597	detailed	_	
+103-8	17598-17609	information	_	
+103-9	17610-17612	on	_	
+103-10	17613-17622	diagnosis	_	
+103-11	17623-17629	effect	_	
+103-12	17630-17636	within	_	
+103-13	17637-17640	PCC	_	
+103-14	17640-17641	/	_	
+103-15	17641-17644	PCU	_	
+103-16	17645-17647	in	_	
+103-17	17648-17651	the	_	
+103-18	17652-17660	previous	_	
+103-19	17661-17668	studies	_	
+103-20	17669-17674	which	_	
+103-21	17675-17680	could	_	
+103-22	17681-17689	indicate	_	
+103-23	17690-17693	the	_	
+103-24	17694-17708	characteristic	_	
+103-25	17709-17716	changes	_	
+103-26	17717-17719	of	_	
+103-27	17720-17733	schizophrenia	_	
+103-28	17734-17742	patients	_	
+103-29	17742-17743	,	_	
+103-30	17744-17746	it	_	
+103-31	17747-17749	is	_	
+103-32	17750-17760	impossible	_	
+103-33	17761-17763	to	_	
+103-34	17764-17771	compare	_	
+103-35	17772-17775	the	_	
+103-36	17776-17785	direction	_	
+103-37	17786-17788	of	_	
+103-38	17789-17792	the	_	
+103-39	17793-17804	interaction	_	
+103-40	17805-17811	effect	_	
+103-41	17812-17818	across	_	
+103-42	17819-17828	different	_	
+103-43	17829-17836	studies	_	
+103-44	17837-17845	directly	_	
+103-45	17845-17846	.	_	
+
+#Text=It needs to mention that the position of the PCU identified in this study is very close to that of the PCU whose functional connectivity (during the N-back task and resting state) with the hippocampus formation differed significantly by rs1344706 genotype.
+104-1	17847-17849	It	_	
+104-2	17850-17855	needs	_	
+104-3	17856-17858	to	_	
+104-4	17859-17866	mention	_	
+104-5	17867-17871	that	_	
+104-6	17872-17875	the	_	
+104-7	17876-17884	position	_	
+104-8	17885-17887	of	_	
+104-9	17888-17891	the	_	
+104-10	17892-17895	PCU	_	
+104-11	17896-17906	identified	_	
+104-12	17907-17909	in	_	
+104-13	17910-17914	this	_	
+104-14	17915-17920	study	_	
+104-15	17921-17923	is	_	
+104-16	17924-17928	very	_	
+104-17	17929-17934	close	_	
+104-18	17935-17937	to	_	
+104-19	17938-17942	that	_	
+104-20	17943-17945	of	_	
+104-21	17946-17949	the	_	
+104-22	17950-17953	PCU	_	
+104-23	17954-17959	whose	_	
+104-24	17960-17970	functional	_	
+104-25	17971-17983	connectivity	_	
+104-26	17984-17985	(	_	
+104-27	17985-17991	during	_	
+104-28	17992-17995	the	_	
+104-29	17996-18002	N-back	_	
+104-30	18003-18007	task	_	
+104-31	18008-18011	and	_	
+104-32	18012-18019	resting	_	
+104-33	18020-18025	state	_	
+104-34	18025-18026	)	_	
+104-35	18027-18031	with	_	
+104-36	18032-18035	the	_	
+104-37	18036-18047	hippocampus	_	
+104-38	18048-18057	formation	_	
+104-39	18058-18066	differed	_	
+104-40	18067-18080	significantly	_	
+104-41	18081-18083	by	_	
+104-42	18084-18093	rs1344706	_	
+104-43	18094-18102	genotype	_	
+104-44	18102-18103	.	_	
+
+#Text=Because the PCU is one of the most important hubs of the whole-brain network, it is likely that ZNF804A rs1344706 could affect the overall organization of functional communication in the brain network, rather than only the activity of specific brain regions.
+105-1	18104-18111	Because	_	
+105-2	18112-18115	the	_	
+105-3	18116-18119	PCU	_	
+105-4	18120-18122	is	_	
+105-5	18123-18126	one	_	
+105-6	18127-18129	of	_	
+105-7	18130-18133	the	_	
+105-8	18134-18138	most	_	
+105-9	18139-18148	important	_	
+105-10	18149-18153	hubs	_	
+105-11	18154-18156	of	_	
+105-12	18157-18160	the	_	
+105-13	18161-18172	whole-brain	_	
+105-14	18173-18180	network	_	
+105-15	18180-18181	,	_	
+105-16	18182-18184	it	_	
+105-17	18185-18187	is	_	
+105-18	18188-18194	likely	_	
+105-19	18195-18199	that	_	
+105-20	18200-18207	ZNF804A	_	
+105-21	18208-18217	rs1344706	_	
+105-22	18218-18223	could	_	
+105-23	18224-18230	affect	_	
+105-24	18231-18234	the	_	
+105-25	18235-18242	overall	_	
+105-26	18243-18255	organization	_	
+105-27	18256-18258	of	_	
+105-28	18259-18269	functional	_	
+105-29	18270-18283	communication	_	
+105-30	18284-18286	in	_	
+105-31	18287-18290	the	_	
+105-32	18291-18296	brain	_	
+105-33	18297-18304	network	_	
+105-34	18304-18305	,	_	
+105-35	18306-18312	rather	_	
+105-36	18313-18317	than	_	
+105-37	18318-18322	only	_	
+105-38	18323-18326	the	_	
+105-39	18327-18335	activity	_	
+105-40	18336-18338	of	_	
+105-41	18339-18347	specific	_	
+105-42	18348-18353	brain	_	
+105-43	18354-18361	regions	_	
+105-44	18361-18362	.	_	
+
+#Text=Such a conjecture would explain the fact that most previous fMRI studies using working memory tasks did not find significant effects of rs1344706 on regional brain activation, but instead found significant effects on functional connectivity.
+106-1	18363-18367	Such	_	
+106-2	18368-18369	a	_	
+106-3	18370-18380	conjecture	_	
+106-4	18381-18386	would	_	
+106-5	18387-18394	explain	_	
+106-6	18395-18398	the	_	
+106-7	18399-18403	fact	_	
+106-8	18404-18408	that	_	
+106-9	18409-18413	most	_	
+106-10	18414-18422	previous	_	
+106-11	18423-18427	fMRI	_	
+106-12	18428-18435	studies	_	
+106-13	18436-18441	using	_	
+106-14	18442-18449	working	_	
+106-15	18450-18456	memory	_	
+106-16	18457-18462	tasks	_	
+106-17	18463-18466	did	_	
+106-18	18467-18470	not	_	
+106-19	18471-18475	find	_	
+106-20	18476-18487	significant	_	
+106-21	18488-18495	effects	_	
+106-22	18496-18498	of	_	
+106-23	18499-18508	rs1344706	_	
+106-24	18509-18511	on	_	
+106-25	18512-18520	regional	_	
+106-26	18521-18526	brain	_	
+106-27	18527-18537	activation	_	
+106-28	18537-18538	,	_	
+106-29	18539-18542	but	_	
+106-30	18543-18550	instead	_	
+106-31	18551-18556	found	_	
+106-32	18557-18568	significant	_	
+106-33	18569-18576	effects	_	
+106-34	18577-18579	on	_	
+106-35	18580-18590	functional	_	
+106-36	18591-18603	connectivity	_	
+106-37	18603-18604	.	_	
+
+#Text=It needs to be mentioned that two fMRI studies using a theory-of-mind (ToM task consistently found significant effects of rs1344706 on the deactivation of PCC/PCU.
+107-1	18605-18607	It	_	
+107-2	18608-18613	needs	_	
+107-3	18614-18616	to	_	
+107-4	18617-18619	be	_	
+107-5	18620-18629	mentioned	_	
+107-6	18630-18634	that	_	
+107-7	18635-18638	two	_	
+107-8	18639-18643	fMRI	_	
+107-9	18644-18651	studies	_	
+107-10	18652-18657	using	_	
+107-11	18658-18659	a	_	
+107-12	18660-18674	theory-of-mind	_	
+107-13	18675-18676	(	_	
+107-14	18676-18679	ToM	_	
+107-15	18680-18684	task	_	
+107-16	18685-18697	consistently	_	
+107-17	18698-18703	found	_	
+107-18	18704-18715	significant	_	
+107-19	18716-18723	effects	_	
+107-20	18724-18726	of	_	
+107-21	18727-18736	rs1344706	_	
+107-22	18737-18739	on	_	
+107-23	18740-18743	the	_	
+107-24	18744-18756	deactivation	_	
+107-25	18757-18759	of	_	
+107-26	18760-18763	PCC	_	
+107-27	18763-18764	/	_	
+107-28	18764-18767	PCU	_	
+107-29	18767-18768	.	_	
+
+#Text=As a key node of the DMN, the PCC/PCU may contribute to cognitive processing through its functional connections rather than its activation level.
+108-1	18769-18771	As	_	
+108-2	18772-18773	a	_	
+108-3	18774-18777	key	_	
+108-4	18778-18782	node	_	
+108-5	18783-18785	of	_	
+108-6	18786-18789	the	_	
+108-7	18790-18793	DMN	_	
+108-8	18793-18794	,	_	
+108-9	18795-18798	the	_	
+108-10	18799-18802	PCC	_	
+108-11	18802-18803	/	_	
+108-12	18803-18806	PCU	_	
+108-13	18807-18810	may	_	
+108-14	18811-18821	contribute	_	
+108-15	18822-18824	to	_	
+108-16	18825-18834	cognitive	_	
+108-17	18835-18845	processing	_	
+108-18	18846-18853	through	_	
+108-19	18854-18857	its	_	
+108-20	18858-18868	functional	_	
+108-21	18869-18880	connections	_	
+108-22	18881-18887	rather	_	
+108-23	18888-18892	than	_	
+108-24	18893-18896	its	_	
+108-25	18897-18907	activation	_	
+108-26	18908-18913	level	_	
+108-27	18913-18914	.	_	
+
+#Text=In that sense, our finding may help us to understand the above finding from the two fMRI studies using a ToM task.
+109-1	18915-18917	In	_	
+109-2	18918-18922	that	_	
+109-3	18923-18928	sense	_	
+109-4	18928-18929	,	_	
+109-5	18930-18933	our	_	
+109-6	18934-18941	finding	_	
+109-7	18942-18945	may	_	
+109-8	18946-18950	help	_	
+109-9	18951-18953	us	_	
+109-10	18954-18956	to	_	
+109-11	18957-18967	understand	_	
+109-12	18968-18971	the	_	
+109-13	18972-18977	above	_	
+109-14	18978-18985	finding	_	
+109-15	18986-18990	from	_	
+109-16	18991-18994	the	_	
+109-17	18995-18998	two	_	
+109-18	18999-19003	fMRI	_	
+109-19	19004-19011	studies	_	
+109-20	19012-19017	using	_	
+109-21	19018-19019	a	_	
+109-22	19020-19023	ToM	_	
+109-23	19024-19028	task	_	
+109-24	19028-19029	.	_	
+
+#Text=The energy demand of the PCU is very high due to its central role in optimizing overall brain communication.
+110-1	19030-19033	The	_	
+110-2	19034-19040	energy	_	
+110-3	19041-19047	demand	_	
+110-4	19048-19050	of	_	
+110-5	19051-19054	the	_	
+110-6	19055-19058	PCU	_	
+110-7	19059-19061	is	_	
+110-8	19062-19066	very	_	
+110-9	19067-19071	high	_	
+110-10	19072-19075	due	_	
+110-11	19076-19078	to	_	
+110-12	19079-19082	its	_	
+110-13	19083-19090	central	_	
+110-14	19091-19095	role	_	
+110-15	19096-19098	in	_	
+110-16	19099-19109	optimizing	_	
+110-17	19110-19117	overall	_	
+110-18	19118-19123	brain	_	
+110-19	19124-19137	communication	_	
+110-20	19137-19138	.	_	
+
+#Text=Accordingly, the PCU becomes one of the weakest points within the brain network and is vulnerable to any potential insult.
+111-1	19139-19150	Accordingly	_	
+111-2	19150-19151	,	_	
+111-3	19152-19155	the	_	
+111-4	19156-19159	PCU	_	
+111-5	19160-19167	becomes	_	
+111-6	19168-19171	one	_	
+111-7	19172-19174	of	_	
+111-8	19175-19178	the	_	
+111-9	19179-19186	weakest	_	
+111-10	19187-19193	points	_	
+111-11	19194-19200	within	_	
+111-12	19201-19204	the	_	
+111-13	19205-19210	brain	_	
+111-14	19211-19218	network	_	
+111-15	19219-19222	and	_	
+111-16	19223-19225	is	_	
+111-17	19226-19236	vulnerable	_	
+111-18	19237-19239	to	_	
+111-19	19240-19243	any	_	
+111-20	19244-19253	potential	_	
+111-21	19254-19260	insult	_	
+111-22	19260-19261	.	_	
+
+#Text=Previous studies found that injuries to the hubs led to greater impairments of the brain's overall communication efficiency than did injuries to non-hub regions.
+112-1	19262-19270	Previous	_	
+112-2	19271-19278	studies	_	
+112-3	19279-19284	found	_	
+112-4	19285-19289	that	_	
+112-5	19290-19298	injuries	_	
+112-6	19299-19301	to	_	
+112-7	19302-19305	the	_	
+112-8	19306-19310	hubs	_	
+112-9	19311-19314	led	_	
+112-10	19315-19317	to	_	
+112-11	19318-19325	greater	_	
+112-12	19326-19337	impairments	_	
+112-13	19338-19340	of	_	
+112-14	19341-19344	the	_	
+112-15	19345-19352	brain's	_	
+112-16	19353-19360	overall	_	
+112-17	19361-19374	communication	_	
+112-18	19375-19385	efficiency	_	
+112-19	19386-19390	than	_	
+112-20	19391-19394	did	_	
+112-21	19395-19403	injuries	_	
+112-22	19404-19406	to	_	
+112-23	19407-19414	non-hub	_	
+112-24	19415-19422	regions	_	
+112-25	19422-19423	.	_	
+
+#Text=Taken together, the finding that the risk allele homozygotes had significantly higher degree centrality at the PCU hub suggests that this region would have a higher demand for energy and hence greater susceptibility to dysfunctions including those leading to diseases such as schizophrenia.
+113-1	19424-19429	Taken	_	
+113-2	19430-19438	together	_	
+113-3	19438-19439	,	_	
+113-4	19440-19443	the	_	
+113-5	19444-19451	finding	_	
+113-6	19452-19456	that	_	
+113-7	19457-19460	the	_	
+113-8	19461-19465	risk	_	
+113-9	19466-19472	allele	_	
+113-10	19473-19484	homozygotes	_	
+113-11	19485-19488	had	_	
+113-12	19489-19502	significantly	_	
+113-13	19503-19509	higher	_	
+113-14	19510-19516	degree	_	
+113-15	19517-19527	centrality	_	
+113-16	19528-19530	at	_	
+113-17	19531-19534	the	_	
+113-18	19535-19538	PCU	_	
+113-19	19539-19542	hub	_	
+113-20	19543-19551	suggests	_	
+113-21	19552-19556	that	_	
+113-22	19557-19561	this	_	
+113-23	19562-19568	region	_	
+113-24	19569-19574	would	_	
+113-25	19575-19579	have	_	
+113-26	19580-19581	a	_	
+113-27	19582-19588	higher	_	
+113-28	19589-19595	demand	_	
+113-29	19596-19599	for	_	
+113-30	19600-19606	energy	_	
+113-31	19607-19610	and	_	
+113-32	19611-19616	hence	_	
+113-33	19617-19624	greater	_	
+113-34	19625-19639	susceptibility	_	
+113-35	19640-19642	to	_	
+113-36	19643-19655	dysfunctions	_	
+113-37	19656-19665	including	_	
+113-38	19666-19671	those	_	
+113-39	19672-19679	leading	_	
+113-40	19680-19682	to	_	
+113-41	19683-19691	diseases	_	
+113-42	19692-19696	such	_	
+113-43	19697-19699	as	_	
+113-44	19700-19713	schizophrenia	_	
+113-45	19713-19714	.	_	
+
+#Text=In addition to the significant interaction effect of genotype × diagnosis, the PCU also showed a significant diagnosis effect in this study.
+114-1	19715-19717	In	_	
+114-2	19718-19726	addition	_	
+114-3	19727-19729	to	_	
+114-4	19730-19733	the	_	
+114-5	19734-19745	significant	_	
+114-6	19746-19757	interaction	_	
+114-7	19758-19764	effect	_	
+114-8	19765-19767	of	_	
+114-9	19768-19776	genotype	_	
+114-10	19776-19777	 	_	
+114-11	19777-19778	×	_	
+114-12	19778-19779	 	_	
+114-13	19779-19788	diagnosis	_	
+114-14	19788-19789	,	_	
+114-15	19790-19793	the	_	
+114-16	19794-19797	PCU	_	
+114-17	19798-19802	also	_	
+114-18	19803-19809	showed	_	
+114-19	19810-19811	a	_	
+114-20	19812-19823	significant	_	
+114-21	19824-19833	diagnosis	_	
+114-22	19834-19840	effect	_	
+114-23	19841-19843	in	_	
+114-24	19844-19848	this	_	
+114-25	19849-19854	study	_	
+114-26	19854-19855	.	_	
+
+#Text=Briefly, schizophrenia patients showed significantly higher degree centrality at this region than did healthy controls.
+115-1	19856-19863	Briefly	_	
+115-2	19863-19864	,	_	
+115-3	19865-19878	schizophrenia	_	
+115-4	19879-19887	patients	_	
+115-5	19888-19894	showed	_	
+115-6	19895-19908	significantly	_	
+115-7	19909-19915	higher	_	
+115-8	19916-19922	degree	_	
+115-9	19923-19933	centrality	_	
+115-10	19934-19936	at	_	
+115-11	19937-19941	this	_	
+115-12	19942-19948	region	_	
+115-13	19949-19953	than	_	
+115-14	19954-19957	did	_	
+115-15	19958-19965	healthy	_	
+115-16	19966-19974	controls	_	
+115-17	19974-19975	.	_	
+
+#Text=It seems that schizophrenia risk factors such as the risk allele of rs1344706 could affect the etiology of schizophrenia through the functional connectivity of the PCU.
+116-1	19976-19978	It	_	
+116-2	19979-19984	seems	_	
+116-3	19985-19989	that	_	
+116-4	19990-20003	schizophrenia	_	
+116-5	20004-20008	risk	_	
+116-6	20009-20016	factors	_	
+116-7	20017-20021	such	_	
+116-8	20022-20024	as	_	
+116-9	20025-20028	the	_	
+116-10	20029-20033	risk	_	
+116-11	20034-20040	allele	_	
+116-12	20041-20043	of	_	
+116-13	20044-20053	rs1344706	_	
+116-14	20054-20059	could	_	
+116-15	20060-20066	affect	_	
+116-16	20067-20070	the	_	
+116-17	20071-20079	etiology	_	
+116-18	20080-20082	of	_	
+116-19	20083-20096	schizophrenia	_	
+116-20	20097-20104	through	_	
+116-21	20105-20108	the	_	
+116-22	20109-20119	functional	_	
+116-23	20120-20132	connectivity	_	
+116-24	20133-20135	of	_	
+116-25	20136-20139	the	_	
+116-26	20140-20143	PCU	_	
+116-27	20143-20144	.	_	
+
+#Text=There have been 4 other independent resting-state fMRI studies that found significant differences between patients and controls in degree centrality within PCC/PCU.
+117-1	20145-20150	There	_	
+117-2	20151-20155	have	_	
+117-3	20156-20160	been	_	
+117-4	20161-20162	4	_	
+117-5	20163-20168	other	_	
+117-6	20169-20180	independent	_	
+117-7	20181-20194	resting-state	_	
+117-8	20195-20199	fMRI	_	
+117-9	20200-20207	studies	_	
+117-10	20208-20212	that	_	
+117-11	20213-20218	found	_	
+117-12	20219-20230	significant	_	
+117-13	20231-20242	differences	_	
+117-14	20243-20250	between	_	
+117-15	20251-20259	patients	_	
+117-16	20260-20263	and	_	
+117-17	20264-20272	controls	_	
+117-18	20273-20275	in	_	
+117-19	20276-20282	degree	_	
+117-20	20283-20293	centrality	_	
+117-21	20294-20300	within	_	
+117-22	20301-20304	PCC	_	
+117-23	20304-20305	/	_	
+117-24	20305-20308	PCU	_	
+117-25	20308-20309	.	_	
+
+#Text=Three previous studies and the current one reported increased degree centrality in PCC/PCU for schizophrenia patients, but one found decreased degree centrality in schizophrenia patients.
+118-1	20310-20315	Three	_	
+118-2	20316-20324	previous	_	
+118-3	20325-20332	studies	_	
+118-4	20333-20336	and	_	
+118-5	20337-20340	the	_	
+118-6	20341-20348	current	_	
+118-7	20349-20352	one	_	
+118-8	20353-20361	reported	_	
+118-9	20362-20371	increased	_	
+118-10	20372-20378	degree	_	
+118-11	20379-20389	centrality	_	
+118-12	20390-20392	in	_	
+118-13	20393-20396	PCC	_	
+118-14	20396-20397	/	_	
+118-15	20397-20400	PCU	_	
+118-16	20401-20404	for	_	
+118-17	20405-20418	schizophrenia	_	
+118-18	20419-20427	patients	_	
+118-19	20427-20428	,	_	
+118-20	20429-20432	but	_	
+118-21	20433-20436	one	_	
+118-22	20437-20442	found	_	
+118-23	20443-20452	decreased	_	
+118-24	20453-20459	degree	_	
+118-25	20460-20470	centrality	_	
+118-26	20471-20473	in	_	
+118-27	20474-20487	schizophrenia	_	
+118-28	20488-20496	patients	_	
+118-29	20496-20497	.	_	
+
+#Text=The discrepancy between these results may have been due to the fact that four studies did not account for the global mean signal, whereas the fifth one did.
+119-1	20498-20501	The	_	
+119-2	20502-20513	discrepancy	_	
+119-3	20514-20521	between	_	
+119-4	20522-20527	these	_	
+119-5	20528-20535	results	_	
+119-6	20536-20539	may	_	
+119-7	20540-20544	have	_	
+119-8	20545-20549	been	_	
+119-9	20550-20553	due	_	
+119-10	20554-20556	to	_	
+119-11	20557-20560	the	_	
+119-12	20561-20565	fact	_	
+119-13	20566-20570	that	_	
+119-14	20571-20575	four	_	
+119-15	20576-20583	studies	_	
+119-16	20584-20587	did	_	
+119-17	20588-20591	not	_	
+119-18	20592-20599	account	_	
+119-19	20600-20603	for	_	
+119-20	20604-20607	the	_	
+119-21	20608-20614	global	_	
+119-22	20615-20619	mean	_	
+119-23	20620-20626	signal	_	
+119-24	20626-20627	,	_	
+119-25	20628-20635	whereas	_	
+119-26	20636-20639	the	_	
+119-27	20640-20645	fifth	_	
+119-28	20646-20649	one	_	
+119-29	20650-20653	did	_	
+119-30	20653-20654	.	_	
+
+#Text=Indeed, analyzed their data both ways–with and without accounting for global mean signal –and reported that the elevated degree centrality of PCC in schizophrenia patients was more obvious when global signals were not accounted for than when they were.
+120-1	20655-20661	Indeed	_	
+120-2	20661-20662	,	_	
+120-3	20663-20671	analyzed	_	
+120-4	20672-20677	their	_	
+120-5	20678-20682	data	_	
+120-6	20683-20687	both	_	
+120-7	20688-20697	ways–with	_	
+120-8	20698-20701	and	_	
+120-9	20702-20709	without	_	
+120-10	20710-20720	accounting	_	
+120-11	20721-20724	for	_	
+120-12	20725-20731	global	_	
+120-13	20732-20736	mean	_	
+120-14	20737-20743	signal	_	
+120-15	20744-20745	–	_	
+120-16	20745-20748	and	_	
+120-17	20749-20757	reported	_	
+120-18	20758-20762	that	_	
+120-19	20763-20766	the	_	
+120-20	20767-20775	elevated	_	
+120-21	20776-20782	degree	_	
+120-22	20783-20793	centrality	_	
+120-23	20794-20796	of	_	
+120-24	20797-20800	PCC	_	
+120-25	20801-20803	in	_	
+120-26	20804-20817	schizophrenia	_	
+120-27	20818-20826	patients	_	
+120-28	20827-20830	was	_	
+120-29	20831-20835	more	_	
+120-30	20836-20843	obvious	_	
+120-31	20844-20848	when	_	
+120-32	20849-20855	global	_	
+120-33	20856-20863	signals	_	
+120-34	20864-20868	were	_	
+120-35	20869-20872	not	_	
+120-36	20873-20882	accounted	_	
+120-37	20883-20886	for	_	
+120-38	20887-20891	than	_	
+120-39	20892-20896	when	_	
+120-40	20897-20901	they	_	
+120-41	20902-20906	were	_	
+120-42	20906-20907	.	_	
+
+#Text=Previously, the global mean signals at the resting-state were presumed to reflect physiological noise and were thus commonly accounted for.
+121-1	20908-20918	Previously	_	
+121-2	20918-20919	,	_	
+121-3	20920-20923	the	_	
+121-4	20924-20930	global	_	
+121-5	20931-20935	mean	_	
+121-6	20936-20943	signals	_	
+121-7	20944-20946	at	_	
+121-8	20947-20950	the	_	
+121-9	20951-20964	resting-state	_	
+121-10	20965-20969	were	_	
+121-11	20970-20978	presumed	_	
+121-12	20979-20981	to	_	
+121-13	20982-20989	reflect	_	
+121-14	20990-21003	physiological	_	
+121-15	21004-21009	noise	_	
+121-16	21010-21013	and	_	
+121-17	21014-21018	were	_	
+121-18	21019-21023	thus	_	
+121-19	21024-21032	commonly	_	
+121-20	21033-21042	accounted	_	
+121-21	21043-21046	for	_	
+121-22	21046-21047	.	_	
+
+#Text=However, it is now suggested that such signals may also reflect important neuronal components.
+122-1	21048-21055	However	_	
+122-2	21055-21056	,	_	
+122-3	21057-21059	it	_	
+122-4	21060-21062	is	_	
+122-5	21063-21066	now	_	
+122-6	21067-21076	suggested	_	
+122-7	21077-21081	that	_	
+122-8	21082-21086	such	_	
+122-9	21087-21094	signals	_	
+122-10	21095-21098	may	_	
+122-11	21099-21103	also	_	
+122-12	21104-21111	reflect	_	
+122-13	21112-21121	important	_	
+122-14	21122-21130	neuronal	_	
+122-15	21131-21141	components	_	
+122-16	21141-21142	.	_	
+
+#Text=So it seems more reasonable not to remove the global mean signals when we analyze the fMRI data.
+123-1	21143-21145	So	_	
+123-2	21146-21148	it	_	
+123-3	21149-21154	seems	_	
+123-4	21155-21159	more	_	
+123-5	21160-21170	reasonable	_	
+123-6	21171-21174	not	_	
+123-7	21175-21177	to	_	
+123-8	21178-21184	remove	_	
+123-9	21185-21188	the	_	
+123-10	21189-21195	global	_	
+123-11	21196-21200	mean	_	
+123-12	21201-21208	signals	_	
+123-13	21209-21213	when	_	
+123-14	21214-21216	we	_	
+123-15	21217-21224	analyze	_	
+123-16	21225-21228	the	_	
+123-17	21229-21233	fMRI	_	
+123-18	21234-21238	data	_	
+123-19	21238-21239	.	_	
+
+#Text=When we subdivided the whole-range degree centrality network according to anatomic distance into long-range and short-range connections, we further found that the significant interaction effect of genotype × diagnosis was limited to short-range connections.
+124-1	21240-21244	When	_	
+124-2	21245-21247	we	_	
+124-3	21248-21258	subdivided	_	
+124-4	21259-21262	the	_	
+124-5	21263-21274	whole-range	_	
+124-6	21275-21281	degree	_	
+124-7	21282-21292	centrality	_	
+124-8	21293-21300	network	_	
+124-9	21301-21310	according	_	
+124-10	21311-21313	to	_	
+124-11	21314-21322	anatomic	_	
+124-12	21323-21331	distance	_	
+124-13	21332-21336	into	_	
+124-14	21337-21347	long-range	_	
+124-15	21348-21351	and	_	
+124-16	21352-21363	short-range	_	
+124-17	21364-21375	connections	_	
+124-18	21375-21376	,	_	
+124-19	21377-21379	we	_	
+124-20	21380-21387	further	_	
+124-21	21388-21393	found	_	
+124-22	21394-21398	that	_	
+124-23	21399-21402	the	_	
+124-24	21403-21414	significant	_	
+124-25	21415-21426	interaction	_	
+124-26	21427-21433	effect	_	
+124-27	21434-21436	of	_	
+124-28	21437-21445	genotype	_	
+124-29	21445-21446	 	_	
+124-30	21446-21447	×	_	
+124-31	21447-21448	 	_	
+124-32	21448-21457	diagnosis	_	
+124-33	21458-21461	was	_	
+124-34	21462-21469	limited	_	
+124-35	21470-21472	to	_	
+124-36	21473-21484	short-range	_	
+124-37	21485-21496	connections	_	
+124-38	21496-21497	.	_	
+
+#Text=The balance between long- and short-range cortical-cortical interactions is important for efficient cortical processing.
+125-1	21498-21501	The	_	
+125-2	21502-21509	balance	_	
+125-3	21510-21517	between	_	
+125-4	21518-21522	long	_	
+125-5	21522-21523	-	_	
+125-6	21524-21527	and	_	
+125-7	21528-21539	short-range	_	
+125-8	21540-21557	cortical-cortical	_	
+125-9	21558-21570	interactions	_	
+125-10	21571-21573	is	_	
+125-11	21574-21583	important	_	
+125-12	21584-21587	for	_	
+125-13	21588-21597	efficient	_	
+125-14	21598-21606	cortical	_	
+125-15	21607-21617	processing	_	
+125-16	21617-21618	.	_	
+
+#Text=The brain network in children is dominated by short-range connections, but long-range connections become dominant as children mature.
+126-1	21619-21622	The	_	
+126-2	21623-21628	brain	_	
+126-3	21629-21636	network	_	
+126-4	21637-21639	in	_	
+126-5	21640-21648	children	_	
+126-6	21649-21651	is	_	
+126-7	21652-21661	dominated	_	
+126-8	21662-21664	by	_	
+126-9	21665-21676	short-range	_	
+126-10	21677-21688	connections	_	
+126-11	21688-21689	,	_	
+126-12	21690-21693	but	_	
+126-13	21694-21704	long-range	_	
+126-14	21705-21716	connections	_	
+126-15	21717-21723	become	_	
+126-16	21724-21732	dominant	_	
+126-17	21733-21735	as	_	
+126-18	21736-21744	children	_	
+126-19	21745-21751	mature	_	
+126-20	21751-21752	.	_	
+
+#Text=Our result seems to suggest that the brain network of schizophrenia patients who are risk allele homozygotes may be underdeveloped.
+127-1	21753-21756	Our	_	
+127-2	21757-21763	result	_	
+127-3	21764-21769	seems	_	
+127-4	21770-21772	to	_	
+127-5	21773-21780	suggest	_	
+127-6	21781-21785	that	_	
+127-7	21786-21789	the	_	
+127-8	21790-21795	brain	_	
+127-9	21796-21803	network	_	
+127-10	21804-21806	of	_	
+127-11	21807-21820	schizophrenia	_	
+127-12	21821-21829	patients	_	
+127-13	21830-21833	who	_	
+127-14	21834-21837	are	_	
+127-15	21838-21842	risk	_	
+127-16	21843-21849	allele	_	
+127-17	21850-21861	homozygotes	_	
+127-18	21862-21865	may	_	
+127-19	21866-21868	be	_	
+127-20	21869-21883	underdeveloped	_	
+127-21	21883-21884	.	_	
+
+#Text=The PCU is an important component of the default mode network (DMN).
+128-1	21885-21888	The	_	
+128-2	21889-21892	PCU	_	
+128-3	21893-21895	is	_	
+128-4	21896-21898	an	_	
+128-5	21899-21908	important	_	
+128-6	21909-21918	component	_	
+128-7	21919-21921	of	_	
+128-8	21922-21925	the	_	
+128-9	21926-21933	default	_	
+128-10	21934-21938	mode	_	
+128-11	21939-21946	network	_	
+128-12	21947-21948	(	_	
+128-13	21948-21951	DMN	_	
+128-14	21951-21952	)	_	
+128-15	21952-21953	.	_	
+
+#Text=Although the exact reason for the role of the DMN in symptoms of schizophrenia is still unknown, two properties of the DMN give us some hints.
+129-1	21954-21962	Although	_	
+129-2	21963-21966	the	_	
+129-3	21967-21972	exact	_	
+129-4	21973-21979	reason	_	
+129-5	21980-21983	for	_	
+129-6	21984-21987	the	_	
+129-7	21988-21992	role	_	
+129-8	21993-21995	of	_	
+129-9	21996-21999	the	_	
+129-10	22000-22003	DMN	_	
+129-11	22004-22006	in	_	
+129-12	22007-22015	symptoms	_	
+129-13	22016-22018	of	_	
+129-14	22019-22032	schizophrenia	_	
+129-15	22033-22035	is	_	
+129-16	22036-22041	still	_	
+129-17	22042-22049	unknown	_	
+129-18	22049-22050	,	_	
+129-19	22051-22054	two	_	
+129-20	22055-22065	properties	_	
+129-21	22066-22068	of	_	
+129-22	22069-22072	the	_	
+129-23	22073-22076	DMN	_	
+129-24	22077-22081	give	_	
+129-25	22082-22084	us	_	
+129-26	22085-22089	some	_	
+129-27	22090-22095	hints	_	
+129-28	22095-22096	.	_	
+
+#Text=First, the DMN is very active when the mind is in a passive state or when the mind is involved in tasks that direct attention away from external stimuli.
+130-1	22097-22102	First	_	
+130-2	22102-22103	,	_	
+130-3	22104-22107	the	_	
+130-4	22108-22111	DMN	_	
+130-5	22112-22114	is	_	
+130-6	22115-22119	very	_	
+130-7	22120-22126	active	_	
+130-8	22127-22131	when	_	
+130-9	22132-22135	the	_	
+130-10	22136-22140	mind	_	
+130-11	22141-22143	is	_	
+130-12	22144-22146	in	_	
+130-13	22147-22148	a	_	
+130-14	22149-22156	passive	_	
+130-15	22157-22162	state	_	
+130-16	22163-22165	or	_	
+130-17	22166-22170	when	_	
+130-18	22171-22174	the	_	
+130-19	22175-22179	mind	_	
+130-20	22180-22182	is	_	
+130-21	22183-22191	involved	_	
+130-22	22192-22194	in	_	
+130-23	22195-22200	tasks	_	
+130-24	22201-22205	that	_	
+130-25	22206-22212	direct	_	
+130-26	22213-22222	attention	_	
+130-27	22223-22227	away	_	
+130-28	22228-22232	from	_	
+130-29	22233-22241	external	_	
+130-30	22242-22249	stimuli	_	
+130-31	22249-22250	.	_	
+
+#Text=Some researchers have proposed the internal mentation hypothesis that the DMN directly supports internal mentation that is detached from the external world.
+131-1	22251-22255	Some	_	
+131-2	22256-22267	researchers	_	
+131-3	22268-22272	have	_	
+131-4	22273-22281	proposed	_	
+131-5	22282-22285	the	_	
+131-6	22286-22294	internal	_	
+131-7	22295-22304	mentation	_	
+131-8	22305-22315	hypothesis	_	
+131-9	22316-22320	that	_	
+131-10	22321-22324	the	_	
+131-11	22325-22328	DMN	_	
+131-12	22329-22337	directly	_	
+131-13	22338-22346	supports	_	
+131-14	22347-22355	internal	_	
+131-15	22356-22365	mentation	_	
+131-16	22366-22370	that	_	
+131-17	22371-22373	is	_	
+131-18	22374-22382	detached	_	
+131-19	22383-22387	from	_	
+131-20	22388-22391	the	_	
+131-21	22392-22400	external	_	
+131-22	22401-22406	world	_	
+131-23	22406-22407	.	_	
+
+#Text=It is possible that overactive DMN may weaken or even cut off the link between internal mentation and the external world in schizophrenia patients.
+132-1	22408-22410	It	_	
+132-2	22411-22413	is	_	
+132-3	22414-22422	possible	_	
+132-4	22423-22427	that	_	
+132-5	22428-22438	overactive	_	
+132-6	22439-22442	DMN	_	
+132-7	22443-22446	may	_	
+132-8	22447-22453	weaken	_	
+132-9	22454-22456	or	_	
+132-10	22457-22461	even	_	
+132-11	22462-22465	cut	_	
+132-12	22466-22469	off	_	
+132-13	22470-22473	the	_	
+132-14	22474-22478	link	_	
+132-15	22479-22486	between	_	
+132-16	22487-22495	internal	_	
+132-17	22496-22505	mentation	_	
+132-18	22506-22509	and	_	
+132-19	22510-22513	the	_	
+132-20	22514-22522	external	_	
+132-21	22523-22528	world	_	
+132-22	22529-22531	in	_	
+132-23	22532-22545	schizophrenia	_	
+132-24	22546-22554	patients	_	
+132-25	22554-22555	.	_	
+
+#Text=Second, the DMN is closely connected to brain regions that are active during episodic memory such as the hippocampus.
+133-1	22556-22562	Second	_	
+133-2	22562-22563	,	_	
+133-3	22564-22567	the	_	
+133-4	22568-22571	DMN	_	
+133-5	22572-22574	is	_	
+133-6	22575-22582	closely	_	
+133-7	22583-22592	connected	_	
+133-8	22593-22595	to	_	
+133-9	22596-22601	brain	_	
+133-10	22602-22609	regions	_	
+133-11	22610-22614	that	_	
+133-12	22615-22618	are	_	
+133-13	22619-22625	active	_	
+133-14	22626-22632	during	_	
+133-15	22633-22641	episodic	_	
+133-16	22642-22648	memory	_	
+133-17	22649-22653	such	_	
+133-18	22654-22656	as	_	
+133-19	22657-22660	the	_	
+133-20	22661-22672	hippocampus	_	
+133-21	22672-22673	.	_	
+
+#Text=When the link between internal mentation and the external world was weakened, patients' thinking and judgement may rely more heavily on their own memory.
+134-1	22674-22678	When	_	
+134-2	22679-22682	the	_	
+134-3	22683-22687	link	_	
+134-4	22688-22695	between	_	
+134-5	22696-22704	internal	_	
+134-6	22705-22714	mentation	_	
+134-7	22715-22718	and	_	
+134-8	22719-22722	the	_	
+134-9	22723-22731	external	_	
+134-10	22732-22737	world	_	
+134-11	22738-22741	was	_	
+134-12	22742-22750	weakened	_	
+134-13	22750-22751	,	_	
+134-14	22752-22760	patients	_	
+134-15	22760-22761	'	_	
+134-16	22762-22770	thinking	_	
+134-17	22771-22774	and	_	
+134-18	22775-22784	judgement	_	
+134-19	22785-22788	may	_	
+134-20	22789-22793	rely	_	
+134-21	22794-22798	more	_	
+134-22	22799-22806	heavily	_	
+134-23	22807-22809	on	_	
+134-24	22810-22815	their	_	
+134-25	22816-22819	own	_	
+134-26	22820-22826	memory	_	
+134-27	22826-22827	.	_	
+
+#Text=As a result, they may produce many self-referential thoughts.
+135-1	22828-22830	As	_	
+135-2	22831-22832	a	_	
+135-3	22833-22839	result	_	
+135-4	22839-22840	,	_	
+135-5	22841-22845	they	_	
+135-6	22846-22849	may	_	
+135-7	22850-22857	produce	_	
+135-8	22858-22862	many	_	
+135-9	22863-22879	self-referential	_	
+135-10	22880-22888	thoughts	_	
+135-11	22888-22889	.	_	
+
+#Text=As reported in one previous study, increased short-range functional connectivity at the PCU was associated with increased self-referential thoughts, which could further result in hallucinations.
+136-1	22890-22892	As	_	
+136-2	22893-22901	reported	_	
+136-3	22902-22904	in	_	
+136-4	22905-22908	one	_	
+136-5	22909-22917	previous	_	
+136-6	22918-22923	study	_	
+136-7	22923-22924	,	_	
+136-8	22925-22934	increased	_	
+136-9	22935-22946	short-range	_	
+136-10	22947-22957	functional	_	
+136-11	22958-22970	connectivity	_	
+136-12	22971-22973	at	_	
+136-13	22974-22977	the	_	
+136-14	22978-22981	PCU	_	
+136-15	22982-22985	was	_	
+136-16	22986-22996	associated	_	
+136-17	22997-23001	with	_	
+136-18	23002-23011	increased	_	
+136-19	23012-23028	self-referential	_	
+136-20	23029-23037	thoughts	_	
+136-21	23037-23038	,	_	
+136-22	23039-23044	which	_	
+136-23	23045-23050	could	_	
+136-24	23051-23058	further	_	
+136-25	23059-23065	result	_	
+136-26	23066-23068	in	_	
+136-27	23069-23083	hallucinations	_	
+136-28	23083-23084	.	_	
+
+#Text=It needs to mention that the DMN is deactivated when performing tasks with high cognitive demands such as the ToM task.
+137-1	23085-23087	It	_	
+137-2	23088-23093	needs	_	
+137-3	23094-23096	to	_	
+137-4	23097-23104	mention	_	
+137-5	23105-23109	that	_	
+137-6	23110-23113	the	_	
+137-7	23114-23117	DMN	_	
+137-8	23118-23120	is	_	
+137-9	23121-23132	deactivated	_	
+137-10	23133-23137	when	_	
+137-11	23138-23148	performing	_	
+137-12	23149-23154	tasks	_	
+137-13	23155-23159	with	_	
+137-14	23160-23164	high	_	
+137-15	23165-23174	cognitive	_	
+137-16	23175-23182	demands	_	
+137-17	23183-23187	such	_	
+137-18	23188-23190	as	_	
+137-19	23191-23194	the	_	
+137-20	23195-23198	ToM	_	
+137-21	23199-23203	task	_	
+137-22	23203-23204	.	_	
+
+#Text=Some fMRI studies using a ToM task (to measure the ability to understand other people's mental states) have suggested that the significant rs1344706 genotype effect on the deactivation of the PCC/PCU may be due to delusional ideation in schizophrenia patients.
+138-1	23205-23209	Some	_	
+138-2	23210-23214	fMRI	_	
+138-3	23215-23222	studies	_	
+138-4	23223-23228	using	_	
+138-5	23229-23230	a	_	
+138-6	23231-23234	ToM	_	
+138-7	23235-23239	task	_	
+138-8	23240-23241	(	_	
+138-9	23241-23243	to	_	
+138-10	23244-23251	measure	_	
+138-11	23252-23255	the	_	
+138-12	23256-23263	ability	_	
+138-13	23264-23266	to	_	
+138-14	23267-23277	understand	_	
+138-15	23278-23283	other	_	
+138-16	23284-23292	people's	_	
+138-17	23293-23299	mental	_	
+138-18	23300-23306	states	_	
+138-19	23306-23307	)	_	
+138-20	23308-23312	have	_	
+138-21	23313-23322	suggested	_	
+138-22	23323-23327	that	_	
+138-23	23328-23331	the	_	
+138-24	23332-23343	significant	_	
+138-25	23344-23353	rs1344706	_	
+138-26	23354-23362	genotype	_	
+138-27	23363-23369	effect	_	
+138-28	23370-23372	on	_	
+138-29	23373-23376	the	_	
+138-30	23377-23389	deactivation	_	
+138-31	23390-23392	of	_	
+138-32	23393-23396	the	_	
+138-33	23397-23400	PCC	_	
+138-34	23400-23401	/	_	
+138-35	23401-23404	PCU	_	
+138-36	23405-23408	may	_	
+138-37	23409-23411	be	_	
+138-38	23412-23415	due	_	
+138-39	23416-23418	to	_	
+138-40	23419-23429	delusional	_	
+138-41	23430-23438	ideation	_	
+138-42	23439-23441	in	_	
+138-43	23442-23455	schizophrenia	_	
+138-44	23456-23464	patients	_	
+138-45	23464-23465	.	_	
+
+#Text=In sum, rs1344706 may be linked to symptoms of schizophrenia due to its role in the PCC/PCU-related brain connectivity.
+139-1	23466-23468	In	_	
+139-2	23469-23472	sum	_	
+139-3	23472-23473	,	_	
+139-4	23474-23483	rs1344706	_	
+139-5	23484-23487	may	_	
+139-6	23488-23490	be	_	
+139-7	23491-23497	linked	_	
+139-8	23498-23500	to	_	
+139-9	23501-23509	symptoms	_	
+139-10	23510-23512	of	_	
+139-11	23513-23526	schizophrenia	_	
+139-12	23527-23530	due	_	
+139-13	23531-23533	to	_	
+139-14	23534-23537	its	_	
+139-15	23538-23542	role	_	
+139-16	23543-23545	in	_	
+139-17	23546-23549	the	_	
+139-18	23550-23553	PCC	_	
+139-19	23553-23554	/	_	
+139-20	23554-23565	PCU-related	_	
+139-21	23566-23571	brain	_	
+139-22	23572-23584	connectivity	_	
+139-23	23584-23585	.	_	
+
+#Text=Three major limitations need to be mentioned.
+140-1	23586-23591	Three	_	
+140-2	23592-23597	major	_	
+140-3	23598-23609	limitations	_	
+140-4	23610-23614	need	_	
+140-5	23615-23617	to	_	
+140-6	23618-23620	be	_	
+140-7	23621-23630	mentioned	_	
+140-8	23630-23631	.	_	
+
+#Text=First, the size of our patient sample was relatively small.
+141-1	23632-23637	First	_	
+141-2	23637-23638	,	_	
+141-3	23639-23642	the	_	
+141-4	23643-23647	size	_	
+141-5	23648-23650	of	_	
+141-6	23651-23654	our	_	
+141-7	23655-23662	patient	_	
+141-8	23663-23669	sample	_	
+141-9	23670-23673	was	_	
+141-10	23674-23684	relatively	_	
+141-11	23685-23690	small	_	
+141-12	23690-23691	.	_	
+
+#Text=Second, we did not analyze the task fMRI data due to a lack of a consensus on the network analysis methods for task-fMRI data.
+142-1	23692-23698	Second	_	
+142-2	23698-23699	,	_	
+142-3	23700-23702	we	_	
+142-4	23703-23706	did	_	
+142-5	23707-23710	not	_	
+142-6	23711-23718	analyze	_	
+142-7	23719-23722	the	_	
+142-8	23723-23727	task	_	
+142-9	23728-23732	fMRI	_	
+142-10	23733-23737	data	_	
+142-11	23738-23741	due	_	
+142-12	23742-23744	to	_	
+142-13	23745-23746	a	_	
+142-14	23747-23751	lack	_	
+142-15	23752-23754	of	_	
+142-16	23755-23756	a	_	
+142-17	23757-23766	consensus	_	
+142-18	23767-23769	on	_	
+142-19	23770-23773	the	_	
+142-20	23774-23781	network	_	
+142-21	23782-23790	analysis	_	
+142-22	23791-23798	methods	_	
+142-23	23799-23802	for	_	
+142-24	23803-23812	task-fMRI	_	
+142-25	23813-23817	data	_	
+142-26	23817-23818	.	_	
+
+#Text=Finally, the threshold (voxel-level threshold of P < 0.001 and cluster-level family-wise error (FWE) corrected P < 0.05) used in this study may still be too liberal according to.
+143-1	23819-23826	Finally	_	
+143-2	23826-23827	,	_	
+143-3	23828-23831	the	_	
+143-4	23832-23841	threshold	_	
+143-5	23842-23843	(	_	
+143-6	23843-23854	voxel-level	_	
+143-7	23855-23864	threshold	_	
+143-8	23865-23867	of	_	
+143-9	23868-23869	P	_	
+143-10	23869-23870	 	_	
+143-11	23870-23871	<	_	
+143-12	23871-23872	 	_	
+143-13	23872-23877	0.001	_	
+143-14	23878-23881	and	_	
+143-15	23882-23895	cluster-level	_	
+143-16	23896-23907	family-wise	_	
+143-17	23908-23913	error	_	
+143-18	23914-23915	(	_	
+143-19	23915-23918	FWE	_	
+143-20	23918-23919	)	_	
+143-21	23920-23929	corrected	_	
+143-22	23930-23931	P	_	
+143-23	23931-23932	 	_	
+143-24	23932-23933	<	_	
+143-25	23933-23934	 	_	
+143-26	23934-23938	0.05	_	
+143-27	23938-23939	)	_	
+143-28	23940-23944	used	_	
+143-29	23945-23947	in	_	
+143-30	23948-23952	this	_	
+143-31	23953-23958	study	_	
+143-32	23959-23962	may	_	
+143-33	23963-23968	still	_	
+143-34	23969-23971	be	_	
+143-35	23972-23975	too	_	
+143-36	23976-23983	liberal	_	
+143-37	23984-23993	according	_	
+143-38	23994-23996	to	_	
+143-39	23996-23997	.	_	
+
+#Text=Therefore, results of this study should be interpreted with caution.
+144-1	23998-24007	Therefore	_	
+144-2	24007-24008	,	_	
+144-3	24009-24016	results	_	
+144-4	24017-24019	of	_	
+144-5	24020-24024	this	_	
+144-6	24025-24030	study	_	
+144-7	24031-24037	should	_	
+144-8	24038-24040	be	_	
+144-9	24041-24052	interpreted	_	
+144-10	24053-24057	with	_	
+144-11	24058-24065	caution	_	
+144-12	24065-24066	.	_	
+
+#Text=Conclusion
+#Text=To conclude, the current study found significant effects of ZNF804A rs1344706 on the degree centrality of an important hub, the PCU.
+145-1	24067-24077	Conclusion	_	
+145-2	24078-24080	To	_	
+145-3	24081-24089	conclude	_	
+145-4	24089-24090	,	_	
+145-5	24091-24094	the	_	
+145-6	24095-24102	current	_	
+145-7	24103-24108	study	_	
+145-8	24109-24114	found	_	
+145-9	24115-24126	significant	_	
+145-10	24127-24134	effects	_	
+145-11	24135-24137	of	_	
+145-12	24138-24145	ZNF804A	_	
+145-13	24146-24155	rs1344706	_	
+145-14	24156-24158	on	_	
+145-15	24159-24162	the	_	
+145-16	24163-24169	degree	_	
+145-17	24170-24180	centrality	_	
+145-18	24181-24183	of	_	
+145-19	24184-24186	an	_	
+145-20	24187-24196	important	_	
+145-21	24197-24200	hub	_	
+145-22	24200-24201	,	_	
+145-23	24202-24205	the	_	
+145-24	24206-24209	PCU	_	
+145-25	24209-24210	.	_	
+
+#Text=Our results suggest a possible mechanism underlying this genetic polymorphism's association with schizophrenia.
+146-1	24211-24214	Our	_	
+146-2	24215-24222	results	_	
+146-3	24223-24230	suggest	_	
+146-4	24231-24232	a	_	
+146-5	24233-24241	possible	_	
+146-6	24242-24251	mechanism	_	
+146-7	24252-24262	underlying	_	
+146-8	24263-24267	this	_	
+146-9	24268-24275	genetic	_	
+146-10	24276-24290	polymorphism's	_	
+146-11	24291-24302	association	_	
+146-12	24303-24307	with	_	
+146-13	24308-24321	schizophrenia	_	
+146-14	24321-24322	.	_	
+
+#Text=Author contributions
+#Text=Li J, Dong Q and Chen CS designed the study and wrote the protocol.
+147-1	24323-24329	Author	_	
+147-2	24330-24343	contributions	_	
+147-3	24344-24346	Li	_	
+147-4	24347-24348	J	_	
+147-5	24348-24349	,	_	
+147-6	24350-24354	Dong	_	
+147-7	24355-24356	Q	_	
+147-8	24357-24360	and	_	
+147-9	24361-24365	Chen	_	
+147-10	24366-24368	CS	_	
+147-11	24369-24377	designed	_	
+147-12	24378-24381	the	_	
+147-13	24382-24387	study	_	
+147-14	24388-24391	and	_	
+147-15	24392-24397	wrote	_	
+147-16	24398-24401	the	_	
+147-17	24402-24410	protocol	_	
+147-18	24410-24411	.	_	
+
+#Text=Zhang QM, Zhai JG, Chen M, Du BQ, Deng XX, Ji F, Wang CY, Xiang YT and Wu HJ selected and evaluated the sample.
+148-1	24412-24417	Zhang	_	
+148-2	24418-24420	QM	_	
+148-3	24420-24421	,	_	
+148-4	24422-24426	Zhai	_	
+148-5	24427-24429	JG	_	
+148-6	24429-24430	,	_	
+148-7	24431-24435	Chen	_	
+148-8	24436-24437	M	_	
+148-9	24437-24438	,	_	
+148-10	24439-24441	Du	_	
+148-11	24442-24444	BQ	_	
+148-12	24444-24445	,	_	
+148-13	24446-24450	Deng	_	
+148-14	24451-24453	XX	_	
+148-15	24453-24454	,	_	
+148-16	24455-24457	Ji	_	
+148-17	24458-24459	F	_	
+148-18	24459-24460	,	_	
+148-19	24461-24465	Wang	_	
+148-20	24466-24468	CY	_	
+148-21	24468-24469	,	_	
+148-22	24470-24475	Xiang	_	
+148-23	24476-24478	YT	_	
+148-24	24479-24482	and	_	
+148-25	24483-24485	Wu	_	
+148-26	24486-24488	HJ	_	
+148-27	24489-24497	selected	_	
+148-28	24498-24501	and	_	
+148-29	24502-24511	evaluated	_	
+148-30	24512-24515	the	_	
+148-31	24516-24522	sample	_	
+148-32	24522-24523	.	_	
+
+#Text=Chen XY, Zhang ZF, and Zhao W conducted the literature searches.
+149-1	24524-24528	Chen	_	
+149-2	24529-24531	XY	_	
+149-3	24531-24532	,	_	
+149-4	24533-24538	Zhang	_	
+149-5	24539-24541	ZF	_	
+149-6	24541-24542	,	_	
+149-7	24543-24546	and	_	
+149-8	24547-24551	Zhao	_	
+149-9	24552-24553	W	_	
+149-10	24554-24563	conducted	_	
+149-11	24564-24567	the	_	
+149-12	24568-24578	literature	_	
+149-13	24579-24587	searches	_	
+149-14	24587-24588	.	_	
+
+#Text=Chen XY undertook the statistical analysis and wrote the first draft of the manuscript.
+150-1	24589-24593	Chen	_	
+150-2	24594-24596	XY	_	
+150-3	24597-24606	undertook	_	
+150-4	24607-24610	the	_	
+150-5	24611-24622	statistical	_	
+150-6	24623-24631	analysis	_	
+150-7	24632-24635	and	_	
+150-8	24636-24641	wrote	_	
+150-9	24642-24645	the	_	
+150-10	24646-24651	first	_	
+150-11	24652-24657	draft	_	
+150-12	24658-24660	of	_	
+150-13	24661-24664	the	_	
+150-14	24665-24675	manuscript	_	
+150-15	24675-24676	.	_	
+
+#Text=All authors contributed to and have approved the final manuscript.
+151-1	24677-24680	All	_	
+151-2	24681-24688	authors	_	
+151-3	24689-24700	contributed	_	
+151-4	24701-24703	to	_	
+151-5	24704-24707	and	_	
+151-6	24708-24712	have	_	
+151-7	24713-24721	approved	_	
+151-8	24722-24725	the	_	
+151-9	24726-24731	final	_	
+151-10	24732-24742	manuscript	_	
+151-11	24742-24743	.	_	
+
+#Text=Financial disclosures
+#Text=Authors declare no competing financial interests in relation with this manuscript.
+152-1	24744-24753	Financial	_	
+152-2	24754-24765	disclosures	_	
+152-3	24766-24773	Authors	_	
+152-4	24774-24781	declare	_	
+152-5	24782-24784	no	_	
+152-6	24785-24794	competing	_	
+152-7	24795-24804	financial	_	
+152-8	24805-24814	interests	_	
+152-9	24815-24817	in	_	
+152-10	24818-24826	relation	_	
+152-11	24827-24831	with	_	
+152-12	24832-24836	this	_	
+152-13	24837-24847	manuscript	_	
+152-14	24847-24848	.	_	
+
+#Text=References
+#Text=A resilient, low-frequency, small-world human brain functional network with highly connected association cortical hubs
+#Text=Remembering the past: two facets of episodic memory explored with positron emission tomography
+#Text=The brain's default network and its adaptive role in internal mentation
+#Text=The brain's default network: anatomy, function, and relevance to disease
+#Text=Cortical hubs revealed by intrinsic functional connectivity: mapping, assessment of stability, and relation to Alzheimer's disease
+#Text=The economy of brain network organization
+#Text=Topological organization of the human brain functional connectome across the lifespan
+#Text=The hubs of the human connectome are generally implicated in the anatomy of brain disorders
+#Text=Identifying and mapping connectivity patterns of brain network hubs in Alzheimer's disease
+#Text=ZNF804A risk allele is associated with relatively intact gray matter volume in patients with schizophrenia
+#Text=Cluster failure: Why fMRI inferences for spatial extent have inflated false-positive rates
+#Text=Task-positive functional connectivity of the default mode network transcends task domain
+#Text=Neural mechanisms of a genome-wide supported psychosis variant
+#Text=
+#Text=Functional brain networks develop from a “local to distributed” organization
+#Text=The global signal and observed anticorrelated resting state brain networks
+#Text=Increased short-range and long-range functional connectivity in first-episode, medication-naive schizophrenia at rest
+#Text=Increased cerebellar functional connectivity with the default-mode network in unaffected siblings of schizophrenia patients at rest
+#Text=Save the global: global signal connectivity as a tool for studying clinical populations with functional magnetic resonance imaging
+#Text=The impact of a genome-wide supported psychosis variant in the ZNF804A gene on memory function in schizophrenia
+#Text=Small-world anatomical networks in the human brain revealed by cortical thickness from MRI
+#Text=Rich-club organization of the human connectome
+#Text=Network hubs in the human brain
+#Text=Development of anterior cingulate functional connectivity from late childhood to early adulthood
+#Text=Overlapping brain activity between episodic memory encoding and retrieval: roles of the task-positive and task-negative networks
+#Text=Genome-wide supported psychosis risk variant in ZNF804A gene and impact on cortico-limbic WM integrity in schizophrenia
+#Text=The role of the posterior cingulate cortex in cognition and disease
+#Text=Coupling of functional connectivity and regional cerebral blood flow reveals a physiological basis for network hubs of the human brain
+#Text=Network analysis of auditory hallucinations in nonpsychotic individuals
+#Text=From sensation to cognition
+#Text=Further evidence for the impact of a genome-wide-supported psychosis risk variant in ZNF804A on the Theory of Mind Network
+#Text=The impact of global signal regression on resting state correlations: are anti-correlated networks introduced?
+153-1	24849-24859	References	_	
+153-2	24860-24861	A	_	
+153-3	24862-24871	resilient	_	
+153-4	24871-24872	,	_	
+153-5	24873-24886	low-frequency	_	
+153-6	24886-24887	,	_	
+153-7	24888-24899	small-world	_	
+153-8	24900-24905	human	_	
+153-9	24906-24911	brain	_	
+153-10	24912-24922	functional	_	
+153-11	24923-24930	network	_	
+153-12	24931-24935	with	_	
+153-13	24936-24942	highly	_	
+153-14	24943-24952	connected	_	
+153-15	24953-24964	association	_	
+153-16	24965-24973	cortical	_	
+153-17	24974-24978	hubs	_	
+153-18	24979-24990	Remembering	_	
+153-19	24991-24994	the	_	
+153-20	24995-24999	past	_	
+153-21	24999-25000	:	_	
+153-22	25001-25004	two	_	
+153-23	25005-25011	facets	_	
+153-24	25012-25014	of	_	
+153-25	25015-25023	episodic	_	
+153-26	25024-25030	memory	_	
+153-27	25031-25039	explored	_	
+153-28	25040-25044	with	_	
+153-29	25045-25053	positron	_	
+153-30	25054-25062	emission	_	
+153-31	25063-25073	tomography	_	
+153-32	25074-25077	The	_	
+153-33	25078-25085	brain's	_	
+153-34	25086-25093	default	_	
+153-35	25094-25101	network	_	
+153-36	25102-25105	and	_	
+153-37	25106-25109	its	_	
+153-38	25110-25118	adaptive	_	
+153-39	25119-25123	role	_	
+153-40	25124-25126	in	_	
+153-41	25127-25135	internal	_	
+153-42	25136-25145	mentation	_	
+153-43	25146-25149	The	_	
+153-44	25150-25157	brain's	_	
+153-45	25158-25165	default	_	
+153-46	25166-25173	network	_	
+153-47	25173-25174	:	_	
+153-48	25175-25182	anatomy	_	
+153-49	25182-25183	,	_	
+153-50	25184-25192	function	_	
+153-51	25192-25193	,	_	
+153-52	25194-25197	and	_	
+153-53	25198-25207	relevance	_	
+153-54	25208-25210	to	_	
+153-55	25211-25218	disease	_	
+153-56	25219-25227	Cortical	_	
+153-57	25228-25232	hubs	_	
+153-58	25233-25241	revealed	_	
+153-59	25242-25244	by	_	
+153-60	25245-25254	intrinsic	_	
+153-61	25255-25265	functional	_	
+153-62	25266-25278	connectivity	_	
+153-63	25278-25279	:	_	
+153-64	25280-25287	mapping	_	
+153-65	25287-25288	,	_	
+153-66	25289-25299	assessment	_	
+153-67	25300-25302	of	_	
+153-68	25303-25312	stability	_	
+153-69	25312-25313	,	_	
+153-70	25314-25317	and	_	
+153-71	25318-25326	relation	_	
+153-72	25327-25329	to	_	
+153-73	25330-25341	Alzheimer's	_	
+153-74	25342-25349	disease	_	
+153-75	25350-25353	The	_	
+153-76	25354-25361	economy	_	
+153-77	25362-25364	of	_	
+153-78	25365-25370	brain	_	
+153-79	25371-25378	network	_	
+153-80	25379-25391	organization	_	
+153-81	25392-25403	Topological	_	
+153-82	25404-25416	organization	_	
+153-83	25417-25419	of	_	
+153-84	25420-25423	the	_	
+153-85	25424-25429	human	_	
+153-86	25430-25435	brain	_	
+153-87	25436-25446	functional	_	
+153-88	25447-25457	connectome	_	
+153-89	25458-25464	across	_	
+153-90	25465-25468	the	_	
+153-91	25469-25477	lifespan	_	
+153-92	25478-25481	The	_	
+153-93	25482-25486	hubs	_	
+153-94	25487-25489	of	_	
+153-95	25490-25493	the	_	
+153-96	25494-25499	human	_	
+153-97	25500-25510	connectome	_	
+153-98	25511-25514	are	_	
+153-99	25515-25524	generally	_	
+153-100	25525-25535	implicated	_	
+153-101	25536-25538	in	_	
+153-102	25539-25542	the	_	
+153-103	25543-25550	anatomy	_	
+153-104	25551-25553	of	_	
+153-105	25554-25559	brain	_	
+153-106	25560-25569	disorders	_	
+153-107	25570-25581	Identifying	_	
+153-108	25582-25585	and	_	
+153-109	25586-25593	mapping	_	
+153-110	25594-25606	connectivity	_	
+153-111	25607-25615	patterns	_	
+153-112	25616-25618	of	_	
+153-113	25619-25624	brain	_	
+153-114	25625-25632	network	_	
+153-115	25633-25637	hubs	_	
+153-116	25638-25640	in	_	
+153-117	25641-25652	Alzheimer's	_	
+153-118	25653-25660	disease	_	
+153-119	25661-25668	ZNF804A	_	
+153-120	25669-25673	risk	_	
+153-121	25674-25680	allele	_	
+153-122	25681-25683	is	_	
+153-123	25684-25694	associated	_	
+153-124	25695-25699	with	_	
+153-125	25700-25710	relatively	_	
+153-126	25711-25717	intact	_	
+153-127	25718-25722	gray	_	
+153-128	25723-25729	matter	_	
+153-129	25730-25736	volume	_	
+153-130	25737-25739	in	_	
+153-131	25740-25748	patients	_	
+153-132	25749-25753	with	_	
+153-133	25754-25767	schizophrenia	_	
+153-134	25768-25775	Cluster	_	
+153-135	25776-25783	failure	_	
+153-136	25783-25784	:	_	
+153-137	25785-25788	Why	_	
+153-138	25789-25793	fMRI	_	
+153-139	25794-25804	inferences	_	
+153-140	25805-25808	for	_	
+153-141	25809-25816	spatial	_	
+153-142	25817-25823	extent	_	
+153-143	25824-25828	have	_	
+153-144	25829-25837	inflated	_	
+153-145	25838-25852	false-positive	_	
+153-146	25853-25858	rates	_	
+153-147	25859-25872	Task-positive	_	
+153-148	25873-25883	functional	_	
+153-149	25884-25896	connectivity	_	
+153-150	25897-25899	of	_	
+153-151	25900-25903	the	_	
+153-152	25904-25911	default	_	
+153-153	25912-25916	mode	_	
+153-154	25917-25924	network	_	
+153-155	25925-25935	transcends	_	
+153-156	25936-25940	task	_	
+153-157	25941-25947	domain	_	
+153-158	25948-25954	Neural	_	
+153-159	25955-25965	mechanisms	_	
+153-160	25966-25968	of	_	
+153-161	25969-25970	a	_	
+153-162	25971-25982	genome-wide	_	
+153-163	25983-25992	supported	_	
+153-164	25993-26002	psychosis	_	
+153-165	26003-26010	variant	_	
+153-166	26012-26022	Functional	_	
+153-167	26023-26028	brain	_	
+153-168	26029-26037	networks	_	
+153-169	26038-26045	develop	_	
+153-170	26046-26050	from	_	
+153-171	26051-26052	a	_	
+153-172	26053-26054	“	_	
+153-173	26054-26059	local	_	
+153-174	26060-26062	to	_	
+153-175	26063-26074	distributed	_	
+153-176	26074-26075	”	_	
+153-177	26076-26088	organization	_	
+153-178	26089-26092	The	_	
+153-179	26093-26099	global	_	
+153-180	26100-26106	signal	_	
+153-181	26107-26110	and	_	
+153-182	26111-26119	observed	_	
+153-183	26120-26134	anticorrelated	_	
+153-184	26135-26142	resting	_	
+153-185	26143-26148	state	_	
+153-186	26149-26154	brain	_	
+153-187	26155-26163	networks	_	
+153-188	26164-26173	Increased	_	
+153-189	26174-26185	short-range	_	
+153-190	26186-26189	and	_	
+153-191	26190-26200	long-range	_	
+153-192	26201-26211	functional	_	
+153-193	26212-26224	connectivity	_	
+153-194	26225-26227	in	_	
+153-195	26228-26241	first-episode	_	
+153-196	26241-26242	,	_	
+153-197	26243-26259	medication-naive	_	
+153-198	26260-26273	schizophrenia	_	
+153-199	26274-26276	at	_	
+153-200	26277-26281	rest	_	
+153-201	26282-26291	Increased	_	
+153-202	26292-26302	cerebellar	_	
+153-203	26303-26313	functional	_	
+153-204	26314-26326	connectivity	_	
+153-205	26327-26331	with	_	
+153-206	26332-26335	the	_	
+153-207	26336-26348	default-mode	_	
+153-208	26349-26356	network	_	
+153-209	26357-26359	in	_	
+153-210	26360-26370	unaffected	_	
+153-211	26371-26379	siblings	_	
+153-212	26380-26382	of	_	
+153-213	26383-26396	schizophrenia	_	
+153-214	26397-26405	patients	_	
+153-215	26406-26408	at	_	
+153-216	26409-26413	rest	_	
+153-217	26414-26418	Save	_	
+153-218	26419-26422	the	_	
+153-219	26423-26429	global	_	
+153-220	26429-26430	:	_	
+153-221	26431-26437	global	_	
+153-222	26438-26444	signal	_	
+153-223	26445-26457	connectivity	_	
+153-224	26458-26460	as	_	
+153-225	26461-26462	a	_	
+153-226	26463-26467	tool	_	
+153-227	26468-26471	for	_	
+153-228	26472-26480	studying	_	
+153-229	26481-26489	clinical	_	
+153-230	26490-26501	populations	_	
+153-231	26502-26506	with	_	
+153-232	26507-26517	functional	_	
+153-233	26518-26526	magnetic	_	
+153-234	26527-26536	resonance	_	
+153-235	26537-26544	imaging	_	
+153-236	26545-26548	The	_	
+153-237	26549-26555	impact	_	
+153-238	26556-26558	of	_	
+153-239	26559-26560	a	_	
+153-240	26561-26572	genome-wide	_	
+153-241	26573-26582	supported	_	
+153-242	26583-26592	psychosis	_	
+153-243	26593-26600	variant	_	
+153-244	26601-26603	in	_	
+153-245	26604-26607	the	_	
+153-246	26608-26615	ZNF804A	_	
+153-247	26616-26620	gene	_	
+153-248	26621-26623	on	_	
+153-249	26624-26630	memory	_	
+153-250	26631-26639	function	_	
+153-251	26640-26642	in	_	
+153-252	26643-26656	schizophrenia	_	
+153-253	26657-26668	Small-world	_	
+153-254	26669-26679	anatomical	_	
+153-255	26680-26688	networks	_	
+153-256	26689-26691	in	_	
+153-257	26692-26695	the	_	
+153-258	26696-26701	human	_	
+153-259	26702-26707	brain	_	
+153-260	26708-26716	revealed	_	
+153-261	26717-26719	by	_	
+153-262	26720-26728	cortical	_	
+153-263	26729-26738	thickness	_	
+153-264	26739-26743	from	_	
+153-265	26744-26747	MRI	_	
+153-266	26748-26757	Rich-club	_	
+153-267	26758-26770	organization	_	
+153-268	26771-26773	of	_	
+153-269	26774-26777	the	_	
+153-270	26778-26783	human	_	
+153-271	26784-26794	connectome	_	
+153-272	26795-26802	Network	_	
+153-273	26803-26807	hubs	_	
+153-274	26808-26810	in	_	
+153-275	26811-26814	the	_	
+153-276	26815-26820	human	_	
+153-277	26821-26826	brain	_	
+153-278	26827-26838	Development	_	
+153-279	26839-26841	of	_	
+153-280	26842-26850	anterior	_	
+153-281	26851-26860	cingulate	_	
+153-282	26861-26871	functional	_	
+153-283	26872-26884	connectivity	_	
+153-284	26885-26889	from	_	
+153-285	26890-26894	late	_	
+153-286	26895-26904	childhood	_	
+153-287	26905-26907	to	_	
+153-288	26908-26913	early	_	
+153-289	26914-26923	adulthood	_	
+153-290	26924-26935	Overlapping	_	
+153-291	26936-26941	brain	_	
+153-292	26942-26950	activity	_	
+153-293	26951-26958	between	_	
+153-294	26959-26967	episodic	_	
+153-295	26968-26974	memory	_	
+153-296	26975-26983	encoding	_	
+153-297	26984-26987	and	_	
+153-298	26988-26997	retrieval	_	
+153-299	26997-26998	:	_	
+153-300	26999-27004	roles	_	
+153-301	27005-27007	of	_	
+153-302	27008-27011	the	_	
+153-303	27012-27025	task-positive	_	
+153-304	27026-27029	and	_	
+153-305	27030-27043	task-negative	_	
+153-306	27044-27052	networks	_	
+153-307	27053-27064	Genome-wide	_	
+153-308	27065-27074	supported	_	
+153-309	27075-27084	psychosis	_	
+153-310	27085-27089	risk	_	
+153-311	27090-27097	variant	_	
+153-312	27098-27100	in	_	
+153-313	27101-27108	ZNF804A	_	
+153-314	27109-27113	gene	_	
+153-315	27114-27117	and	_	
+153-316	27118-27124	impact	_	
+153-317	27125-27127	on	_	
+153-318	27128-27142	cortico-limbic	_	
+153-319	27143-27145	WM	_	
+153-320	27146-27155	integrity	_	
+153-321	27156-27158	in	_	
+153-322	27159-27172	schizophrenia	_	
+153-323	27173-27176	The	_	
+153-324	27177-27181	role	_	
+153-325	27182-27184	of	_	
+153-326	27185-27188	the	_	
+153-327	27189-27198	posterior	_	
+153-328	27199-27208	cingulate	_	
+153-329	27209-27215	cortex	_	
+153-330	27216-27218	in	_	
+153-331	27219-27228	cognition	_	
+153-332	27229-27232	and	_	
+153-333	27233-27240	disease	_	
+153-334	27241-27249	Coupling	_	
+153-335	27250-27252	of	_	
+153-336	27253-27263	functional	_	
+153-337	27264-27276	connectivity	_	
+153-338	27277-27280	and	_	
+153-339	27281-27289	regional	_	
+153-340	27290-27298	cerebral	_	
+153-341	27299-27304	blood	_	
+153-342	27305-27309	flow	_	
+153-343	27310-27317	reveals	_	
+153-344	27318-27319	a	_	
+153-345	27320-27333	physiological	_	
+153-346	27334-27339	basis	_	
+153-347	27340-27343	for	_	
+153-348	27344-27351	network	_	
+153-349	27352-27356	hubs	_	
+153-350	27357-27359	of	_	
+153-351	27360-27363	the	_	
+153-352	27364-27369	human	_	
+153-353	27370-27375	brain	_	
+153-354	27376-27383	Network	_	
+153-355	27384-27392	analysis	_	
+153-356	27393-27395	of	_	
+153-357	27396-27404	auditory	_	
+153-358	27405-27419	hallucinations	_	
+153-359	27420-27422	in	_	
+153-360	27423-27435	nonpsychotic	_	
+153-361	27436-27447	individuals	_	
+153-362	27448-27452	From	_	
+153-363	27453-27462	sensation	_	
+153-364	27463-27465	to	_	
+153-365	27466-27475	cognition	_	
+153-366	27476-27483	Further	_	
+153-367	27484-27492	evidence	_	
+153-368	27493-27496	for	_	
+153-369	27497-27500	the	_	
+153-370	27501-27507	impact	_	
+153-371	27508-27510	of	_	
+153-372	27511-27512	a	_	
+153-373	27513-27534	genome-wide-supported	_	
+153-374	27535-27544	psychosis	_	
+153-375	27545-27549	risk	_	
+153-376	27550-27557	variant	_	
+153-377	27558-27560	in	_	
+153-378	27561-27568	ZNF804A	_	
+153-379	27569-27571	on	_	
+153-380	27572-27575	the	_	
+153-381	27576-27582	Theory	_	
+153-382	27583-27585	of	_	
+153-383	27586-27590	Mind	_	
+153-384	27591-27598	Network	_	
+153-385	27599-27602	The	_	
+153-386	27603-27609	impact	_	
+153-387	27610-27612	of	_	
+153-388	27613-27619	global	_	
+153-389	27620-27626	signal	_	
+153-390	27627-27637	regression	_	
+153-391	27638-27640	on	_	
+153-392	27641-27648	resting	_	
+153-393	27649-27654	state	_	
+153-394	27655-27667	correlations	_	
+153-395	27667-27668	:	_	
+153-396	27669-27672	are	_	
+153-397	27673-27688	anti-correlated	_	
+153-398	27689-27697	networks	_	
+153-399	27698-27708	introduced	_	
+153-400	27708-27709	?	_	
+
+#Text=ZNF804A genetic variation (rs1344706) affects brain grey but not white matter in schizophrenia and healthy subjects
+#Text=Identification of loci associated with schizophrenia by genome-wide association and follow-up
+#Text=Partial support for ZNF804A genotype-dependent alterations in prefrontal connectivity
+#Text=A default mode of brain function
+#Text=Altered cortical network dynamics: a potential intermediate phenotype for schizophrenia and association with ZNF804A
+#Text=Complex network measures of brain connectivity: uses and interpretations
+#Text=Correcting brain-wide correlation differences in resting-state FMRI
+#Text=ZNF804A and cortical structure in schizophrenia: in vivo and postmortem studies
+#Text=Schizophrenia as a complex trait: evidence from a meta-analysis of twin studies
+#Text=Psychosis susceptibility gene ZNF804A and cognitive performance in schizophrenia
+#Text=Disrupted resting-state functional connectivity in minimally treated chronic schizophrenia
+#Text=Altered functional connectivity of the cingulate subregions in schizophrenia
+#Text=GRETNA: a graph theoretical network analysis toolbox for imaging connectomics
+#Text=Association of the ZNF804A gene polymorphism rs1344706 with white matter density changes in Chinese schizophrenia
+#Text=ZNF804A rs1344706 is associated with cortical thickness, surface area, and cortical volume of the unmedicated first episode schizophrenia and healthy controls
+#Text=Standardizing the intrinsic brain: towards robust measurement of inter-individual variation in 1000 functional connectomes
+#Text=Effect of rs1063843 in the CAMKK2 gene on the dorsolateral prefrontal cortex
+#Text=Effect of rs1344706 in the ZNF804A gene on the connectivity between the hippocampal formation and posterior cingulate cortex
+#Text=Disrutpted resting-state functional architecture of the brain after 45-day simulated microgravity
+#Text=Altered brain network in amyotrophic lateral sclerosis: a resting graph theory-based network study at voxel-wise level
+#Text=Network centrality in the human functional connectome
+#Text=Supplementary data
+#Text=Supplementary data to this article can be found online at https://doi.org/10.1016/j.nicl.2017.12.017.
+154-1	27710-27717	ZNF804A	_	
+154-2	27718-27725	genetic	_	
+154-3	27726-27735	variation	_	
+154-4	27736-27737	(	_	
+154-5	27737-27746	rs1344706	_	
+154-6	27746-27747	)	_	
+154-7	27748-27755	affects	_	
+154-8	27756-27761	brain	_	
+154-9	27762-27766	grey	_	
+154-10	27767-27770	but	_	
+154-11	27771-27774	not	_	
+154-12	27775-27780	white	_	
+154-13	27781-27787	matter	_	
+154-14	27788-27790	in	_	
+154-15	27791-27804	schizophrenia	_	
+154-16	27805-27808	and	_	
+154-17	27809-27816	healthy	_	
+154-18	27817-27825	subjects	_	
+154-19	27826-27840	Identification	_	
+154-20	27841-27843	of	_	
+154-21	27844-27848	loci	_	
+154-22	27849-27859	associated	_	
+154-23	27860-27864	with	_	
+154-24	27865-27878	schizophrenia	_	
+154-25	27879-27881	by	_	
+154-26	27882-27893	genome-wide	_	
+154-27	27894-27905	association	_	
+154-28	27906-27909	and	_	
+154-29	27910-27919	follow-up	_	
+154-30	27920-27927	Partial	_	
+154-31	27928-27935	support	_	
+154-32	27936-27939	for	_	
+154-33	27940-27947	ZNF804A	_	
+154-34	27948-27966	genotype-dependent	_	
+154-35	27967-27978	alterations	_	
+154-36	27979-27981	in	_	
+154-37	27982-27992	prefrontal	_	
+154-38	27993-28005	connectivity	_	
+154-39	28006-28007	A	_	
+154-40	28008-28015	default	_	
+154-41	28016-28020	mode	_	
+154-42	28021-28023	of	_	
+154-43	28024-28029	brain	_	
+154-44	28030-28038	function	_	
+154-45	28039-28046	Altered	_	
+154-46	28047-28055	cortical	_	
+154-47	28056-28063	network	_	
+154-48	28064-28072	dynamics	_	
+154-49	28072-28073	:	_	
+154-50	28074-28075	a	_	
+154-51	28076-28085	potential	_	
+154-52	28086-28098	intermediate	_	
+154-53	28099-28108	phenotype	_	
+154-54	28109-28112	for	_	
+154-55	28113-28126	schizophrenia	_	
+154-56	28127-28130	and	_	
+154-57	28131-28142	association	_	
+154-58	28143-28147	with	_	
+154-59	28148-28155	ZNF804A	_	
+154-60	28156-28163	Complex	_	
+154-61	28164-28171	network	_	
+154-62	28172-28180	measures	_	
+154-63	28181-28183	of	_	
+154-64	28184-28189	brain	_	
+154-65	28190-28202	connectivity	_	
+154-66	28202-28203	:	_	
+154-67	28204-28208	uses	_	
+154-68	28209-28212	and	_	
+154-69	28213-28228	interpretations	_	
+154-70	28229-28239	Correcting	_	
+154-71	28240-28250	brain-wide	_	
+154-72	28251-28262	correlation	_	
+154-73	28263-28274	differences	_	
+154-74	28275-28277	in	_	
+154-75	28278-28291	resting-state	_	
+154-76	28292-28296	FMRI	_	
+154-77	28297-28304	ZNF804A	_	
+154-78	28305-28308	and	_	
+154-79	28309-28317	cortical	_	
+154-80	28318-28327	structure	_	
+154-81	28328-28330	in	_	
+154-82	28331-28344	schizophrenia	_	
+154-83	28344-28345	:	_	
+154-84	28346-28348	in	_	
+154-85	28349-28353	vivo	_	
+154-86	28354-28357	and	_	
+154-87	28358-28368	postmortem	_	
+154-88	28369-28376	studies	_	
+154-89	28377-28390	Schizophrenia	_	
+154-90	28391-28393	as	_	
+154-91	28394-28395	a	_	
+154-92	28396-28403	complex	_	
+154-93	28404-28409	trait	_	
+154-94	28409-28410	:	_	
+154-95	28411-28419	evidence	_	
+154-96	28420-28424	from	_	
+154-97	28425-28426	a	_	
+154-98	28427-28440	meta-analysis	_	
+154-99	28441-28443	of	_	
+154-100	28444-28448	twin	_	
+154-101	28449-28456	studies	_	
+154-102	28457-28466	Psychosis	_	
+154-103	28467-28481	susceptibility	_	
+154-104	28482-28486	gene	_	
+154-105	28487-28494	ZNF804A	_	
+154-106	28495-28498	and	_	
+154-107	28499-28508	cognitive	_	
+154-108	28509-28520	performance	_	
+154-109	28521-28523	in	_	
+154-110	28524-28537	schizophrenia	_	
+154-111	28538-28547	Disrupted	_	
+154-112	28548-28561	resting-state	_	
+154-113	28562-28572	functional	_	
+154-114	28573-28585	connectivity	_	
+154-115	28586-28588	in	_	
+154-116	28589-28598	minimally	_	
+154-117	28599-28606	treated	_	
+154-118	28607-28614	chronic	_	
+154-119	28615-28628	schizophrenia	_	
+154-120	28629-28636	Altered	_	
+154-121	28637-28647	functional	_	
+154-122	28648-28660	connectivity	_	
+154-123	28661-28663	of	_	
+154-124	28664-28667	the	_	
+154-125	28668-28677	cingulate	_	
+154-126	28678-28688	subregions	_	
+154-127	28689-28691	in	_	
+154-128	28692-28705	schizophrenia	_	
+154-129	28706-28712	GRETNA	_	
+154-130	28712-28713	:	_	
+154-131	28714-28715	a	_	
+154-132	28716-28721	graph	_	
+154-133	28722-28733	theoretical	_	
+154-134	28734-28741	network	_	
+154-135	28742-28750	analysis	_	
+154-136	28751-28758	toolbox	_	
+154-137	28759-28762	for	_	
+154-138	28763-28770	imaging	_	
+154-139	28771-28783	connectomics	_	
+154-140	28784-28795	Association	_	
+154-141	28796-28798	of	_	
+154-142	28799-28802	the	_	
+154-143	28803-28810	ZNF804A	_	
+154-144	28811-28815	gene	_	
+154-145	28816-28828	polymorphism	_	
+154-146	28829-28838	rs1344706	_	
+154-147	28839-28843	with	_	
+154-148	28844-28849	white	_	
+154-149	28850-28856	matter	_	
+154-150	28857-28864	density	_	
+154-151	28865-28872	changes	_	
+154-152	28873-28875	in	_	
+154-153	28876-28883	Chinese	_	
+154-154	28884-28897	schizophrenia	_	
+154-155	28898-28905	ZNF804A	_	
+154-156	28906-28915	rs1344706	_	
+154-157	28916-28918	is	_	
+154-158	28919-28929	associated	_	
+154-159	28930-28934	with	_	
+154-160	28935-28943	cortical	_	
+154-161	28944-28953	thickness	_	
+154-162	28953-28954	,	_	
+154-163	28955-28962	surface	_	
+154-164	28963-28967	area	_	
+154-165	28967-28968	,	_	
+154-166	28969-28972	and	_	
+154-167	28973-28981	cortical	_	
+154-168	28982-28988	volume	_	
+154-169	28989-28991	of	_	
+154-170	28992-28995	the	_	
+154-171	28996-29007	unmedicated	_	
+154-172	29008-29013	first	_	
+154-173	29014-29021	episode	_	
+154-174	29022-29035	schizophrenia	_	
+154-175	29036-29039	and	_	
+154-176	29040-29047	healthy	_	
+154-177	29048-29056	controls	_	
+154-178	29057-29070	Standardizing	_	
+154-179	29071-29074	the	_	
+154-180	29075-29084	intrinsic	_	
+154-181	29085-29090	brain	_	
+154-182	29090-29091	:	_	
+154-183	29092-29099	towards	_	
+154-184	29100-29106	robust	_	
+154-185	29107-29118	measurement	_	
+154-186	29119-29121	of	_	
+154-187	29122-29138	inter-individual	_	
+154-188	29139-29148	variation	_	
+154-189	29149-29151	in	_	
+154-190	29152-29156	1000	_	
+154-191	29157-29167	functional	_	
+154-192	29168-29179	connectomes	_	
+154-193	29180-29186	Effect	_	
+154-194	29187-29189	of	_	
+154-195	29190-29199	rs1063843	_	
+154-196	29200-29202	in	_	
+154-197	29203-29206	the	_	
+154-198	29207-29213	CAMKK2	_	
+154-199	29214-29218	gene	_	
+154-200	29219-29221	on	_	
+154-201	29222-29225	the	_	
+154-202	29226-29238	dorsolateral	_	
+154-203	29239-29249	prefrontal	_	
+154-204	29250-29256	cortex	_	
+154-205	29257-29263	Effect	_	
+154-206	29264-29266	of	_	
+154-207	29267-29276	rs1344706	_	
+154-208	29277-29279	in	_	
+154-209	29280-29283	the	_	
+154-210	29284-29291	ZNF804A	_	
+154-211	29292-29296	gene	_	
+154-212	29297-29299	on	_	
+154-213	29300-29303	the	_	
+154-214	29304-29316	connectivity	_	
+154-215	29317-29324	between	_	
+154-216	29325-29328	the	_	
+154-217	29329-29340	hippocampal	_	
+154-218	29341-29350	formation	_	
+154-219	29351-29354	and	_	
+154-220	29355-29364	posterior	_	
+154-221	29365-29374	cingulate	_	
+154-222	29375-29381	cortex	_	
+154-223	29382-29392	Disrutpted	_	
+154-224	29393-29406	resting-state	_	
+154-225	29407-29417	functional	_	
+154-226	29418-29430	architecture	_	
+154-227	29431-29433	of	_	
+154-228	29434-29437	the	_	
+154-229	29438-29443	brain	_	
+154-230	29444-29449	after	_	
+154-231	29450-29452	45	_	
+154-232	29452-29453	-	_	
+154-233	29453-29456	day	_	
+154-234	29457-29466	simulated	_	
+154-235	29467-29479	microgravity	_	
+154-236	29480-29487	Altered	_	
+154-237	29488-29493	brain	_	
+154-238	29494-29501	network	_	
+154-239	29502-29504	in	_	
+154-240	29505-29516	amyotrophic	_	
+154-241	29517-29524	lateral	_	
+154-242	29525-29534	sclerosis	_	
+154-243	29534-29535	:	_	
+154-244	29536-29537	a	_	
+154-245	29538-29545	resting	_	
+154-246	29546-29551	graph	_	
+154-247	29552-29564	theory-based	_	
+154-248	29565-29572	network	_	
+154-249	29573-29578	study	_	
+154-250	29579-29581	at	_	
+154-251	29582-29592	voxel-wise	_	
+154-252	29593-29598	level	_	
+154-253	29599-29606	Network	_	
+154-254	29607-29617	centrality	_	
+154-255	29618-29620	in	_	
+154-256	29621-29624	the	_	
+154-257	29625-29630	human	_	
+154-258	29631-29641	functional	_	
+154-259	29642-29652	connectome	_	
+154-260	29653-29666	Supplementary	_	
+154-261	29667-29671	data	_	
+154-262	29672-29685	Supplementary	_	
+154-263	29686-29690	data	_	
+154-264	29691-29693	to	_	
+154-265	29694-29698	this	_	
+154-266	29699-29706	article	_	
+154-267	29707-29710	can	_	
+154-268	29711-29713	be	_	
+154-269	29714-29719	found	_	
+154-270	29720-29726	online	_	
+154-271	29727-29729	at	_	
+154-272	29730-29735	https	_	
+154-273	29735-29736	:	_	
+154-274	29736-29737	/	_	
+154-275	29737-29738	/	_	
+154-276	29738-29745	doi.org	_	
+154-277	29745-29746	/	_	
+154-278	29746-29753	10.1016	_	
+154-279	29753-29754	/	_	
+154-280	29754-29760	j.nicl	_	
+154-281	29760-29772	.2017.12.017	_	
+154-282	29772-29773	.	_	
