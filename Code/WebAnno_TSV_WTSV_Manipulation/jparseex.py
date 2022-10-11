@@ -27,3 +27,6 @@ for doc_nb, doc in enumerate(documents):
         print(f"Annotation # {anno_nb}\nlabel: {annotation['label_name']}")
         print(f"selected text:\n{highlighted_text}\n")
     print(f"{'':-<70}")
+
+
+# - < = -<
