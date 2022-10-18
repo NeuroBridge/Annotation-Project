@@ -30,4 +30,5 @@ Imaging comparisons were cluster thresholded using the FSL tool easythresh, usin
 """
 
 dammit = UnicodeDammit(testblock, ['UTF-8', 'UTF-16'])
+
 print(dammit.original_encoding)
