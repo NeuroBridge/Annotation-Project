@@ -1,4 +1,5 @@
 # A basic WebAnno write example!
+#
 # MDT
 
 from webanno_tsv import Document, Annotation
